@@ -1,0 +1,296 @@
+[
+  {
+    "background": "#111111",
+    "font": "Lora",
+    "fontSize": "2.25rem",
+    "fontColor": "#ffffff"
+  },
+  {
+    "background": "#1a1a2e",
+    "font": "Georgia",
+    "fontSize": "2.25rem",
+    "fontColor": "#e0e0e0"
+  },
+  {
+    "background": "#0d2818",
+    "font": "Courier New",
+    "fontSize": "2.25rem",
+    "fontColor": "#a0d2a0"
+  },
+  {
+    "background": "#1a0a2e",
+    "font": "Palatino",
+    "fontSize": "2.25rem",
+    "fontColor": "#e0b0ff"
+  },
+  {
+    "background": "#2a1a0a",
+    "font": "Garamond",
+    "fontSize": "2.25rem",
+    "fontColor": "#ffd7a0"
+  },
+  {
+    "background": "#0a1628",
+    "font": "Helvetica",
+    "fontSize": "2.25rem",
+    "fontColor": "#8ab4f8"
+  },
+  {
+    "background": "#2a0a1a",
+    "font": "Times New Roman",
+    "fontSize": "2.25rem",
+    "fontColor": "#f8a0b4"
+  },
+  {
+    "background": "#4a1a0a",
+    "font": "Trebuchet MS",
+    "fontSize": "2.25rem",
+    "fontColor": "#ffcc80"
+  },
+  {
+    "background": "#2d2d2d",
+    "font": "Arial",
+    "fontSize": "2.25rem",
+    "fontColor": "#e0e0e0"
+  },
+  {
+    "background": "#0a2a1a",
+    "font": "Segoe UI",
+    "fontSize": "2.25rem",
+    "fontColor": "#80d0a0"
+  },
+  {
+    "background": "/images/bg-cachu.jpg",
+    "font": "Bitcount Prop Single",
+    "fontSize": "2.25rem",
+    "fontColor": "#ffffff"
+  },
+  {
+    "background": "/images/aaron-burden-BxmJUeJrlp4-unsplash.jpg",
+    "font": "Playfair Display",
+    "fontSize": "2.25rem",
+    "fontColor": "#f5f0e8"
+  },
+  {
+    "background": "/images/altinay-dinc-LluELtL5mK4-unsplash.jpg",
+    "font": "Roboto",
+    "fontSize": "2.25rem",
+    "fontColor": "#e8e0d8"
+  },
+  {
+    "background": "/images/aron-visuals-LSFuPFE9vKE-unsplash.jpg",
+    "font": "Open Sans",
+    "fontSize": "2.25rem",
+    "fontColor": "#faf3e0"
+  },
+  {
+    "background": "/images/benjamin-deyoung-lTZffd_tOnM-unsplash.jpg",
+    "font": "Lato",
+    "fontSize": "2.25rem",
+    "fontColor": "#f0ece4"
+  },
+  {
+    "background": "/images/casey-horner-G2jAOMGGlPE-unsplash.jpg",
+    "font": "Montserrat",
+    "fontSize": "2.25rem",
+    "fontColor": "#e6e0d4"
+  },
+  {
+    "background": "/images/damiano-baschiera-d4feocYfzAM-unsplash.jpg",
+    "font": "Oswald",
+    "fontSize": "2.25rem",
+    "fontColor": "#f2eee9"
+  },
+  {
+    "background": "/images/dana-ward-6JffLQi_XqY-unsplash.jpg",
+    "font": "Raleway",
+    "fontSize": "2.25rem",
+    "fontColor": "#f7f1e6"
+  },
+  {
+    "background": "/images/dave-hoefler-lsoogGC_5dg-unsplash.jpg",
+    "font": "Poppins",
+    "fontSize": "2.25rem",
+    "fontColor": "#eae2d5"
+  },
+  {
+    "background": "/images/emil-widlund-xrbbXIXAWY0-unsplash.jpg",
+    "font": "Merriweather",
+    "fontSize": "2.25rem",
+    "fontColor": "#f4ede3"
+  },
+  {
+    "background": "/images/eric-zhu-aJOslo_ZuWM-unsplash.jpg",
+    "font": "PT Serif",
+    "fontSize": "2.25rem",
+    "fontColor": "#f0e9dc"
+  },
+  {
+    "background": "/images/fang-wei-lin-H1IRUS1vEFA-unsplash.jpg",
+    "font": "Work Sans",
+    "fontSize": "2.25rem",
+    "fontColor": "#faf5eb"
+  },
+  {
+    "background": "/images/filip-zrnzevic-QsWG0kjPQRY-unsplash.jpg",
+    "font": "Crimson Text",
+    "fontSize": "2.25rem",
+    "fontColor": "#efe6d8"
+  },
+  {
+    "background": "/images/hans-ZqSDrFeAbCg-unsplash.jpg",
+    "font": "Inter",
+    "fontSize": "2.25rem",
+    "fontColor": "#f5efe7"
+  },
+  {
+    "background": "/images/ian-dooley-hpTH5b6mo2s-unsplash.jpg",
+    "font": "DM Sans",
+    "fontSize": "2.25rem",
+    "fontColor": "#faf2e5"
+  },
+  {
+    "background": "/images/jan-willem-FobwhDUgdrk-unsplash.jpg",
+    "font": "Nunito",
+    "fontSize": "2.25rem",
+    "fontColor": "#f3ede4"
+  },
+  {
+    "background": "/images/jonathan-klok-NeRzxya_zyI-unsplash.jpg",
+    "font": "Rubik",
+    "fontSize": "2.25rem",
+    "fontColor": "#f0e8dc"
+  },
+  {
+    "background": "/images/kazuend-2KXEb_8G5vo-unsplash.jpg",
+    "font": "Cabin",
+    "fontSize": "2.25rem",
+    "fontColor": "#eae0d0"
+  },
+  {
+    "background": "/images/kenrick-mills-1h2Pg97SXfA-unsplash.jpg",
+    "font": "Karla",
+    "fontSize": "2.25rem",
+    "fontColor": "#f5f0ea"
+  },
+  {
+    "background": "/images/kourosh-qaffari-RrhhzitYizg-unsplash.jpg",
+    "font": "Barlow",
+    "fontSize": "2.25rem",
+    "fontColor": "#faf4e8"
+  },
+  {
+    "background": "/images/linus-nylund-JP23z_-dA74-unsplash.jpg",
+    "font": "Fira Sans",
+    "fontSize": "2.25rem",
+    "fontColor": "#f2ece4"
+  },
+  {
+    "background": "/images/lucie-morel-Wk63a3_NMf0-unsplash.jpg",
+    "font": "Source Serif 4",
+    "fontSize": "2.25rem",
+    "fontColor": "#f7f0e6"
+  },
+  {
+    "background": "/images/marc-zimmer-1dNujhlCTYQ-unsplash.jpg",
+    "font": "Lexend",
+    "fontSize": "2.25rem",
+    "fontColor": "#ede3d5"
+  },
+  {
+    "background": "/images/maxim-tajer-x3S1aGQNgro-unsplash.jpg",
+    "font": "Sora",
+    "fontSize": "2.25rem",
+    "fontColor": "#faf0e2"
+  },
+  {
+    "background": "/images/max-saeling-ef0sXQtnCYU-unsplash.jpg",
+    "font": "Plus Jakarta Sans",
+    "fontSize": "2.25rem",
+    "fontColor": "#faf5ed"
+  },
+  {
+    "background": "/images/nahil-naseer-xljtGZ2-P3Y-unsplash.jpg",
+    "font": "Space Grotesk",
+    "fontSize": "2.25rem",
+    "fontColor": "#e8e0d6"
+  },
+  {
+    "background": "/images/nani-chavez-aPs_QDIuPUM-unsplash.jpg",
+    "font": "Manrope",
+    "fontSize": "2.25rem",
+    "fontColor": "#f0e8db"
+  },
+  {
+    "background": "/images/neom-i60yUhfWeYI-unsplash.jpg",
+    "font": "Urbanist",
+    "fontSize": "2.25rem",
+    "fontColor": "#faf6f0"
+  },
+  {
+    "background": "/images/norbert-toth-_zUAcIvs-ME-unsplash.jpg",
+    "font": "Outfit",
+    "fontSize": "2.25rem",
+    "fontColor": "#f5eee4"
+  },
+  {
+    "background": "/images/olena-bohovyk-Ft_Wn-K5YH8-unsplash.jpg",
+    "font": "Figtree",
+    "fontSize": "2.25rem",
+    "fontColor": "#faf1e5"
+  },
+  {
+    "background": "/images/ravi-sharma-cO9_joZ1FdA-unsplash.jpg",
+    "font": "DM Serif Display",
+    "fontSize": "2.25rem",
+    "fontColor": "#faf5ec"
+  },
+  {
+    "background": "/images/suhyeon-choi-HCDugQDdtfc-unsplash.jpg",
+    "font": "Be Vietnam Pro",
+    "fontSize": "2.25rem",
+    "fontColor": "#f0ebe4"
+  },
+  {
+    "background": "/images/teemu-paananen-OOE4xAnBhKo-unsplash.jpg",
+    "font": "Jost",
+    "fontSize": "2.25rem",
+    "fontColor": "#eae0d0"
+  },
+  {
+    "background": "/images/thom-milkovic-qPPWNeFVLFQ-unsplash.jpg",
+    "font": "Hanken Grotesk",
+    "fontSize": "2.25rem",
+    "fontColor": "#faf3e8"
+  },
+  {
+    "background": "/images/tim-van-cleef-1JBOZwuW7sI-unsplash.jpg",
+    "font": "Archivo",
+    "fontSize": "2.25rem",
+    "fontColor": "#f7efe4"
+  },
+  {
+    "background": "/images/victoria-duarte-WFJwyrx7fns-unsplash.jpg",
+    "font": "Libre Franklin",
+    "fontSize": "2.25rem",
+    "fontColor": "#f2e8db"
+  },
+  {
+    "background": "/images/vlad-bagacian-xh8ZCQGWBeg-unsplash.jpg",
+    "font": "Mulish",
+    "fontSize": "2.25rem",
+    "fontColor": "#faf5ed"
+  },
+  {
+    "background": "/images/wil-stewart-T26KCgCPsCI-unsplash.jpg",
+    "font": "Onest",
+    "fontSize": "2.25rem",
+    "fontColor": "#e8e2d8"
+  },
+  {
+    "background": "/images/zoltan-tasi-P2lk-0bBVm0-unsplash.jpg",
+    "font": "Instrument Serif",
+    "fontSize": "2.25rem",
+    "fontColor": "#faf0e0"
+  }
+]

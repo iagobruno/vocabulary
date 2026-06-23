@@ -15,17 +15,17 @@ const emit = defineEmits<{ close: [] }>();
         <div class="backdrop absolute inset-0 bg-black/60" @click="emit('close')"></div>
 
         <div
-          class="sheet-panel relative w-full max-h-[70vh] bg-zinc-900 rounded-t-2xl overflow-y-auto"
+          class="sheet-panel relative w-full max-h-[85dvh] bg-zinc-900 rounded-t-2xl overflow-y-auto scrollbar-thin scheme-dark"
         >
           <button
             type="button"
-            class="absolute top-3 right-3 opacity-80 z-100 transition-all cursor-pointer hover:opacity-100 active:scale-80 "
+            class="absolute top-4 right-3 opacity-80 z-100 transition-all cursor-pointer hover:opacity-100 active:scale-80 "
             @click="emit('close')"
           >
             <BsX class="size-7" />
           </button>
 
-          <div class="sticky top-0 z-10 flex items-center justify-between pl-5 pt-5 pb-0 pr-12">
+          <div class="flex items-center justify-between pt-8 pb-0 pl-5 pr-12">
             <slot name="header"> </slot>
           </div>
 

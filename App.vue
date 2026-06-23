@@ -1,12 +1,23 @@
 <script setup lang="ts">
-import { ref, provide } from 'vue';
+import { ref, computed, provide } from 'vue';
 import { FaHandsClapping } from '@kalimahapps/vue-icons/fa';
 import { useWordsStore } from './stores/feed.ts';
+import { useThemeStore } from './stores/theme.ts';
 import WordFeed from './components/WordFeed.vue';
 import FeedTopActions from './components/FeedTopActions.vue';
+import { isColor } from './lib/utils.ts';
 
 const store = useWordsStore();
+const themeStore = useThemeStore();
 const containerRef = ref<HTMLElement | null>(null);
+
+const bgStyle = computed(() => {
+  const bg = themeStore.currentTheme.background;
+  if (isColor(bg)) {
+    return { backgroundColor: bg };
+  }
+  return { backgroundImage: `url(${bg})` };
+});
 
 function triggerSaveFlash() {
   const container = containerRef.value;
@@ -43,19 +54,22 @@ function triggerSaveFlash() {
       { transform: 'scale(0) rotate(10deg)', opacity: 0, offset: 1 },
     ],
     {
-      duration: 700,
+      duration: 800,
       easing: 'cubic-bezier(0.4, 0, 0.2, 1)',
       fill: 'forwards',
     },
   );
 
   setTimeout(() => {
-    flash.remove();
     button.animate(
       [{ transform: 'scale(1)' }, { transform: 'scale(1.3)' }, { transform: 'scale(1)' }],
       { duration: 600, easing: 'cubic-bezier(0.34, 1.56, 0.64, 1)' },
     );
   }, 400);
+
+  anim.onfinish = () => {
+    flash.remove();
+  };
 }
 
 provide('triggerSaveFlash', triggerSaveFlash);
@@ -64,18 +78,25 @@ provide('triggerSaveFlash', triggerSaveFlash);
 <template>
   <div
     ref="containerRef"
-    class="h-dvh max-w-full md:aspect-9/16 mx-auto rounded-md overflow-hidden relative bg-black ring ring-white/5 shadow-[0_0_30px_10px_rgba(255,255,255,0.1)]"
+    class="h-dvh max-w-full mx-auto md:aspect-9/16 md:rounded-md overflow-hidden relative z-2 bg-black ring ring-white/5 shadow-[0_0_30px_10px_rgba(255,255,255,0.1)]"
   >
-    <FeedTopActions />
+    <div class="h-full w-full relative z-2">
+      <FeedTopActions />
+
+      <WordFeed />
+    </div>
 
     <div
-      v-if="store.remainingWords.length === 0"
-      class="flex h-dvh flex-col items-center justify-center px-6 text-center"
-    >
-      <FaHandsClapping class="mb-6 size-20 text-yellow-400" />
-      <p class="text-2xl font-bold text-white">Você viu todas as palavras!</p>
-      <p class="mt-2 text-gray-400">Volta outro dia para aprender mais 👏</p>
-    </div>
-    <WordFeed v-else />
+      class="absolute z-1 inset-0 bg-cover bg-center scale-110 pointer-events-none"
+      :style="bgStyle"
+      :class="{
+        'opacity-55': !isColor(themeStore.currentTheme.background),
+      }"
+    />
   </div>
+
+  <div
+    class="absolute z-1 inset-0 opacity-50 blur-md bg-cover bg-center pointer-events-none"
+    :style="bgStyle"
+  />
 </template>

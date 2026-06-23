@@ -1,12 +1,14 @@
 <script setup lang="ts">
 import { ref, computed } from 'vue';
 import { BsBookmarkFill } from '@kalimahapps/vue-icons/bs';
+import { useThemeStore } from '../stores/theme';
 import { useWordsStore } from '../stores/feed';
 import ModalSheet from './ModalSheet.vue';
 
 defineProps<{ show: boolean }>();
 const emit = defineEmits<{ close: [] }>();
 
+const themeStore = useThemeStore();
 const store = useWordsStore();
 
 const sortBy = ref<'recent' | 'alpha'>('recent');
@@ -24,7 +26,7 @@ const sortedWords = computed(() => {
   <ModalSheet :show @close="emit('close')">
     <template #header>
       <div class="flex items-center justify-between w-full">
-        <h2 class="text-lg font-medium text-white">Palavras salvas</h2>
+        <h2 class="text-xl font-medium text-white">Palavras salvas</h2>
         <select
           v-model="sortBy"
           class="text-xs bg-zinc-800 text-gray-300 border border-zinc-700 rounded-lg px-2 py-1 outline-none cursor-pointer"
@@ -41,7 +43,12 @@ const sortedWords = computed(() => {
         :key="word.word"
         class="bg-zinc-800 rounded-xl p-3.5 relative"
       >
-        <p class="font-lora font-medium text-white text-[1.03rem]">{{ word.word }}</p>
+        <p
+          class="font-medium text-white text-[1.03rem]"
+          :style="{ fontFamily: `${themeStore.currentTheme.font}, Lora, Inter, serif` }"
+        >
+          {{ word.word }}
+        </p>
         <p class="text-xs/4.5 text-gray-400 mt-1">{{ word.meaning }}</p>
         <button
           class="absolute top-2 right-1.5 p-1 text-white cursor-pointer transition-transform active:scale-80"

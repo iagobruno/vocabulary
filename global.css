@@ -14,7 +14,7 @@
 
 @layer base {
   body {
-    @apply font-inter text-[16px] xl:text-[18px] bg-red-500 text-white antialiased;
+    @apply font-inter text-[16px] xl:text-[18px] bg-black text-white antialiased;
     @apply selection:bg-primary selection:text-white;
   }
 }
