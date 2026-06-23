@@ -4,6 +4,7 @@ import { Virtual, Keyboard, Mousewheel } from 'swiper/modules';
 import 'swiper/css';
 import 'swiper/css/virtual';
 import { FaHandsClapping } from '@kalimahapps/vue-icons/fa';
+import { AkChevronDown } from '@kalimahapps/vue-icons/ak';
 import WordCard from './WordCard.vue';
 import { useWordsStore } from '../stores/feed.ts';
 const modules = [Virtual, Keyboard, Mousewheel];
@@ -36,20 +37,29 @@ function onActiveIndexChange(swiper: any) {
     <p class="mt-2 text-gray-400">Volta outro dia para aprender mais 👏</p>
   </div>
 
-  <Swiper
-    v-else
-    :modules="modules"
-    :virtual="true"
-    :slides-per-view="1"
-    direction="vertical"
-    :keyboard="{ enabled: true }"
-    :mousewheel="{ thresholdDelta: 26 }"
-    class="h-dvh w-full"
-    @swiper="onSwiper"
-    @active-index-change="onActiveIndexChange"
-  >
-    <SwiperSlide v-for="(word, idx) in store.remainingWords" :key="word.word" :virtual-index="idx">
-      <WordCard :word="word" />
-    </SwiperSlide>
-  </Swiper>
+  <template v-else>
+    <Swiper
+      :modules="modules"
+      :virtual="true"
+      :slides-per-view="1"
+      direction="vertical"
+      :keyboard="{ enabled: true }"
+      :mousewheel="{ thresholdDelta: 26 }"
+      class="h-full w-full"
+      @swiper="onSwiper"
+      @active-index-change="onActiveIndexChange"
+    >
+      <SwiperSlide
+        v-for="(word, idx) in store.remainingWords"
+        :key="word.word"
+        :virtual-index="idx"
+      >
+        <WordCard :word="word" />
+      </SwiperSlide>
+    </Swiper>
+    <AkChevronDown
+      v-if="store.remainingWords.length > 1"
+      class="absolute bottom-1.5 left-1/2 -translate-x-1/2 size-5.5 text-white/45 animate-bounce [animation-duration:1.6s]"
+    />
+  </template>
 </template>

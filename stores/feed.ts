@@ -59,7 +59,7 @@ export const useWordsStore = defineStore('words', () => {
 });
 
 function useLocalStorageSet(key: string, defaultValue: Set<string> = new Set()) {
-  return useStorage<Set<string>>(key, defaultValue, undefined, {
+  return useStorage<Set<string>>(key, defaultValue, localStorage, {
     serializer: {
       read: (v) => new Set(JSON.parse(v)),
       write: (v) => JSON.stringify([...v]),
