@@ -6,7 +6,6 @@ import 'swiper/css/virtual';
 import { FaHandsClapping } from '@kalimahapps/vue-icons/fa';
 import WordCard from './WordCard.vue';
 import { useWordsStore } from '../stores/feed.ts';
-import { watchEffect } from 'vue';
 
 const store = useWordsStore();
 
@@ -26,10 +25,6 @@ function onSwiper(swiper: any) {
 function onActiveIndexChange(swiper: any) {
   markCurrent(swiper);
 }
-
-watchEffect(() => {
-  console.log('store.remainingWords.length', store.remainingWords.length);
-});
 </script>
 
 <template>

@@ -9,12 +9,6 @@
 }
 
 :root {
-  font-size: 20px;
-}
-
-@layer base {
-  body {
-    @apply font-inter text-[16px] xl:text-[18px] bg-black text-white antialiased;
-    @apply selection:bg-primary selection:text-white;
-  }
+  @apply font-inter text-[18px] bg-black text-white antialiased;
+  @apply selection:bg-yellow-400 selection:text-black;
 }

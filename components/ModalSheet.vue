@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { BsX } from '@kalimahapps/vue-icons/bs';
+import { BsX as CloseIcon } from '@kalimahapps/vue-icons/bs';
 
 defineProps<{ show: boolean }>();
 const emit = defineEmits<{ close: [] }>();
@@ -22,7 +22,7 @@ const emit = defineEmits<{ close: [] }>();
             class="absolute top-4 right-3 opacity-80 z-100 transition-all cursor-pointer hover:opacity-100 active:scale-80 "
             @click="emit('close')"
           >
-            <BsX class="size-7" />
+            <CloseIcon class="size-8" />
           </button>
 
           <div class="flex items-center justify-between pt-8 pb-0 pl-5 pr-12">
