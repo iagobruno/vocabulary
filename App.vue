@@ -78,7 +78,7 @@ provide('triggerSaveFlash', triggerSaveFlash);
 <template>
   <div
     ref="containerRef"
-    class="h-dvh max-w-full mx-auto md:aspect-9/16 md:rounded-md overflow-hidden relative z-2 bg-black ring ring-white/5 shadow-[0_0_30px_10px_rgba(255,255,255,0.1)]"
+    class="h-dvh max-w-full mx-auto md:aspect-9/16 md:rounded-md overflow-hidden relative z-2 bg-black ring ring-white/10 shadow-[0_0_30px_15px_rgba(0,0,0,0.12)]"
   >
     <div class="h-full w-full relative z-2">
       <FeedTopActions />
@@ -95,8 +95,10 @@ provide('triggerSaveFlash', triggerSaveFlash);
     />
   </div>
 
-  <div
-    class="absolute z-1 inset-0 opacity-50 blur-md bg-cover bg-center pointer-events-none"
-    :style="bgStyle"
-  />
+  <div class="absolute z-1 inset-0 pointer-events-none overflow-hidden">
+    <div
+      class="absolute z-1 inset-0 opacity-45 blur-lg bg-[size:100%_100%] bg-center scale-110"
+      :style="bgStyle"
+    />
+  </div>
 </template>

@@ -1,15 +1,14 @@
 <script setup lang="ts">
 import { Swiper, SwiperSlide } from 'swiper/vue';
-import { Virtual } from 'swiper/modules';
+import { Virtual, Keyboard, Mousewheel } from 'swiper/modules';
 import 'swiper/css';
 import 'swiper/css/virtual';
 import { FaHandsClapping } from '@kalimahapps/vue-icons/fa';
 import WordCard from './WordCard.vue';
 import { useWordsStore } from '../stores/feed.ts';
+const modules = [Virtual, Keyboard, Mousewheel];
 
 const store = useWordsStore();
-
-const modules = [Virtual];
 
 function markCurrent(swiper: any) {
   const word = store.remainingWords[swiper.activeIndex];
@@ -43,6 +42,8 @@ function onActiveIndexChange(swiper: any) {
     :virtual="true"
     :slides-per-view="1"
     direction="vertical"
+    :keyboard="{ enabled: true }"
+    :mousewheel="{ thresholdDelta: 26 }"
     class="h-dvh w-full"
     @swiper="onSwiper"
     @active-index-change="onActiveIndexChange"
