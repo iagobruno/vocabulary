@@ -36,15 +36,27 @@ function handleSave() {
       </h2>
       <p class="max-w-md text-base leading-relaxed text-gray-300">{{ word.meaning }}</p>
       <p class="max-w-md text-sm italic leading-relaxed text-gray-300">"{{ word.sentence }}"</p>
-      <div class="text-xs text-gray-300">
+      <div class="text-[.8rem] text-gray-300">
         Sinônimos:
         <div class="flex flex-wrap justify-center gap-2 mt-1.5">
           <span
             v-for="syn in word.synonyms"
             :key="syn"
-            class="rounded-full bg-white/5 border border-gray-600 px-2 py-0.5"
+            class="rounded-full bg-white/5 border border-white/50 px-2 py-0.5"
           >
             {{ syn }}
+          </span>
+        </div>
+      </div>
+<div class="text-[.8rem] text-gray-300">
+        Antônimos:
+        <div class="flex flex-wrap justify-center gap-2 mt-1.5">
+          <span
+            v-for="ant in word.antonyms"
+            :key="ant"
+            class="rounded-full bg-white/5 border border-white/30 px-2 py-0.5"
+          >
+            {{ ant }}
           </span>
         </div>
       </div>

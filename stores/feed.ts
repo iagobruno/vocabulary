@@ -9,6 +9,7 @@ export interface Word {
   meaning: string;
   sentence: string;
   synonyms: string[];
+  antonyms: string[];
 }
 
 export const useWordsStore = defineStore('words', () => {

@@ -1,102 +1,1502 @@
 [
-  { "word": "Efêmero", "meaning": "Que dura por um período muito curto; passageiro, transitório.", "sentence": "A beleza das flores de cerejeira é efêmera, durando apenas alguns dias.", "synonyms": ["passageiro", "transitório", "fugaz"] },
-  { "word": "Inócuo", "meaning": "Que não causa dano ou prejuízo; inofensivo.", "sentence": "O medicamento mostrou-se inócuo, sem qualquer efeito colateral.", "synonyms": ["inofensivo", "inocente", "benigno"] },
-  { "word": "Pragmático", "meaning": "Que prioriza resultados práticos e objetivos, em vez de teorias.", "sentence": "Sua abordagem pragmática resolveu o problema em poucas horas.", "synonyms": ["prático", "objetivo", "utilitário"] },
-  { "word": "Recôndito", "meaning": "Que fica escondido, oculto ou de difícil acesso.", "sentence": "O tesouro foi enterrado em um lugar recôndito da floresta.", "synonyms": ["oculto", "secreto", "remoto"] },
-  { "word": "Pândego", "meaning": "Muito alegre, divertido e brincalhão.", "sentence": "O avô era um senhor pândego que adorava contar piadas.", "synonyms": ["alegre", "festivo", "jovial"] },
-  { "word": "Procrastinar", "meaning": "Adiar deliberadamente uma tarefa ou compromisso.", "sentence": "Não procrastine seus estudos para a última hora.", "synonyms": ["adiar", "postergar", "protelar"] },
-  { "word": "Peremptório", "meaning": "Decisivo, categórico, que não admite réplica ou contestação.", "sentence": "O juiz foi peremptório ao negar o pedido de liberdade.", "synonyms": ["categórico", "terminante", "definitivo"] },
-  { "word": "Temerário", "meaning": "Que age sem medo ou cautela; imprudente, audacioso.", "sentence": "Sua decisão temerária de pular do penhasco quase custou sua vida.", "synonyms": ["imprudente", "audacioso", "insensato"] },
-  { "word": "Impávido", "meaning": "Que não sente medo; corajoso, destemido.", "sentence": "O bombeiro impávido entrou no prédio em chamas para salvar a criança.", "synonyms": ["destemido", "intrépido", "valente"] },
-  { "word": "Sorumbático", "meaning": "Mal-humorado, taciturno, de aparência carrancuda.", "sentence": "O porteiro sorumbático raramente respondia aos cumprimentos.", "synonyms": ["taciturno", "carrancudo", "mal-humorado"] },
-  { "word": "Catártico", "meaning": "Que proporciona alívio emocional ou purificação.", "sentence": "Escrever em um diário foi uma experiência catártica para ela.", "synonyms": ["purificador", "liberador", "expiatório"] },
-  { "word": "Onírico", "meaning": "Relativo a sonhos; que tem qualidade de sonho.", "sentence": "O filme tinha uma atmosfera onírica que hipnotizava o espectador.", "synonyms": ["sonhador", "irreal", "fantástico"] },
-  { "word": "Quimérico", "meaning": "Imaginário, fantástico, difícil de se realizar.", "sentence": "Seu plano quimérico de viajar para Marte era irrealizável.", "synonyms": ["ilusório", "fantasioso", "impossível"] },
-  { "word": "Taciturno", "meaning": "Calado, silencioso, que fala pouco.", "sentence": "O viajante taciturno passou toda a viagem olhando pela janela.", "synonyms": ["silencioso", "calado", "reservado"] },
-  { "word": "Vociferar", "meaning": "Gritar ou berrar com veemência; clamar em voz alta.", "sentence": "O torcedor começou a vociferar insultos contra o juiz.", "synonyms": ["gritar", "berrar", "bradar"] },
-  { "word": "Pueril", "meaning": "Relativo a criança; ingênuo, imaturo.", "sentence": "Seu comportamento pueril durante a reunião constrangeu a equipe.", "synonyms": ["infantil", "ingênuo", "imaturo"] },
-  { "word": "Letárgico", "meaning": "Que está em estado de letargia; sonolento, apático.", "sentence": "O calor intenso deixou todos os alunos letárgicos na sala.", "synonyms": ["apático", "sonolento", "inerte"] },
-  { "word": "Misantropo", "meaning": "Pessoa que sente aversão ou desprezo pela humanidade.", "sentence": "O velho misantropo vivia isolado em sua cabana na montanha.", "synonyms": ["sociopata", "eremita", "solitário"] },
-  { "word": "Paradigmático", "meaning": "Que serve como modelo ou exemplo representativo.", "sentence": "O caso paradigmático mudou a jurisprudência do país.", "synonyms": ["exemplar", "modelar", "emblemático"] },
-  { "word": "Rebuscado", "meaning": "Excessivamente elaborado ou complicado; afetado.", "sentence": "Seu discurso rebuscado confundiu a plateia em vez de impressioná-la.", "synonyms": ["afetado", "pretencioso", "complexo"] },
-  { "word": "Sagaz", "meaning": "Que tem perspicácia e astúcia; esperto, inteligente.", "sentence": "O detetive sagaz desvendou o mistério em poucas horas.", "synonyms": ["astuto", "perspicaz", "arguto"] },
-  { "word": "Truculento", "meaning": "Violento, brutal, agressivo no comportamento.", "sentence": "O regime truculento reprimia qualquer forma de oposição.", "synonyms": ["violento", "brutal", "selvagem"] },
-  { "word": "Usurpar", "meaning": "Tomar posse de algo indevidamente, especialmente poder.", "sentence": "O general tentou usurpar o governo à força.", "synonyms": ["apoderar-se", "assumir", "tomar"] },
-  { "word": "Vigília", "meaning": "Ato de ficar acordado durante o período destinado ao sono.", "sentence": "Passou a noite em vigília cuidando do filho doente.", "synonyms": ["insônia", "vela", "desvelo"] },
-  { "word": "Xenofobia", "meaning": "Aversão ou hostilidade contra pessoas estrangeiras.", "sentence": "A xenofobia é um problema social que precisa ser combatido.", "synonyms": ["aversão", "hostilidade", "intolerância"] },
-  { "word": "Zênite", "meaning": "Ponto mais alto; auge, apogeu.", "sentence": "O império atingiu seu zênite no século XVI.", "synonyms": ["apogeu", "auge", "cume"] },
-  { "word": "Abstruso", "meaning": "De compreensão difícil; obscuro, hermético.", "sentence": "O texto abstruso do filósofo era compreendido por poucos.", "synonyms": ["obscuro", "hermético", "incompreensível"] },
-  { "word": "Beneplácito", "meaning": "Aprovação ou consentimento formal.", "sentence": "A proposta foi aceita com o beneplácito da diretoria.", "synonyms": ["aprovação", "consentimento", "anuência"] },
-  { "word": "Contumaz", "meaning": "Teimoso, insistente; que persiste em atitude condenável.", "sentence": "O devedor contumaz ignorava todas as cobranças.", "synonyms": ["teimoso", "obstinado", "reincidente"] },
-  { "word": "Deletério", "meaning": "Que causa dano ou prejuízo; nocivo à saúde.", "sentence": "O hábito deletério de fumar prejudica todo o organismo.", "synonyms": ["nocivo", "prejudicial", "danoso"] },
-  { "word": "Exacerbar", "meaning": "Intensificar, agravar ou tornar mais violento.", "sentence": "A discussão exacerbou ainda mais a crise entre eles.", "synonyms": ["agravar", "intensificar", "acirrar"] },
-  { "word": "Fastígio", "meaning": "Auge, cume, ponto mais elevado de algo.", "sentence": "Sua carreira artística chegou ao fastígio com o Oscar.", "synonyms": ["auge", "zênite", "apogeu"] },
-  { "word": "Hediondo", "meaning": "Horrível, repugnante, que causa aversão profunda.", "sentence": "O crime hediondo chocou toda a sociedade.", "synonyms": ["horrível", "repugnante", "atroz"] },
-  { "word": "Incólume", "meaning": "Que está ileso, intacto, sem dano.", "sentence": "Milagrosamente, todos saíram incólumes do acidente.", "synonyms": ["ileso", "intacto", "salvo"] },
-  { "word": "Jactância", "meaning": "Arrogância exagerada, ostentação orgulhosa.", "sentence": "Sua jactância irritava os colegas de trabalho.", "synonyms": ["arrogância", "vaidade", "ostentação"] },
-  { "word": "Lúgubre", "meaning": "Fúnebre, sombrio, que inspira tristeza ou melancolia.", "sentence": "O cemitério tinha uma atmosfera lúgubre ao entardecer.", "synonyms": ["sombrio", "fúnebre", "melancólico"] },
-  { "word": "Magnânimo", "meaning": "Generoso, nobre, que perdoa com grandeza de espírito.", "sentence": "O rei magnânimo perdoou os conspiradores.", "synonyms": ["generoso", "nobre", "clemente"] },
-  { "word": "Nefasto", "meaning": "Funesto, trágico, que causa desgraça.", "sentence": "O governante teve um impacto nefasto na economia do país.", "synonyms": ["funesto", "trágico", "desastroso"] },
-  { "word": "Obsoleto", "meaning": "Antiquado, fora de uso, que caiu em desuso.", "sentence": "O computador obsoleto não rodava mais os programas atuais.", "synonyms": ["antiquado", "ultrapassado", "arcaico"] },
-  { "word": "Parco", "meaning": "Econômico, moderado, que usa com parcimônia.", "sentence": "O velho era parco no comer e no falar.", "synonyms": ["econômico", "moderado", "frugal"] },
-  { "word": "Reticente", "meaning": "Hesitante, reservado, que demonstra dúvida ou desconfiança.", "sentence": "Ela ficou reticente quando perguntaram sobre seu passado.", "synonyms": ["hesitante", "reservado", "cauteloso"] },
-  { "word": "Sapiência", "meaning": "Sabedoria profunda, conhecimento elevado.", "sentence": "O mestre era respeitado por sua sapiência milenar.", "synonyms": ["sabedoria", "conhecimento", "erudição"] },
-  { "word": "Tenaz", "meaning": "Persistente, firme, que não desiste facilmente.", "sentence": "O atleta tenaz treinou anos até conquistar a medalha.", "synonyms": ["persistente", "obstinado", "firme"] },
-  { "word": "Ubiquidade", "meaning": "Capacidade de estar presente em toda parte ao mesmo tempo.", "sentence": "Com a internet, a ubiquidade da informação é uma realidade.", "synonyms": ["onipresença", "omnipresença", "universalidade"] },
-  { "word": "Verossímil", "meaning": "Que parece verdadeiro, que tem aparência de verdade.", "sentence": "A história era tão detalhada que parecia verossímil.", "synonyms": ["plausível", "provável", "credível"] },
-  { "word": "Alvíssaras", "meaning": "Recompensa dada a quem traz uma boa notícia.", "sentence": "Prometeu alvíssaras a quem encontrasse seu cachorro.", "synonyms": ["recompensa", "prêmio", "gratificação"] },
-  { "word": "Beligerante", "meaning": "Agressivo, guerreiro, que está em conflito.", "sentence": "Os países beligerantes finalmente assinaram um tratado de paz.", "synonyms": ["guerreiro", "agressivo", "hostil"] },
-  { "word": "Cândido", "meaning": "Puro, ingênuo, que age com simplicidade e sinceridade.", "sentence": "A criança cândida acreditava em tudo que lhe contavam.", "synonyms": ["ingênuo", "puro", "sincero"] },
-  { "word": "Difamatório", "meaning": "Que calunia ou difama a reputação de alguém.", "sentence": "O artigo difamatório resultou em um processo judicial.", "synonyms": ["calunioso", "injurioso", "difamante"] },
-  { "word": "Erudito", "meaning": "Que possui cultura vasta e conhecimento profundo.", "sentence": "O professor erudito citava autores gregos de memória.", "synonyms": ["culto", "sábio", "ilustrado"] },
-  { "word": "Falacioso", "meaning": "Enganoso, que contém falácia ou mentira.", "sentence": "O argumento falacioso foi desmontado pelo debatedor.", "synonyms": ["enganoso", "mentiroso", "ilusório"] },
-  { "word": "Hermético", "meaning": "Fechado, selado; de compreensão difícil.", "sentence": "A poesia hermética do autor desafiava os leitores.", "synonyms": ["vedado", "selado", "incompreensível"] },
-  { "word": "Inóspito", "meaning": "Não acolhedor, hostil, difícil de habitar.", "sentence": "O deserto é um lugar inóspito para a maioria dos seres vivos.", "synonyms": ["hostil", "inabitável", "desolado"] },
-  { "word": "Jubiloso", "meaning": "Que está cheio de alegria e contentamento.", "sentence": "A torcida jubilosa comemorou a vitória do time.", "synonyms": ["alegre", "contente", "exultante"] },
-  { "word": "Labutar", "meaning": "Trabalhar arduamente, com esforço e dedicação.", "sentence": "Os agricultores labutam no campo desde o nascer do sol.", "synonyms": ["trabalhar", "laborar", "lutrar"] },
-  { "word": "Melífluo", "meaning": "Suave, doce e agradável, especialmente a voz.", "sentence": "O cantor tinha uma voz melíflua que encantava a plateia.", "synonyms": ["suave", "doce", "harmonioso"] },
-  { "word": "Ostensivo", "meaning": "Evidente, claro, que se mostra abertamente.", "sentence": "O luxo ostensivo da mansão impressionava os visitantes.", "synonyms": ["evidente", "manifesto", "patente"] },
-  { "word": "Pândemônio", "meaning": "Confusão geral, desordem absoluta.", "sentence": "Com o apagão, o trânsito virou um pandemônio.", "synonyms": ["confusão", "caos", "tumulto"] },
-  { "word": "Redundante", "meaning": "Repetitivo, que diz a mesma coisa de forma desnecessária.", "sentence": "O texto estava redundante, repetindo a mesma ideia várias vezes.", "synonyms": ["repetitivo", "excessivo", "reiterado"] },
-  { "word": "Salutar", "meaning": "Que faz bem à saúde; benéfico, proveitoso.", "sentence": "Caminhar ao ar livre é um hábito salutar para o corpo e a mente.", "synonyms": ["benéfico", "saudável", "proveitoso"] },
-  { "word": "Tangível", "meaning": "Que pode ser tocado; concreto, palpável.", "sentence": "Precisamos de resultados tangíveis, não apenas promessas.", "synonyms": ["palpável", "concreto", "material"] },
-  { "word": "Vislumbrar", "meaning": "Ver rapidamente ou de forma imperfeita; entrever.", "sentence": "Conseguiu vislumbrar o pôr do sol entre as nuvens.", "synonyms": ["entrever", "divisar", "avistar"] },
-  { "word": "Acólito", "meaning": "Seguidor, auxiliar ou ajudante em atividades religiosas.", "sentence": "O acólito ajudava o padre durante a missa.", "synonyms": ["auxiliar", "ajudante", "seguidor"] },
-  { "word": "Corroborar", "meaning": "Confirmar, comprovar ou fortalecer uma ideia.", "sentence": "Os exames corroboram a hipótese do médico.", "synonyms": ["confirmar", "comprovar", "validar"] },
-  { "word": "Dissidente", "meaning": "Pessoa que se opõe a um sistema ou doutrina estabelecida.", "sentence": "O dissidente foi preso por criticar o regime.", "synonyms": ["opositor", "rebelde", "contestador"] },
-  { "word": "Eminente", "meaning": "Notável, ilustre, de grande destaque.", "sentence": "O cientista eminente recebeu o Prêmio Nobel.", "synonyms": ["ilustre", "notável", "insigne"] },
-  { "word": "Frugal", "meaning": "Moderado, simples, que come ou gasta com parcimônia.", "sentence": "O monge levava uma vida frugal no mosteiro.", "synonyms": ["moderado", "simples", "austero"] },
-  { "word": "Glorificar", "meaning": "Engrandecer, exaltar ou louvar intensamente.", "sentence": "Os poemas glorificavam a braveza dos guerreiros.", "synonyms": ["exaltar", "louvar", "enaltecer"] },
-  { "word": "Inato", "meaning": "Que nasce com o indivíduo; natural, nato.", "sentence": "O talento inato do pianista era evidente desde criança.", "synonyms": ["nato", "natural", "inato"] },
-  { "word": "Lassidão", "meaning": "Cansaço extremo, fadiga, prostração.", "sentence": "A lassidão após a maratona o fez dormir por doze horas.", "synonyms": ["fadiga", "cansaço", "exaustão"] },
-  { "word": "Moribundo", "meaning": "Que está à beira da morte; que está morrendo.", "sentence": "O paciente moribundo despediu-se da família.", "synonyms": ["agonizante", "morrente", "terminal"] },
-  { "word": "Penúria", "meaning": "Escassez extrema, pobreza, falta de recursos.", "sentence": "A família vivia em penúria após a enchente.", "synonyms": ["escassez", "pobreza", "miséria"] },
-  { "word": "Remissão", "meaning": "Perdão, redução de pena; alívio de sintomas.", "sentence": "O câncer entrou em remissão após o tratamento.", "synonyms": ["perdão", "absolvição", "alívio"] },
-  { "word": "Sobressair", "meaning": "Destacar-se, distinguir-se em meio a outros.", "sentence": "Ela sempre conseguia sobressair em meio aos colegas.", "synonyms": ["destacar-se", "distinguir-se", "salientar-se"] },
-  { "word": "Torpe", "meaning": "Vergonhoso, desonesto, de baixo caráter moral.", "sentence": "O político praticou atos torpes durante seu mandato.", "synonyms": ["desonesto", "vil", "ignóbil"] },
-  { "word": "Ulterior", "meaning": "Que está além; posterior, futuro.", "sentence": "Ele tinha intenções ulteriores ao fazer aquela proposta.", "synonyms": ["posterior", "futuro", "subsequente"] },
-  { "word": "Vicissitude", "meaning": "Alternância de boa e má sorte; mudança constante.", "sentence": "A vida é cheia de vicissitudes que nos surpreendem.", "synonyms": ["alternância", "contratempo", "peripécia"] },
-  { "word": "Vulgar", "meaning": "Comum, banal, que não se destaca.", "sentence": "O discurso vulgar do candidato não convenceu ninguém.", "synonyms": ["comum", "banal", "ordinário"] },
-  { "word": "Agnóstico", "meaning": "Que considera a existência de Deus incognoscível.", "sentence": "O filósofo agnóstico não negava Deus, mas duvidava de sua comprovação.", "synonyms": ["cético", "duvidoso", "incrédulo"] },
-  { "word": "Bacante", "meaning": "Mulher que participa de festas orgíacas; muito agitada.", "sentence": "A festa parecia um ritual de bacantes na antiguidade.", "synonyms": ["agitada", "frenética", "desregrada"] },
-  { "word": "Contíguo", "meaning": "Que está junto, vizinho ou imediatamente próximo.", "sentence": "Os dois terrenos contíguos foram unificados.", "synonyms": ["vizinho", "adjacente", "próximo"] },
-  { "word": "Dialético", "meaning": "Relativo à arte do diálogo e da argumentação.", "sentence": "O método dialético de Sócrates influenciou a filosofia ocidental.", "synonyms": ["argumentativo", "discursivo", "lógico"] },
-  { "word": "Egrégio", "meaning": "Ilustre, notável, de grande distinção.", "sentence": "O egrégio jurista foi homenageado pela academia.", "synonyms": ["ilustre", "notável", "insigne"] },
-  { "word": "Facínora", "meaning": "Indivíduo perverso, criminoso cruel.", "sentence": "O facínora aterrorizava a cidade com seus crimes.", "synonyms": ["criminoso", "bandido", "malfeitor"] },
-  { "word": "Gárrulo", "meaning": "Que fala muito e sem conteúdo; tagarela.", "sentence": "O vizinho gárrulo não parava de falar sobre trivialidades.", "synonyms": ["tagarela", "falador", "loquaz"] },
-  { "word": "Híbrido", "meaning": "Proveniente da mistura de elementos diferentes.", "sentence": "O carro híbrido combina motor elétrico e a combustão.", "synonyms": ["misto", "composto", "mesclado"] },
-  { "word": "Idílio", "meaning": "Relacionamento amoroso idealizado e harmonioso.", "sentence": "O casal vivia um idílio romântico no campo.", "synonyms": ["romance", "amor", "namoro"] },
-  { "word": "Latente", "meaning": "Que está oculto mas pode manifestar-se.", "sentence": "O conflito latente entre eles explodiu na reunião.", "synonyms": ["oculto", "adormecido", "potencial"] },
-  { "word": "Mórbido", "meaning": "Relacionado a doenças; doentio, malsão.", "sentence": "Ele tinha um interesse mórbido por crimes reais.", "synonyms": ["doentio", "malsão", "sombrio"] },
-  { "word": "Nefelibata", "meaning": "Que vive nas nuvens; sonhador, distraído.", "sentence": "O artista nefelibata parecia alheio ao mundo real.", "synonyms": ["sonhador", "distraído", "abstrato"] },
-  { "word": "Obnubilar", "meaning": "Tornar obscuro, ofuscar ou confundir a mente.", "sentence": "A raiva obnubilou seu julgamento naquele momento.", "synonyms": ["ofuscar", "obscurecer", "confundir"] },
-  { "word": "Probo", "meaning": "Honesto, íntegro, de retidão de caráter.", "sentence": "O juiz probo era respeitado por todos no tribunal.", "synonyms": ["íntegro", "honesto", "reto"] },
-  { "word": "Querela", "meaning": "Discussão acalorada, disputa judicial ou briga.", "sentence": "A querela entre os vizinhos foi parar na delegacia.", "synonyms": ["briga", "disputa", "contenda"] },
-  { "word": "Sintomático", "meaning": "Que serve como indício ou sinal de algo.", "sentence": "O aumento da violência é sintomático da crise social.", "synonyms": ["indicativo", "revelador", "significativo"] },
-  { "word": "Transcender", "meaning": "Ir além dos limites; superar, ultrapassar.", "sentence": "A arte verdadeira transcende as barreiras do tempo.", "synonyms": ["superar", "ultrapassar", "sobrepujar"] },
-  { "word": "Utópico", "meaning": "Relativo a utopia; idealizado, irrealizável.", "sentence": "O plano utópico de paz mundial ainda é um sonho distante.", "synonyms": ["idealizado", "irrealizável", "fantasioso"] },
-  { "word": "Virtuose", "meaning": "Pessoa com habilidade excepcional em uma arte.", "sentence": "O virtuose do violino encantou o teatro lotado.", "synonyms": ["mestre", "gênio", "artífice"] },
-  { "word": "Anacrônico", "meaning": "Fora de seu tempo; desatualizado ou antiquado.", "sentence": "Seus métodos de ensino anacrônicos não engajavam os alunos.", "synonyms": ["desatualizado", "ultrapassado", "arcaico"] },
-  { "word": "Benevolente", "meaning": "Que deseja o bem; bondoso, benevolente.", "sentence": "A professora benevolente dedicava-se aos alunos carentes.", "synonyms": ["bondoso", "benevolente", "caridoso"] },
-  { "word": "Conjectura", "meaning": "Suposição baseada em indícios, sem comprovação.", "sentence": "Isso é apenas uma conjectura, não um fato comprovado.", "synonyms": ["suposição", "hipótese", "palpite"] }
+  {
+    "word": "Efêmero",
+    "meaning": "Que dura por um período muito curto.",
+    "sentence": "A beleza das flores de cerejeira é efêmera, durando apenas alguns dias.",
+    "synonyms": [
+      "passageiro",
+      "fugaz",
+      "transitório"
+    ],
+    "antonyms": [
+      "duradouro",
+      "permanente",
+      "eterno"
+    ]
+  },
+  {
+    "word": "Inócuo",
+    "meaning": "Que não causa dano ou prejuízo.",
+    "sentence": "O medicamento mostrou-se inócuo, sem qualquer efeito colateral.",
+    "synonyms": [
+      "inofensivo",
+      "inocente",
+      "benigno"
+    ],
+    "antonyms": [
+      "nocivo",
+      "prejudicial",
+      "danoso"
+    ]
+  },
+  {
+    "word": "Pragmático",
+    "meaning": "Que prioriza resultados práticos em vez de teorias.",
+    "sentence": "Sua abordagem pragmática resolveu o problema em poucas horas.",
+    "synonyms": [
+      "prático",
+      "utilitário",
+      "objetivo"
+    ],
+    "antonyms": [
+      "teórico",
+      "abstrato",
+      "idealista"
+    ]
+  },
+  {
+    "word": "Recôndito",
+    "meaning": "Que fica escondido, oculto ou de difícil acesso.",
+    "sentence": "O tesouro foi enterrado em um lugar recôndito da floresta.",
+    "synonyms": [
+      "oculto",
+      "secreto",
+      "remoto"
+    ],
+    "antonyms": [
+      "visível",
+      "exposto",
+      "acessível"
+    ]
+  },
+  {
+    "word": "Pândego",
+    "meaning": "Muito alegre, divertido e brincalhão.",
+    "sentence": "O avô era um senhor pândego que adorava contar piadas.",
+    "synonyms": [
+      "alegre",
+      "festivo",
+      "jovial"
+    ],
+    "antonyms": [
+      "sério",
+      "austero",
+      "taciturno"
+    ]
+  },
+  {
+    "word": "Procrastinar",
+    "meaning": "Adiar deliberadamente uma tarefa ou compromisso.",
+    "sentence": "Não procrastine seus estudos para a última hora.",
+    "synonyms": [
+      "adiar",
+      "postergar",
+      "protelar"
+    ],
+    "antonyms": [
+      "antecipar",
+      "adiantar",
+      "apressar"
+    ]
+  },
+  {
+    "word": "Peremptório",
+    "meaning": "Decisivo, categórico, que não admite réplica ou contestação.",
+    "sentence": "O juiz foi peremptório ao negar o pedido de liberdade.",
+    "synonyms": [
+      "categórico",
+      "terminante",
+      "definitivo"
+    ],
+    "antonyms": [
+      "hesitante",
+      "dubitativo",
+      "incerto"
+    ]
+  },
+  {
+    "word": "Temerário",
+    "meaning": "Que age sem medo ou cautela.",
+    "sentence": "Sua decisão temerária de pular do penhasco quase custou sua vida.",
+    "synonyms": [
+      "imprudente",
+      "insensato",
+      "audacioso"
+    ],
+    "antonyms": [
+      "cauteloso",
+      "prudente",
+      "comedido"
+    ]
+  },
+  {
+    "word": "Impávido",
+    "meaning": "Que não sente medo.",
+    "sentence": "O bombeiro impávido entrou no prédio em chamas para salvar a criança.",
+    "synonyms": [
+      "destemido",
+      "intrépido",
+      "valente"
+    ],
+    "antonyms": [
+      "medroso",
+      "covarde",
+      "temeroso"
+    ]
+  },
+  {
+    "word": "Sorumbático",
+    "meaning": "De aparência carrancuda e humor obscuro.",
+    "sentence": "O porteiro sorumbático raramente respondia aos cumprimentos.",
+    "synonyms": [
+      "taciturno",
+      "carrancudo",
+      "mal-humorado"
+    ],
+    "antonyms": [
+      "alegre",
+      "simpático",
+      "jovial"
+    ]
+  },
+  {
+    "word": "Catártico",
+    "meaning": "Que proporciona alívio emocional ou purificação.",
+    "sentence": "Escrever em um diário foi uma experiência catártica para ela.",
+    "synonyms": [
+      "purificador",
+      "liberador",
+      "expiatório"
+    ],
+    "antonyms": [
+      "repressivo",
+      "bloqueador",
+      "opressivo"
+    ]
+  },
+  {
+    "word": "Onírico",
+    "meaning": "Relativo a sonhos; que tem qualidade de sonho.",
+    "sentence": "O filme tinha uma atmosfera onírica que hipnotizava o espectador.",
+    "synonyms": [
+      "sonhador",
+      "irreal",
+      "fantástico"
+    ],
+    "antonyms": [
+      "real",
+      "concreto",
+      "tangível"
+    ]
+  },
+  {
+    "word": "Quimérico",
+    "meaning": "Imaginário, fantástico, difícil de se realizar.",
+    "sentence": "Seu plano quimérico de viajar para Marte era irrealizável.",
+    "synonyms": [
+      "ilusório",
+      "fantasioso",
+      "impossível"
+    ],
+    "antonyms": [
+      "real",
+      "concreto",
+      "factível"
+    ]
+  },
+  {
+    "word": "Taciturno",
+    "meaning": "Que fala muito pouco.",
+    "sentence": "O viajante taciturno passou toda a viagem olhando pela janela.",
+    "synonyms": [
+      "silencioso",
+      "reservado",
+      "calado"
+    ],
+    "antonyms": [
+      "falante",
+      "comunicativo",
+      "loquaz"
+    ]
+  },
+  {
+    "word": "Vociferar",
+    "meaning": "Clamar em voz alta com veemência.",
+    "sentence": "O torcedor começou a vociferar insultos contra o juiz.",
+    "synonyms": [
+      "gritar",
+      "bradar",
+      "berrar"
+    ],
+    "antonyms": [
+      "sussurrar",
+      "murmurar",
+      "calar"
+    ]
+  },
+  {
+    "word": "Pueril",
+    "meaning": "Relativo a criança.",
+    "sentence": "Seu comportamento pueril durante a reunião constrangeu a equipe.",
+    "synonyms": [
+      "infantil",
+      "ingênuo",
+      "imaturo"
+    ],
+    "antonyms": [
+      "maduro",
+      "adulto",
+      "sério"
+    ]
+  },
+  {
+    "word": "Letárgico",
+    "meaning": "Que está em estado de letargia.",
+    "sentence": "O calor intenso deixou todos os alunos letárgicos na sala.",
+    "synonyms": [
+      "apático",
+      "inerte",
+      "sonolento"
+    ],
+    "antonyms": [
+      "energético",
+      "ativo",
+      "vivaz"
+    ]
+  },
+  {
+    "word": "Misantropo",
+    "meaning": "Pessoa que sente aversão ou desprezo pela humanidade.",
+    "sentence": "O velho misantropo vivia isolado em sua cabana na montanha.",
+    "synonyms": [
+      "sociopata",
+      "eremita",
+      "solitário"
+    ],
+    "antonyms": [
+      "filantropo",
+      "altruísta",
+      "sociável"
+    ]
+  },
+  {
+    "word": "Paradigmático",
+    "meaning": "Que serve como modelo ou exemplo representativo.",
+    "sentence": "O caso paradigmático mudou a jurisprudência do país.",
+    "synonyms": [
+      "exemplar",
+      "modelar",
+      "emblemático"
+    ],
+    "antonyms": [
+      "atípico",
+      "anômalo",
+      "irregular"
+    ]
+  },
+  {
+    "word": "Rebuscado",
+    "meaning": "Excessivamente elaborado ou complicado.",
+    "sentence": "Seu discurso rebuscado confundiu a plateia em vez de impressioná-la.",
+    "synonyms": [
+      "afetado",
+      "pretencioso",
+      "complexo"
+    ],
+    "antonyms": [
+      "simples",
+      "natural",
+      "despojado"
+    ]
+  },
+  {
+    "word": "Sagaz",
+    "meaning": "Que tem perspicácia e astúcia.",
+    "sentence": "O detetive sagaz desvendou o mistério em poucas horas.",
+    "synonyms": [
+      "astuto",
+      "perspicaz",
+      "arguto"
+    ],
+    "antonyms": [
+      "ingênuo",
+      "simplório",
+      "obtuso"
+    ]
+  },
+  {
+    "word": "Truculento",
+    "meaning": "Que age com violência e agressividade.",
+    "sentence": "O regime truculento reprimia qualquer forma de oposição.",
+    "synonyms": [
+      "violento",
+      "selvagem",
+      "brutal"
+    ],
+    "antonyms": [
+      "pacífico",
+      "manso",
+      "cordial"
+    ]
+  },
+  {
+    "word": "Usurpar",
+    "meaning": "Tomar posse de algo indevidamente, especialmente poder.",
+    "sentence": "O general tentou usurpar o governo à força.",
+    "synonyms": [
+      "apoderar-se",
+      "assumir",
+      "tomar"
+    ],
+    "antonyms": [
+      "devolver",
+      "restituir",
+      "ceder"
+    ]
+  },
+  {
+    "word": "Vigília",
+    "meaning": "Ato de ficar acordado durante o período destinado ao sono.",
+    "sentence": "Passou a noite em vigília cuidando do filho doente.",
+    "synonyms": [
+      "insônia",
+      "vela",
+      "desvelo"
+    ],
+    "antonyms": [
+      "sono",
+      "repouso",
+      "soneca"
+    ]
+  },
+  {
+    "word": "Xenofobia",
+    "meaning": "Aversão contra pessoas estrangeiras.",
+    "sentence": "A xenofobia é um problema social que precisa ser combatido.",
+    "synonyms": [
+      "aversão",
+      "intolerância",
+      "hostilidade"
+    ],
+    "antonyms": [
+      "hospitalidade",
+      "tolerância",
+      "acolhimento"
+    ]
+  },
+  {
+    "word": "Zênite",
+    "meaning": "Ponto mais alto.",
+    "sentence": "O império atingiu seu zênite no século XVI.",
+    "synonyms": [
+      "apogeu",
+      "cume",
+      "auge"
+    ],
+    "antonyms": [
+      "declínio",
+      "nadir",
+      "fundo"
+    ]
+  },
+  {
+    "word": "Abstruso",
+    "meaning": "De compreensão difícil.",
+    "sentence": "O texto abstruso do filósofo era compreendido por poucos.",
+    "synonyms": [
+      "obscuro",
+      "incompreensível",
+      "hermético"
+    ],
+    "antonyms": [
+      "claro",
+      "simples",
+      "compreensível"
+    ]
+  },
+  {
+    "word": "Beneplácito",
+    "meaning": "Aprovação ou autorização formal.",
+    "sentence": "A proposta foi aceita com o beneplácito da diretoria.",
+    "synonyms": [
+      "aprovação",
+      "anuência",
+      "consentimento"
+    ],
+    "antonyms": [
+      "desaprovação",
+      "veto",
+      "recusa"
+    ]
+  },
+  {
+    "word": "Contumaz",
+    "meaning": "Teimoso, insistente; que persiste em atitude condenável.",
+    "sentence": "O devedor contumaz ignorava todas as cobranças.",
+    "synonyms": [
+      "teimoso",
+      "obstinado",
+      "reincidente"
+    ],
+    "antonyms": [
+      "flexível",
+      "maleável",
+      "inconstante"
+    ]
+  },
+  {
+    "word": "Deletério",
+    "meaning": "Que causa dano ou prejuízo; nocivo à saúde.",
+    "sentence": "O hábito deletério de fumar prejudica todo o organismo.",
+    "synonyms": [
+      "nocivo",
+      "prejudicial",
+      "danoso"
+    ],
+    "antonyms": [
+      "benéfico",
+      "saudável",
+      "salutar"
+    ]
+  },
+  {
+    "word": "Exacerbar",
+    "meaning": "Agravar ou tornar mais intenso.",
+    "sentence": "A discussão exacerbou ainda mais a crise entre eles.",
+    "synonyms": [
+      "agravar",
+      "acirrar",
+      "intensificar"
+    ],
+    "antonyms": [
+      "acalmar",
+      "amenizar",
+      "suavizar"
+    ]
+  },
+  {
+    "word": "Fastígio",
+    "meaning": "Auge, cume, ponto mais elevado de algo.",
+    "sentence": "Sua carreira artística chegou ao fastígio com o Oscar.",
+    "synonyms": [
+      "auge",
+      "zênite",
+      "apogeu"
+    ],
+    "antonyms": [
+      "declínio",
+      "decadência",
+      "nadir"
+    ]
+  },
+  {
+    "word": "Hediondo",
+    "meaning": "Que causa aversão profunda.",
+    "sentence": "O crime hediondo chocou toda a sociedade.",
+    "synonyms": [
+      "horrível",
+      "atroz",
+      "repugnante"
+    ],
+    "antonyms": [
+      "belo",
+      "admirável",
+      "encantador"
+    ]
+  },
+  {
+    "word": "Incólume",
+    "meaning": "Que está sem dano ou prejuízo.",
+    "sentence": "Milagrosamente, todos saíram incólumes do acidente.",
+    "synonyms": [
+      "ileso",
+      "salvo",
+      "intacto"
+    ],
+    "antonyms": [
+      "danificado",
+      "ferido",
+      "lesado"
+    ]
+  },
+  {
+    "word": "Jactância",
+    "meaning": "Ostentação orgulhosa e arrogante.",
+    "sentence": "Sua jactância irritava os colegas de trabalho.",
+    "synonyms": [
+      "arrogância",
+      "vaidade",
+      "ostentação"
+    ],
+    "antonyms": [
+      "humildade",
+      "modéstia",
+      "simplicidade"
+    ]
+  },
+  {
+    "word": "Lúgubre",
+    "meaning": "Que inspira tristeza ou melancolia profunda.",
+    "sentence": "O cemitério tinha uma atmosfera lúgubre ao entardecer.",
+    "synonyms": [
+      "sombrio",
+      "melancólico",
+      "fúnebre"
+    ],
+    "antonyms": [
+      "alegre",
+      "vívido",
+      "radiante"
+    ]
+  },
+  {
+    "word": "Magnânimo",
+    "meaning": "Que perdoa com grandeza de espírito.",
+    "sentence": "O rei magnânimo perdoou os conspiradores.",
+    "synonyms": [
+      "generoso",
+      "clemente",
+      "nobre"
+    ],
+    "antonyms": [
+      "mesquinho",
+      "egoísta",
+      "avarento"
+    ]
+  },
+  {
+    "word": "Nefasto",
+    "meaning": "Que causa desgraça ou prejuízo grave.",
+    "sentence": "O governante teve um impacto nefasto na economia do país.",
+    "synonyms": [
+      "funesto",
+      "desastroso",
+      "trágico"
+    ],
+    "antonyms": [
+      "auspicioso",
+      "favorável",
+      "benéfico"
+    ]
+  },
+  {
+    "word": "Obsoleto",
+    "meaning": "Antiquado, fora de uso, que caiu em desuso.",
+    "sentence": "O computador obsoleto não rodava mais os programas atuais.",
+    "synonyms": [
+      "antiquado",
+      "ultrapassado",
+      "arcaico"
+    ],
+    "antonyms": [
+      "moderno",
+      "atual",
+      "novo"
+    ]
+  },
+  {
+    "word": "Parco",
+    "meaning": "Que usa com moderação e parcimônia.",
+    "sentence": "O velho era parco no comer e no falar.",
+    "synonyms": [
+      "econômico",
+      "frugal",
+      "moderado"
+    ],
+    "antonyms": [
+      "gastador",
+      "esbanjador",
+      "pródigo"
+    ]
+  },
+  {
+    "word": "Reticente",
+    "meaning": "Que demonstra hesitação ou desconfiança.",
+    "sentence": "Ela ficou reticente quando perguntaram sobre seu passado.",
+    "synonyms": [
+      "hesitante",
+      "cauteloso",
+      "reservado"
+    ],
+    "antonyms": [
+      "confiante",
+      "decidido",
+      "seguro"
+    ]
+  },
+  {
+    "word": "Sapiência",
+    "meaning": "Sabedoria profunda e elevada.",
+    "sentence": "O mestre era respeitado por sua sapiência milenar.",
+    "synonyms": [
+      "sabedoria",
+      "erudição",
+      "conhecimento"
+    ],
+    "antonyms": [
+      "ignorância",
+      "estupidez",
+      "insipiência"
+    ]
+  },
+  {
+    "word": "Tenaz",
+    "meaning": "Que não desiste facilmente.",
+    "sentence": "O atleta tenaz treinou anos até conquistar a medalha.",
+    "synonyms": [
+      "persistente",
+      "obstinado",
+      "firme"
+    ],
+    "antonyms": [
+      "inconstante",
+      "desistente",
+      "vulnerável"
+    ]
+  },
+  {
+    "word": "Ubiquidade",
+    "meaning": "Capacidade de estar presente em toda parte ao mesmo tempo.",
+    "sentence": "Com a internet, a ubiquidade da informação é uma realidade.",
+    "synonyms": [
+      "onipresença",
+      "omnipresença",
+      "universalidade"
+    ],
+    "antonyms": [
+      "ausência",
+      "limitação",
+      "restrição"
+    ]
+  },
+  {
+    "word": "Verossímil",
+    "meaning": "Que parece verdadeiro, que tem aparência de verdade.",
+    "sentence": "A história era tão detalhada que parecia verossímil.",
+    "synonyms": [
+      "plausível",
+      "provável",
+      "credível"
+    ],
+    "antonyms": [
+      "improvável",
+      "falso",
+      "inverossímil"
+    ]
+  },
+  {
+    "word": "Alvíssaras",
+    "meaning": "Recompensa dada a quem traz uma boa notícia.",
+    "sentence": "Prometeu alvíssaras a quem encontrasse seu cachorro.",
+    "synonyms": [
+      "recompensa",
+      "prêmio",
+      "gratificação"
+    ],
+    "antonyms": [
+      "castigo",
+      "punição",
+      "multa"
+    ]
+  },
+  {
+    "word": "Beligerante",
+    "meaning": "Que está em conflito ou demonstra hostilidade.",
+    "sentence": "Os países beligerantes finalmente assinaram um tratado de paz.",
+    "synonyms": [
+      "guerreiro",
+      "hostil",
+      "agressivo"
+    ],
+    "antonyms": [
+      "pacífico",
+      "conciliador",
+      "diplomático"
+    ]
+  },
+  {
+    "word": "Cândido",
+    "meaning": "Que age com simplicidade e sinceridade.",
+    "sentence": "A criança cândida acreditava em tudo que lhe contavam.",
+    "synonyms": [
+      "ingênuo",
+      "sincero",
+      "puro"
+    ],
+    "antonyms": [
+      "malicioso",
+      "esperto",
+      "cínico"
+    ]
+  },
+  {
+    "word": "Difamatório",
+    "meaning": "Que calunia ou difama a reputação de alguém.",
+    "sentence": "O artigo difamatório resultou em um processo judicial.",
+    "synonyms": [
+      "calunioso",
+      "injurioso",
+      "difamante"
+    ],
+    "antonyms": [
+      "elogioso",
+      "louvável",
+      "honroso"
+    ]
+  },
+  {
+    "word": "Erudito",
+    "meaning": "Que possui cultura vasta e conhecimento profundo.",
+    "sentence": "O professor erudito citava autores gregos de memória.",
+    "synonyms": [
+      "culto",
+      "sábio",
+      "ilustrado"
+    ],
+    "antonyms": [
+      "ignorante",
+      "inculto",
+      "analfabeto"
+    ]
+  },
+  {
+    "word": "Falacioso",
+    "meaning": "Enganoso, que contém falácia ou mentira.",
+    "sentence": "O argumento falacioso foi desmontado pelo debatedor.",
+    "synonyms": [
+      "enganoso",
+      "mentiroso",
+      "ilusório"
+    ],
+    "antonyms": [
+      "verdadeiro",
+      "honesto",
+      "sincero"
+    ]
+  },
+  {
+    "word": "Hermético",
+    "meaning": "Fechado, selado; de compreensão difícil.",
+    "sentence": "A poesia hermética do autor desafiava os leitores.",
+    "synonyms": [
+      "vedado",
+      "selado",
+      "incompreensível"
+    ],
+    "antonyms": [
+      "aberto",
+      "acessível",
+      "claro"
+    ]
+  },
+  {
+    "word": "Inóspito",
+    "meaning": "Não acolhedor, hostil, difícil de habitar.",
+    "sentence": "O deserto é um lugar inóspito para a maioria dos seres vivos.",
+    "synonyms": [
+      "hostil",
+      "inabitável",
+      "desolado"
+    ],
+    "antonyms": [
+      "acolhedor",
+      "habitável",
+      "hospitaleiro"
+    ]
+  },
+  {
+    "word": "Jubiloso",
+    "meaning": "Que está cheio de alegria e contentamento.",
+    "sentence": "A torcida jubilosa comemorou a vitória do time.",
+    "synonyms": [
+      "alegre",
+      "contente",
+      "exultante"
+    ],
+    "antonyms": [
+      "triste",
+      "melancólico",
+      "deprimido"
+    ]
+  },
+  {
+    "word": "Labutar",
+    "meaning": "Trabalhar arduamente, com esforço e dedicação.",
+    "sentence": "Os agricultores labutam no campo desde o nascer do sol.",
+    "synonyms": [
+      "trabalhar",
+      "laborar",
+      "lutrar"
+    ],
+    "antonyms": [
+      "descansar",
+      "folgar",
+      "ociar"
+    ]
+  },
+  {
+    "word": "Melífluo",
+    "meaning": "Suave e agradável ao ouvido.",
+    "sentence": "O cantor tinha uma voz melíflua que encantava a plateia.",
+    "synonyms": [
+      "suave",
+      "harmonioso",
+      "doce"
+    ],
+    "antonyms": [
+      "áspero",
+      "discordante",
+      "rouco"
+    ]
+  },
+  {
+    "word": "Ostensivo",
+    "meaning": "Evidente, claro, que se mostra abertamente.",
+    "sentence": "O luxo ostensivo da mansão impressionava os visitantes.",
+    "synonyms": [
+      "evidente",
+      "manifesto",
+      "patente"
+    ],
+    "antonyms": [
+      "discreto",
+      "sutil",
+      "oculto"
+    ]
+  },
+  {
+    "word": "Pândemônio",
+    "meaning": "Confusão geral, desordem absoluta.",
+    "sentence": "Com o apagão, o trânsito virou um pandemônio.",
+    "synonyms": [
+      "confusão",
+      "caos",
+      "tumulto"
+    ],
+    "antonyms": [
+      "ordem",
+      "paz",
+      "tranquilidade"
+    ]
+  },
+  {
+    "word": "Redundante",
+    "meaning": "Repetitivo, que diz a mesma coisa de forma desnecessária.",
+    "sentence": "O texto estava redundante, repetindo a mesma ideia várias vezes.",
+    "synonyms": [
+      "repetitivo",
+      "excessivo",
+      "reiterado"
+    ],
+    "antonyms": [
+      "conciso",
+      "sucinto",
+      "resumido"
+    ]
+  },
+  {
+    "word": "Salutar",
+    "meaning": "Que faz bem à saúde.",
+    "sentence": "Caminhar ao ar livre é um hábito salutar para o corpo e a mente.",
+    "synonyms": [
+      "benéfico",
+      "saudável",
+      "proveitoso"
+    ],
+    "antonyms": [
+      "prejudicial",
+      "nocivo",
+      "danoso"
+    ]
+  },
+  {
+    "word": "Tangível",
+    "meaning": "Que pode ser tocado.",
+    "sentence": "Precisamos de resultados tangíveis, não apenas promessas.",
+    "synonyms": [
+      "palpável",
+      "material",
+      "concreto"
+    ],
+    "antonyms": [
+      "intangível",
+      "abstrato",
+      "imaterial"
+    ]
+  },
+  {
+    "word": "Vislumbrar",
+    "meaning": "Ver rapidamente ou de forma imperfeita.",
+    "sentence": "Conseguiu vislumbrar o pôr do sol entre as nuvens.",
+    "synonyms": [
+      "entrever",
+      "divisar",
+      "avistar"
+    ],
+    "antonyms": [
+      "ignorar",
+      "desconhecer",
+      "perder"
+    ]
+  },
+  {
+    "word": "Acólito",
+    "meaning": "Auxiliar em atividades religiosas.",
+    "sentence": "O acólito ajudava o padre durante a missa.",
+    "synonyms": [
+      "auxiliar",
+      "ajudante",
+      "seguidor"
+    ],
+    "antonyms": [
+      "líder",
+      "chefe",
+      "mestre"
+    ]
+  },
+  {
+    "word": "Corroborar",
+    "meaning": "Fortalecer ou confirmar uma ideia.",
+    "sentence": "Os exames corroboram a hipótese do médico.",
+    "synonyms": [
+      "confirmar",
+      "validar",
+      "comprovar"
+    ],
+    "antonyms": [
+      "contradizer",
+      "refutar",
+      "negar"
+    ]
+  },
+  {
+    "word": "Dissidente",
+    "meaning": "Pessoa que se opõe a um sistema ou doutrina estabelecida.",
+    "sentence": "O dissidente foi preso por criticar o regime.",
+    "synonyms": [
+      "opositor",
+      "rebelde",
+      "contestador"
+    ],
+    "antonyms": [
+      "adepto",
+      "seguidor",
+      "partidário"
+    ]
+  },
+  {
+    "word": "Eminente",
+    "meaning": "Que se destaca pela sua importância.",
+    "sentence": "O cientista eminente recebeu o Prêmio Nobel.",
+    "synonyms": [
+      "ilustre",
+      "insigne",
+      "notável"
+    ],
+    "antonyms": [
+      "insignificante",
+      "obscuro",
+      "desprezível"
+    ]
+  },
+  {
+    "word": "Frugal",
+    "meaning": "Que come ou gasta com simplicidade e moderação.",
+    "sentence": "O monge levava uma vida frugal no mosteiro.",
+    "synonyms": [
+      "moderado",
+      "austero",
+      "simples"
+    ],
+    "antonyms": [
+      "gastador",
+      "luxuoso",
+      "opulento"
+    ]
+  },
+  {
+    "word": "Glorificar",
+    "meaning": "Engrandecer ou exaltar intensamente.",
+    "sentence": "Os poemas glorificavam a braveza dos guerreiros.",
+    "synonyms": [
+      "exaltar",
+      "enaltecer",
+      "louvar"
+    ],
+    "antonyms": [
+      "humilhar",
+      "difamar",
+      "rebaixar"
+    ]
+  },
+  {
+    "word": "Inato",
+    "meaning": "Que nasce com o indivíduo.",
+    "sentence": "O talento inato do pianista era evidente desde criança.",
+    "synonyms": [
+      "nato",
+      "inato",
+      "natural"
+    ],
+    "antonyms": [
+      "adquirido",
+      "aprendido",
+      "artificial"
+    ]
+  },
+  {
+    "word": "Lassidão",
+    "meaning": "Estado de cansaço extremo e prostração.",
+    "sentence": "A lassidão após a maratona o fez dormir por doze horas.",
+    "synonyms": [
+      "fadiga",
+      "exaustão",
+      "cansaço"
+    ],
+    "antonyms": [
+      "energia",
+      "vigor",
+      "disposição"
+    ]
+  },
+  {
+    "word": "Moribundo",
+    "meaning": "Que está à beira da morte; que está morrendo.",
+    "sentence": "O paciente moribundo despediu-se da família.",
+    "synonyms": [
+      "agonizante",
+      "morrente",
+      "terminal"
+    ],
+    "antonyms": [
+      "vital",
+      "vigoroso",
+      "saudável"
+    ]
+  },
+  {
+    "word": "Penúria",
+    "meaning": "Falta extrema de recursos.",
+    "sentence": "A família vivia em penúria após a enchente.",
+    "synonyms": [
+      "escassez",
+      "miséria",
+      "pobreza"
+    ],
+    "antonyms": [
+      "abastança",
+      "riqueza",
+      "fartura"
+    ]
+  },
+  {
+    "word": "Remissão",
+    "meaning": "Redução de pena ou alívio de sintomas.",
+    "sentence": "O câncer entrou em remissão após o tratamento.",
+    "synonyms": [
+      "perdão",
+      "absolvição",
+      "alívio"
+    ],
+    "antonyms": [
+      "condenação",
+      "castigo",
+      "agravo"
+    ]
+  },
+  {
+    "word": "Sobressair",
+    "meaning": "Destacar-se em meio a outros.",
+    "sentence": "Ela sempre conseguia sobressair em meio aos colegas.",
+    "synonyms": [
+      "destacar-se",
+      "salientar-se",
+      "distinguir-se"
+    ],
+    "antonyms": [
+      "fracassar",
+      "falhar",
+      "obscurecer"
+    ]
+  },
+  {
+    "word": "Torpe",
+    "meaning": "Vergonhoso, desonesto, de baixo caráter moral.",
+    "sentence": "O político praticou atos torpes durante seu mandato.",
+    "synonyms": [
+      "desonesto",
+      "vil",
+      "ignóbil"
+    ],
+    "antonyms": [
+      "nobre",
+      "digno",
+      "honrado"
+    ]
+  },
+  {
+    "word": "Ulterior",
+    "meaning": "Que está além.",
+    "sentence": "Ele tinha intenções ulteriores ao fazer aquela proposta.",
+    "synonyms": [
+      "posterior",
+      "subsequente",
+      "futuro"
+    ],
+    "antonyms": [
+      "anterior",
+      "prévio",
+      "pretérito"
+    ]
+  },
+  {
+    "word": "Vicissitude",
+    "meaning": "Alternância de boa e má sorte; mudança constante.",
+    "sentence": "A vida é cheia de vicissitudes que nos surpreendem.",
+    "synonyms": [
+      "alternância",
+      "contratempo",
+      "peripécia"
+    ],
+    "antonyms": [
+      "estabilidade",
+      "constância",
+      "regularidade"
+    ]
+  },
+  {
+    "word": "Vulgar",
+    "meaning": "Comum, que não se destaca.",
+    "sentence": "O discurso vulgar do candidato não convenceu ninguém.",
+    "synonyms": [
+      "comum",
+      "ordinário",
+      "banal"
+    ],
+    "antonyms": [
+      "extraordinário",
+      "exclusivo",
+      "singular"
+    ]
+  },
+  {
+    "word": "Agnóstico",
+    "meaning": "Que considera a existência de Deus incognoscível.",
+    "sentence": "O filósofo agnóstico não negava Deus, mas duvidava de sua comprovação.",
+    "synonyms": [
+      "cético",
+      "duvidoso",
+      "incrédulo"
+    ],
+    "antonyms": [
+      "crédulo",
+      "crente",
+      "dogmático"
+    ]
+  },
+  {
+    "word": "Bacante",
+    "meaning": "Mulher que participa de festas orgíacas; muito agitada.",
+    "sentence": "A festa parecia um ritual de bacantes na antiguidade.",
+    "synonyms": [
+      "agitada",
+      "frenética",
+      "desregrada"
+    ],
+    "antonyms": [
+      "recatada",
+      "comedida",
+      "moderada"
+    ]
+  },
+  {
+    "word": "Contíguo",
+    "meaning": "Que está imediatamente junto ou vizinho.",
+    "sentence": "Os dois terrenos contíguos foram unificados.",
+    "synonyms": [
+      "vizinho",
+      "adjacente",
+      "próximo"
+    ],
+    "antonyms": [
+      "distante",
+      "afastado",
+      "separado"
+    ]
+  },
+  {
+    "word": "Dialético",
+    "meaning": "Relativo à arte do diálogo e da argumentação.",
+    "sentence": "O método dialético de Sócrates influenciou a filosofia ocidental.",
+    "synonyms": [
+      "argumentativo",
+      "discursivo",
+      "lógico"
+    ],
+    "antonyms": [
+      "ilógico",
+      "irracional",
+      "incoerente"
+    ]
+  },
+  {
+    "word": "Egrégio",
+    "meaning": "Que tem grande distinção e destaque.",
+    "sentence": "O egrégio jurista foi homenageado pela academia.",
+    "synonyms": [
+      "ilustre",
+      "insigne",
+      "notável"
+    ],
+    "antonyms": [
+      "ínfimo",
+      "desprezível",
+      "medíocre"
+    ]
+  },
+  {
+    "word": "Facínora",
+    "meaning": "Indivíduo perverso, criminoso cruel.",
+    "sentence": "O facínora aterrorizava a cidade com seus crimes.",
+    "synonyms": [
+      "criminoso",
+      "bandido",
+      "malfeitor"
+    ],
+    "antonyms": [
+      "herói",
+      "benfeitor",
+      "justiceiro"
+    ]
+  },
+  {
+    "word": "Gárrulo",
+    "meaning": "Que fala muito e sem conteúdo.",
+    "sentence": "O vizinho gárrulo não parava de falar sobre trivialidades.",
+    "synonyms": [
+      "tagarela",
+      "falador",
+      "loquaz"
+    ],
+    "antonyms": [
+      "calado",
+      "silencioso",
+      "taciturno"
+    ]
+  },
+  {
+    "word": "Híbrido",
+    "meaning": "Proveniente da mistura de elementos diferentes.",
+    "sentence": "O carro híbrido combina motor elétrico e a combustão.",
+    "synonyms": [
+      "misto",
+      "composto",
+      "mesclado"
+    ],
+    "antonyms": [
+      "puro",
+      "genuíno",
+      "autêntico"
+    ]
+  },
+  {
+    "word": "Idílio",
+    "meaning": "Relacionamento amoroso idealizado e harmonioso.",
+    "sentence": "O casal vivia um idílio romântico no campo.",
+    "synonyms": [
+      "romance",
+      "amor",
+      "namoro"
+    ],
+    "antonyms": [
+      "desavença",
+      "conflito",
+      "rixa"
+    ]
+  },
+  {
+    "word": "Latente",
+    "meaning": "Que está oculto mas pode manifestar-se.",
+    "sentence": "O conflito latente entre eles explodiu na reunião.",
+    "synonyms": [
+      "oculto",
+      "adormecido",
+      "potencial"
+    ],
+    "antonyms": [
+      "manifesto",
+      "evidente",
+      "explícito"
+    ]
+  },
+  {
+    "word": "Mórbido",
+    "meaning": "Relacionado a doenças.",
+    "sentence": "Ele tinha um interesse mórbido por crimes reais.",
+    "synonyms": [
+      "doentio",
+      "sombrio",
+      "malsão"
+    ],
+    "antonyms": [
+      "sadio",
+      "hígido",
+      "saudável"
+    ]
+  },
+  {
+    "word": "Nefelibata",
+    "meaning": "Que vive nas nuvens.",
+    "sentence": "O artista nefelibata parecia alheio ao mundo real.",
+    "synonyms": [
+      "sonhador",
+      "abstrato",
+      "distraído"
+    ],
+    "antonyms": [
+      "pragmático",
+      "realista",
+      "prático"
+    ]
+  },
+  {
+    "word": "Obnubilar",
+    "meaning": "Ofuscar ou tornar a mente confusa.",
+    "sentence": "A raiva obnubilou seu julgamento naquele momento.",
+    "synonyms": [
+      "ofuscar",
+      "obscurecer",
+      "confundir"
+    ],
+    "antonyms": [
+      "esclarecer",
+      "iluminar",
+      "clarificar"
+    ]
+  },
+  {
+    "word": "Probo",
+    "meaning": "De retidão e integridade de caráter.",
+    "sentence": "O juiz probo era respeitado por todos no tribunal.",
+    "synonyms": [
+      "íntegro",
+      "reto",
+      "honesto"
+    ],
+    "antonyms": [
+      "desonesto",
+      "corrupto",
+      "ímprobo"
+    ]
+  },
+  {
+    "word": "Querela",
+    "meaning": "Discussão acalorada que pode ir a vias judiciais.",
+    "sentence": "A querela entre os vizinhos foi parar na delegacia.",
+    "synonyms": [
+      "briga",
+      "contenda",
+      "disputa"
+    ],
+    "antonyms": [
+      "acordo",
+      "conciliação",
+      "harmonia"
+    ]
+  },
+  {
+    "word": "Sintomático",
+    "meaning": "Que serve como indício ou sinal de algo.",
+    "sentence": "O aumento da violência é sintomático da crise social.",
+    "synonyms": [
+      "indicativo",
+      "revelador",
+      "significativo"
+    ],
+    "antonyms": [
+      "assintomático",
+      "oculto",
+      "imperceptível"
+    ]
+  },
+  {
+    "word": "Transcender",
+    "meaning": "Ir além dos limites.",
+    "sentence": "A arte verdadeira transcende as barreiras do tempo.",
+    "synonyms": [
+      "superar",
+      "sobrepujar",
+      "ultrapassar"
+    ],
+    "antonyms": [
+      "limitar",
+      "restringir",
+      "confinar"
+    ]
+  },
+  {
+    "word": "Utópico",
+    "meaning": "Relativo a utopia.",
+    "sentence": "O plano utópico de paz mundial ainda é um sonho distante.",
+    "synonyms": [
+      "idealizado",
+      "fantasioso",
+      "irrealizável"
+    ],
+    "antonyms": [
+      "realista",
+      "prático",
+      "factível"
+    ]
+  },
+  {
+    "word": "Virtuose",
+    "meaning": "Pessoa com habilidade excepcional em uma arte.",
+    "sentence": "O virtuose do violino encantou o teatro lotado.",
+    "synonyms": [
+      "mestre",
+      "gênio",
+      "artífice"
+    ],
+    "antonyms": [
+      "amador",
+      "novato",
+      "principiante"
+    ]
+  },
+  {
+    "word": "Anacrônico",
+    "meaning": "Fora de seu tempo; desatualizado ou antiquado.",
+    "sentence": "Seus métodos de ensino anacrônicos não engajavam os alunos.",
+    "synonyms": [
+      "desatualizado",
+      "ultrapassado",
+      "arcaico"
+    ],
+    "antonyms": [
+      "moderno",
+      "contemporâneo",
+      "atual"
+    ]
+  },
+  {
+    "word": "Benevolente",
+    "meaning": "Que deseja o bem.",
+    "sentence": "A professora benevolente dedicava-se aos alunos carentes.",
+    "synonyms": [
+      "bondoso",
+      "caridoso",
+      "benevolente"
+    ],
+    "antonyms": [
+      "malévolo",
+      "cruel",
+      "hostil"
+    ]
+  },
+  {
+    "word": "Conjectura",
+    "meaning": "Suposição baseada em indícios, sem comprovação.",
+    "sentence": "Isso é apenas uma conjectura, não um fato comprovado.",
+    "synonyms": [
+      "suposição",
+      "hipótese",
+      "palpite"
+    ],
+    "antonyms": [
+      "certeza",
+      "fato",
+      "comprovação"
+    ]
+  }
 ]
