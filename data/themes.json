@@ -18,12 +18,6 @@
     "fontColor": "#a0d2a0"
   },
   {
-    "background": "#1a0a2e",
-    "font": "Palatino",
-    "fontSize": "2.25rem",
-    "fontColor": "#e0b0ff"
-  },
-  {
     "background": "#2a1a0a",
     "font": "Garamond",
     "fontSize": "2.25rem",
@@ -61,7 +55,7 @@
   },
   {
     "background": "/images/bg-cachu.jpg",
-    "font": "Bitcount Prop Single",
+    "font": "Lora",
     "fontSize": "2.25rem",
     "fontColor": "#ffffff"
   },

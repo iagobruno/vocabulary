@@ -1498,5 +1498,4488 @@
       "fato",
       "comprovação"
     ]
+  },
+  {
+    "word": "Abrasivo",
+    "meaning": "Que desgasta ou lixa; áspero ao tato.",
+    "sentence": "O produto abrasivo danificou a superfície da pia.",
+    "synonyms": [
+      "áspero",
+      "corrosivo",
+      "desgastante"
+    ],
+    "antonyms": [
+      "suave",
+      "macio",
+      "polido"
+    ]
+  },
+  {
+    "word": "Acometida",
+    "meaning": "Ataque súbito; investida violenta.",
+    "sentence": "O exército sofreu uma acometida surpresa ao amanhecer.",
+    "synonyms": [
+      "investida",
+      "ataque",
+      "assalto"
+    ],
+    "antonyms": [
+      "defesa",
+      "retirada",
+      "recuo"
+    ]
+  },
+  {
+    "word": "Admoestação",
+    "meaning": "Reprimenda ou aviso severo.",
+    "sentence": "O chefe fez uma admoestação pública ao funcionário descuidado.",
+    "synonyms": [
+      "repreensão",
+      "advertência",
+      "censura"
+    ],
+    "antonyms": [
+      "elogio",
+      "louvor",
+      "aprovação"
+    ]
+  },
+  {
+    "word": "Afabilidade",
+    "meaning": "Qualidade de quem é gentil e cortês.",
+    "sentence": "A afabilidade do vendedor conquistou todos os clientes.",
+    "synonyms": [
+      "cortesia",
+      "gentileza",
+      "amabilidade"
+    ],
+    "antonyms": [
+      "grosseria",
+      "aspereza",
+      "hostilidade"
+    ]
+  },
+  {
+    "word": "Alacridade",
+    "meaning": "Alegria viva e entusiástica.",
+    "sentence": "As crianças brincavam com alacridade no parque.",
+    "synonyms": [
+      "entusiasmo",
+      "vivacidade",
+      "animação"
+    ],
+    "antonyms": [
+      "apatia",
+      "tristeza",
+      "desânimo"
+    ]
+  },
+  {
+    "word": "Alheio",
+    "meaning": "Que pertence a outrem; distante ou desatento.",
+    "sentence": "Ele permaneceu alheio à discussão ao seu redor.",
+    "synonyms": [
+      "indiferente",
+      "distante",
+      "ausente"
+    ],
+    "antonyms": [
+      "atento",
+      "participante",
+      "envolvido"
+    ]
+  },
+  {
+    "word": "Almejar",
+    "meaning": "Desejar intensamente algo.",
+    "sentence": "Sempre almejou uma carreira de sucesso no exterior.",
+    "synonyms": [
+      "aspirar",
+      "alvitrar",
+      "pretender"
+    ],
+    "antonyms": [
+      "desprezar",
+      "rejeitar",
+      "renunciar"
+    ]
+  },
+  {
+    "word": "Altruísmo",
+    "meaning": "Disposição para ajudar o próximo sem interesse próprio.",
+    "sentence": "O voluntário era movido pelo altruísmo genuíno.",
+    "synonyms": [
+      "generosidade",
+      "benevolência",
+      "abnegação"
+    ],
+    "antonyms": [
+      "egoísmo",
+      "mesquinhez",
+      "individualismo"
+    ]
+  },
+  {
+    "word": "Âmago",
+    "meaning": "A parte mais íntima e profunda de algo.",
+    "sentence": "No âmago do seu coração, sabia que estava certo.",
+    "synonyms": [
+      "cerne",
+      "essência",
+      "núcleo"
+    ],
+    "antonyms": [
+      "superfície",
+      "aparência",
+      "exterior"
+    ]
+  },
+  {
+    "word": "Amálgama",
+    "meaning": "Mistura de elementos distintos em um todo homogêneo.",
+    "sentence": "A cidade era uma amálgama de culturas e tradições.",
+    "synonyms": [
+      "mistura",
+      "combinação",
+      "fusão"
+    ],
+    "antonyms": [
+      "separação",
+      "divisão",
+      "cisão"
+    ]
+  },
+  {
+    "word": "Ambivalente",
+    "meaning": "Que apresenta sentimentos ou interpretações contraditórias.",
+    "sentence": "Sentia-se ambivalente em relação à mudança de emprego.",
+    "synonyms": [
+      "contraditório",
+      "indeciso",
+      "dúbio"
+    ],
+    "antonyms": [
+      "categórico",
+      "determinado",
+      "inequívoco"
+    ]
+  },
+  {
+    "word": "Amistoso",
+    "meaning": "Que demonstra amizade e cordialidade.",
+    "sentence": "O debate foi amistoso e respeitoso entre os candidatos.",
+    "synonyms": [
+      "cordial",
+      "amigável",
+      "fraterno"
+    ],
+    "antonyms": [
+      "hostil",
+      "inimigo",
+      "adverso"
+    ]
+  },
+  {
+    "word": "Apático",
+    "meaning": "Que demonstra indiferença e falta de energia.",
+    "sentence": "O aluno apático não se interessava por nenhuma matéria.",
+    "synonyms": [
+      "indiferente",
+      "inerte",
+      "desinteressado"
+    ],
+    "antonyms": [
+      "entusiasmado",
+      "ativo",
+      "vivaz"
+    ]
+  },
+  {
+    "word": "Aplacar",
+    "meaning": "Acalmar ou apaziguar ânimos exaltados.",
+    "sentence": "Tentou aplacar a fúria do chefe com uma explicação sincera.",
+    "synonyms": [
+      "apaziguar",
+      "acalmar",
+      "mitigar"
+    ],
+    "antonyms": [
+      "irritar",
+      "provocar",
+      "exaltar"
+    ]
+  },
+  {
+    "word": "Aprazível",
+    "meaning": "Que proporciona prazer e satisfação.",
+    "sentence": "A tarde foi aprazível à beira-mar.",
+    "synonyms": [
+      "agradável",
+      "deleitoso",
+      "prazeroso"
+    ],
+    "antonyms": [
+      "desagradável",
+      "penoso",
+      "incômodo"
+    ]
+  },
+  {
+    "word": "Ardiloso",
+    "meaning": "Que usa de astúcia e artimanha para enganar.",
+    "sentence": "O golpista ardiloso convenceu a vítima com sua lábia.",
+    "synonyms": [
+      "astuto",
+      "enganoso",
+      "manhoso"
+    ],
+    "antonyms": [
+      "sincero",
+      "honesto",
+      "leal"
+    ]
+  },
+  {
+    "word": "Arrebatador",
+    "meaning": "Que causa forte comoção ou encantamento.",
+    "sentence": "O discurso arrebatador emocionou toda a plateia.",
+    "synonyms": [
+      "empolgante",
+      "comovente",
+      "fascinante"
+    ],
+    "antonyms": [
+      "entediante",
+      "monótono",
+      "insosso"
+    ]
+  },
+  {
+    "word": "Assaz",
+    "meaning": "Em quantidade suficiente ou considerável.",
+    "sentence": "O caminho era assaz longo para ser percorrido a pé.",
+    "synonyms": [
+      "bastante",
+      "suficiente",
+      "muito"
+    ],
+    "antonyms": [
+      "insuficiente",
+      "pouco",
+      "escasso"
+    ]
+  },
+  {
+    "word": "Assíduo",
+    "meaning": "Que comparece com regularidade e frequência.",
+    "sentence": "O aluno assíduo nunca perdia uma aula.",
+    "synonyms": [
+      "frequente",
+      "constante",
+      "persistente"
+    ],
+    "antonyms": [
+      "omisso",
+      "ausente",
+      "esporádico"
+    ]
+  },
+  {
+    "word": "Atroz",
+    "meaning": "Cruel, terrível, que causa grande sofrimento.",
+    "sentence": "O crime atroz chocou toda a comunidade.",
+    "synonyms": [
+      "cruel",
+      "hediondo",
+      "bárbaro"
+    ],
+    "antonyms": [
+      "brando",
+      "suave",
+      "benigno"
+    ]
+  },
+  {
+    "word": "Ausência",
+    "meaning": "Fato de não estar presente; falta.",
+    "sentence": "Sua ausência foi notada na reunião importante.",
+    "synonyms": [
+      "falta",
+      "omissão",
+      "sumiço"
+    ],
+    "antonyms": [
+      "presença",
+      "comparecimento",
+      "assiduidade"
+    ]
+  },
+  {
+    "word": "Auspicioso",
+    "meaning": "Que traz bons presságios; favorável.",
+    "sentence": "O início auspicioso do ano indicava tempos prósperos.",
+    "synonyms": [
+      "promissor",
+      "favorável",
+      "próspero"
+    ],
+    "antonyms": [
+      "nefasto",
+      "funesto",
+      "desfavorável"
+    ]
+  },
+  {
+    "word": "Aviltar",
+    "meaning": "Rebaixar, degradar ou tornar vil.",
+    "sentence": "As calúnias tentavam aviltar sua reputação.",
+    "synonyms": [
+      "degradar",
+      "humilhar",
+      "rebaixar"
+    ],
+    "antonyms": [
+      "enaltecer",
+      "honrar",
+      "elevar"
+    ]
+  },
+  {
+    "word": "Bajular",
+    "meaning": "Adular servilmente para obter favores.",
+    "sentence": "O assessor passava o dia a bajular o chefe.",
+    "synonyms": [
+      "adular",
+      "lisonjear",
+      "puxar-saco"
+    ],
+    "antonyms": [
+      "criticar",
+      "repreender",
+      "censurar"
+    ]
+  },
+  {
+    "word": "Balbúrdia",
+    "meaning": "Confusão acompanhada de barulho e desordem.",
+    "sentence": "A balbúrdia no corredor atrapalhava as aulas.",
+    "synonyms": [
+      "bagunça",
+      "tumulto",
+      "algazarra"
+    ],
+    "antonyms": [
+      "ordem",
+      "silêncio",
+      "tranquilidade"
+    ]
+  },
+  {
+    "word": "Baluarte",
+    "meaning": "Fortificação; aquilo que serve de defesa ou proteção.",
+    "sentence": "A constituição é o baluarte dos direitos do cidadão.",
+    "synonyms": [
+      "fortaleza",
+      "defesa",
+      "bastião"
+    ],
+    "antonyms": [
+      "fragilidade",
+      "vulnerabilidade",
+      "fraqueza"
+    ]
+  },
+  {
+    "word": "Banal",
+    "meaning": "Comum, trivial, que não tem originalidade.",
+    "sentence": "O discurso do político era repleto de frases banais.",
+    "synonyms": [
+      "trivial",
+      "comum",
+      "corriqueiro"
+    ],
+    "antonyms": [
+      "extraordinário",
+      "singular",
+      "ímpar"
+    ]
+  },
+  {
+    "word": "Benfazejo",
+    "meaning": "Que pratica ou traz benefícios e bondade.",
+    "sentence": "A ação benfazeja da instituição ajudou milhares de famílias.",
+    "synonyms": [
+      "benéfico",
+      "bondoso",
+      "caridoso"
+    ],
+    "antonyms": [
+      "maléfico",
+      "nocivo",
+      "prejudicial"
+    ]
+  },
+  {
+    "word": "Benigno",
+    "meaning": "Bondoso, generoso; que não causa dano.",
+    "sentence": "O médico confirmou que o tumor era benigno.",
+    "synonyms": [
+      "bondoso",
+      "benevolente",
+      "inofensivo"
+    ],
+    "antonyms": [
+      "maligno",
+      "nocivo",
+      "malévolo"
+    ]
+  },
+  {
+    "word": "Bucólico",
+    "meaning": "Relativo ao campo; de atmosfera campestre e pacífica.",
+    "sentence": "A paisagem bucólica inspirava poemas e canções.",
+    "synonyms": [
+      "campestre",
+      "rural",
+      "pastoril"
+    ],
+    "antonyms": [
+      "urbano",
+      "citadino",
+      "metropolitano"
+    ]
+  },
+  {
+    "word": "Cáustico",
+    "meaning": "Que corrói ou queima; mordaz e irônico.",
+    "sentence": "Seu humor cáustico ofendia os colegas mais sensíveis.",
+    "synonyms": [
+      "corrosivo",
+      "mordaz",
+      "ácido"
+    ],
+    "antonyms": [
+      "suave",
+      "doce",
+      "amável"
+    ]
+  },
+  {
+    "word": "Celeuma",
+    "meaning": "Discussão ruidosa e acalorada; polêmica.",
+    "sentence": "A decisão do juiz gerou grande celeuma na imprensa.",
+    "synonyms": [
+      "polêmica",
+      "controvérsia",
+      "alvoroço"
+    ],
+    "antonyms": [
+      "concórdia",
+      "harmonia",
+      "consenso"
+    ]
+  },
+  {
+    "word": "Circunspeto",
+    "meaning": "Que age com prudência e cautela.",
+    "sentence": "O advogado circunspeto analisou cada detalhe do contrato.",
+    "synonyms": [
+      "cauteloso",
+      "prudente",
+      "precavido"
+    ],
+    "antonyms": [
+      "imprudente",
+      "descuidado",
+      "negligente"
+    ]
+  },
+  {
+    "word": "Coerção",
+    "meaning": "Ato de forçar ou coagir alguém a fazer algo.",
+    "sentence": "A confissão foi obtida sob coerção e anulada pelo juiz.",
+    "synonyms": [
+      "coação",
+      "pressão",
+      "imposição"
+    ],
+    "antonyms": [
+      "persuasão",
+      "convencimento",
+      "liberdade"
+    ]
+  },
+  {
+    "word": "Combalido",
+    "meaning": "Enfraquecido, abatido fisicamente ou moralmente.",
+    "sentence": "O paciente combalido mal conseguia levantar-se da cama.",
+    "synonyms": [
+      "abatido",
+      "debilitado",
+      "exausto"
+    ],
+    "antonyms": [
+      "vigoroso",
+      "forte",
+      "robusto"
+    ]
+  },
+  {
+    "word": "Comiseração",
+    "meaning": "Sentimento de pena e compaixão pelo sofrimento alheio.",
+    "sentence": "Olhou para o mendigo com comiseração e ofereceu ajuda.",
+    "synonyms": [
+      "compaixão",
+      "piedade",
+      "solidariedade"
+    ],
+    "antonyms": [
+      "indiferença",
+      "crueldade",
+      "insensibilidade"
+    ]
+  },
+  {
+    "word": "Condescendente",
+    "meaning": "Que tolera ou aceita com indulgência.",
+    "sentence": "O professor condescendente permitiu a entrega atrasada.",
+    "synonyms": [
+      "indulgente",
+      "tolerante",
+      "complacente"
+    ],
+    "antonyms": [
+      "inflexível",
+      "rígido",
+      "intolerante"
+    ]
+  },
+  {
+    "word": "Consciencioso",
+    "meaning": "Que age com zelo e responsabilidade.",
+    "sentence": "O funcionário consciencioso revisava todo o trabalho.",
+    "synonyms": [
+      "zeloso",
+      "dedicado",
+      "cuidadoso"
+    ],
+    "antonyms": [
+      "negligente",
+      "relapso",
+      "descuidado"
+    ]
+  },
+  {
+    "word": "Contenda",
+    "meaning": "Disputa ou discussão acirrada.",
+    "sentence": "A contenda entre os vizinhos durou anos.",
+    "synonyms": [
+      "disputa",
+      "querela",
+      "rixa"
+    ],
+    "antonyms": [
+      "acordo",
+      "paz",
+      "conciliação"
+    ]
+  },
+  {
+    "word": "Contrito",
+    "meaning": "Que demonstra arrependimento sincero.",
+    "sentence": "O réu contrito pediu desculpas à vítima.",
+    "synonyms": [
+      "arrependido",
+      "penitente",
+      "remorso"
+    ],
+    "antonyms": [
+      "impune",
+      "inconsciente",
+      "orgulhoso"
+    ]
+  },
+  {
+    "word": "Convicção",
+    "meaning": "Certeza firme baseada em razões sólidas.",
+    "sentence": "Defendeu sua tese com convicção inabalável.",
+    "synonyms": [
+      "certeza",
+      "persuasão",
+      "segurança"
+    ],
+    "antonyms": [
+      "dúvida",
+      "incerteza",
+      "hesitação"
+    ]
+  },
+  {
+    "word": "Cordial",
+    "meaning": "Atencioso, afetuoso e educado.",
+    "sentence": "O atendimento cordial do recepcionista impressionou os visitantes.",
+    "synonyms": [
+      "afetuoso",
+      "gentil",
+      "amável"
+    ],
+    "antonyms": [
+      "hostil",
+      "grosseiro",
+      "ríspido"
+    ]
+  },
+  {
+    "word": "Corriqueiro",
+    "meaning": "Que acontece com frequência; comum.",
+    "sentence": "Atrasos eram corriqueiros naquele transporte público.",
+    "synonyms": [
+      "comum",
+      "frequente",
+      "costumeiro"
+    ],
+    "antonyms": [
+      "raro",
+      "insólito",
+      "excepcional"
+    ]
+  },
+  {
+    "word": "Debalde",
+    "meaning": "Em vão, sem resultado ou proveito.",
+    "sentence": "Tentou debalde convencê-lo a mudar de ideia.",
+    "synonyms": [
+      "inutilmente",
+      "infrutiferamente",
+      "em vão"
+    ],
+    "antonyms": [
+      "proveitosamente",
+      "eficazmente",
+      "utilmente"
+    ]
+  },
+  {
+    "word": "Decadência",
+    "meaning": "Processo de declínio ou degeneração.",
+    "sentence": "O império entrou em decadência após séculos de poder.",
+    "synonyms": [
+      "declínio",
+      "decréscimo",
+      "degeneração"
+    ],
+    "antonyms": [
+      "auge",
+      "progresso",
+      "florescimento"
+    ]
+  },
+  {
+    "word": "Defenestrar",
+    "meaning": "Expulsar ou demitir alguém de forma abrupta.",
+    "sentence": "O diretor foi defenestrado do cargo após o escândalo.",
+    "synonyms": [
+      "expulsar",
+      "demitir",
+      "exonerar"
+    ],
+    "antonyms": [
+      "admitir",
+      "acolher",
+      "empossar"
+    ]
+  },
+  {
+    "word": "Demasiado",
+    "meaning": "Em quantidade além do necessário.",
+    "sentence": "O barulho era demasiado para conseguir se concentrar.",
+    "synonyms": [
+      "excessivo",
+      "exagerado",
+      "sobejo"
+    ],
+    "antonyms": [
+      "insuficiente",
+      "escasso",
+      "moderado"
+    ]
+  },
+  {
+    "word": "Denodo",
+    "meaning": "Coragem e bravura diante do perigo.",
+    "sentence": "O bombeiro agiu com denodo ao salvar a família do incêndio.",
+    "synonyms": [
+      "bravura",
+      "intrepidez",
+      "destemor"
+    ],
+    "antonyms": [
+      "covardia",
+      "medo",
+      "timidez"
+    ]
+  },
+  {
+    "word": "Derradeiro",
+    "meaning": "Que está no fim; último.",
+    "sentence": "Aquele foi seu derradeiro discurso antes da aposentadoria.",
+    "synonyms": [
+      "último",
+      "final",
+      "último"
+    ],
+    "antonyms": [
+      "primeiro",
+      "inicial",
+      "primordial"
+    ]
+  },
+  {
+    "word": "Designio",
+    "meaning": "Plano ou intenção deliberada.",
+    "sentence": "Tinha o desígnio de se tornar o melhor médico do país.",
+    "synonyms": [
+      "propósito",
+      "intenção",
+      "objetivo"
+    ],
+    "antonyms": [
+      "descuido",
+      "imprevisto",
+      "acaso"
+    ]
+  },
+  {
+    "word": "Desleixo",
+    "meaning": "Falta de cuidado e capricho.",
+    "sentence": "O desleixo com a higiene era evidente no ambiente.",
+    "synonyms": [
+      "descuido",
+      "negligência",
+      "desmazelo"
+    ],
+    "antonyms": [
+      "capricho",
+      "zelo",
+      "esmero"
+    ]
+  },
+  {
+    "word": "Destreza",
+    "meaning": "Habilidade rápida e precisa para fazer algo.",
+    "sentence": "O artesão manuseava as ferramentas com grande destreza.",
+    "synonyms": [
+      "habilidade",
+      "perícia",
+      "agilidade"
+    ],
+    "antonyms": [
+      "inépcia",
+      "desajeito",
+      "imperícia"
+    ]
+  },
+  {
+    "word": "Desvelo",
+    "meaning": "Cuidado e dedicação extremos.",
+    "sentence": "A mãe tratava o filho com desvelo e carinho.",
+    "synonyms": [
+      "dedicação",
+      "zelo",
+      "cuidado"
+    ],
+    "antonyms": [
+      "descuido",
+      "negligência",
+      "abandono"
+    ]
+  },
+  {
+    "word": "Dilacerar",
+    "meaning": "Rasgar ou partir em pedaços; causar grande dor moral.",
+    "sentence": "A notícia dilacerou o coração da família.",
+    "synonyms": [
+      "rasgar",
+      "estraçalhar",
+      "lacerar"
+    ],
+    "antonyms": [
+      "unir",
+      "costurar",
+      "reparar"
+    ]
+  },
+  {
+    "word": "Diligência",
+    "meaning": "Cuidado e rapidez na execução de algo.",
+    "sentence": "Concluiu o trabalho com diligência e perfeição.",
+    "synonyms": [
+      "esmero",
+      "aplicação",
+      "cuidado"
+    ],
+    "antonyms": [
+      "negligência",
+      "preguiça",
+      "morosidade"
+    ]
+  },
+  {
+    "word": "Dirimir",
+    "meaning": "Resolver ou solucionar uma dúvida ou conflito.",
+    "sentence": "O mediador conseguiu dirimir as diferenças entre as partes.",
+    "synonyms": [
+      "solucionar",
+      "resolver",
+      "deslindar"
+    ],
+    "antonyms": [
+      "complicar",
+      "confundir",
+      "embaraçar"
+    ]
+  },
+  {
+    "word": "Discernimento",
+    "meaning": "Capacidade de julgar e distinguir com clareza.",
+    "sentence": "Tomou a decisão com discernimento e maturidade.",
+    "synonyms": [
+      "senso",
+      "juízo",
+      "sabedoria"
+    ],
+    "antonyms": [
+      "insensatez",
+      "imprudência",
+      "leviandade"
+    ]
+  },
+  {
+    "word": "Discórdia",
+    "meaning": "Desavença, falta de harmonia entre pessoas.",
+    "sentence": "A discórdia entre os sócios levou ao fim da empresa.",
+    "synonyms": [
+      "desavença",
+      "conflito",
+      "divergência"
+    ],
+    "antonyms": [
+      "concórdia",
+      "harmonia",
+      "paz"
+    ]
+  },
+  {
+    "word": "Dissipar",
+    "meaning": "Fazer desaparecer gradualmente; esbanjar.",
+    "sentence": "O vento dissipou as nuvens rapidamente.",
+    "synonyms": [
+      "dispersar",
+      "desfazer",
+      "esbanjar"
+    ],
+    "antonyms": [
+      "acumular",
+      "concentrar",
+      "preservar"
+    ]
+  },
+  {
+    "word": "Ditoso",
+    "meaning": "Que possui ou transmite felicidade.",
+    "sentence": "Sentia-se ditoso ao lado da família reunida.",
+    "synonyms": [
+      "feliz",
+      "venturoso",
+      "afortunado"
+    ],
+    "antonyms": [
+      "infeliz",
+      "desventurado",
+      "mísero"
+    ]
+  },
+  {
+    "word": "Dogmático",
+    "meaning": "Baseado em dogmas; que não admite contestação.",
+    "sentence": "Sua postura dogmática impedia qualquer diálogo produtivo.",
+    "synonyms": [
+      "inflexível",
+      "autoritário",
+      "intransigente"
+    ],
+    "antonyms": [
+      "flexível",
+      "aberto",
+      "tolerante"
+    ]
+  },
+  {
+    "word": "Efervescente",
+    "meaning": "Que produz bolhas; muito agitado e entusiasmado.",
+    "sentence": "A plateia efervescente aplaudia cada apresentação.",
+    "synonyms": [
+      "agitado",
+      "vivo",
+      "entusiasmado"
+    ],
+    "antonyms": [
+      "calmo",
+      "quieto",
+      "sereno"
+    ]
+  },
+  {
+    "word": "Efusivo",
+    "meaning": "Que demonstra sentimentos com entusiasmo e expansão.",
+    "sentence": "O abraço efusivo do amigo demonstrava sua alegria.",
+    "synonyms": [
+      "expansivo",
+      "caloroso",
+      "entusiástico"
+    ],
+    "antonyms": [
+      "frio",
+      "reservado",
+      "contido"
+    ]
+  },
+  {
+    "word": "Elucubração",
+    "meaning": "Reflexão profunda e elaborada sobre um tema.",
+    "sentence": "Suas elucubrações filosóficas rendiam longos debates.",
+    "synonyms": [
+      "divagação",
+      "cogitação",
+      "meditação"
+    ],
+    "antonyms": [
+      "superficialidade",
+      "leveza",
+      "descuido"
+    ]
+  },
+  {
+    "word": "Embuste",
+    "meaning": "Mentira ou engano elaborado para ludibriar.",
+    "sentence": "O esquema era um embuste para roubar investidores.",
+    "synonyms": [
+      "fraude",
+      "engano",
+      "logro"
+    ],
+    "antonyms": [
+      "verdade",
+      "honestidade",
+      "transparência"
+    ]
+  },
+  {
+    "word": "Emérito",
+    "meaning": "Que se destacou por seus méritos e serviços.",
+    "sentence": "O professor emérito recebeu homenagem da universidade.",
+    "synonyms": [
+      "ilustre",
+      "notável",
+      "insigne"
+    ],
+    "antonyms": [
+      "desconhecido",
+      "obscuro",
+      "medíocre"
+    ]
+  },
+  {
+    "word": "Encanecer",
+    "meaning": "Tornar-se branco ou grisalho; envelhecer.",
+    "sentence": "Começou a encanecer precocemente aos trinta anos.",
+    "synonyms": [
+      "embranquecer",
+      "grisalhar",
+      "envelhecer"
+    ],
+    "antonyms": [
+      "escurecer",
+      "rejuvenescer",
+      "tingir"
+    ]
+  },
+  {
+    "word": "Enlevo",
+    "meaning": "Estado de encantamento e admiração profunda.",
+    "sentence": "A beleza do pôr do sol a deixou em completo enlevo.",
+    "synonyms": [
+      "êxtase",
+      "encanto",
+      "deslumbre"
+    ],
+    "antonyms": [
+      "desencanto",
+      "tédio",
+      "indiferença"
+    ]
+  },
+  {
+    "word": "Entusiasta",
+    "meaning": "Pessoa que demonstra grande entusiasmo por algo.",
+    "sentence": "Era um entusiasta da fotografia e viajava por todo o mundo.",
+    "synonyms": [
+      "apaixonado",
+      "adepto",
+      "fã"
+    ],
+    "antonyms": [
+      "cético",
+      "indiferente",
+      "descrente"
+    ]
+  },
+  {
+    "word": "Equânime",
+    "meaning": "Que mantém equilíbrio e justiça em suas decisões.",
+    "sentence": "O juiz equânime era respeitado por sua imparcialidade.",
+    "synonyms": [
+      "imparcial",
+      "justo",
+      "equilibrado"
+    ],
+    "antonyms": [
+      "parcial",
+      "injusto",
+      "tendencioso"
+    ]
+  },
+  {
+    "word": "Esmero",
+    "meaning": "Cuidado minucioso e dedicação na realização de algo.",
+    "sentence": "O artesão trabalhava com esmero em cada peça.",
+    "synonyms": [
+      "capricho",
+      "zelo",
+      "primor"
+    ],
+    "antonyms": [
+      "desleixo",
+      "descuido",
+      "negligência"
+    ]
+  },
+  {
+    "word": "Estéril",
+    "meaning": "Que não produz frutos; infrutífero.",
+    "sentence": "A discussão estéril não levou a nenhuma conclusão.",
+    "synonyms": [
+      "infrutífero",
+      "improdutivo",
+      "infértil"
+    ],
+    "antonyms": [
+      "fértil",
+      "produtivo",
+      "proficuo"
+    ]
+  },
+  {
+    "word": "Estratagema",
+    "meaning": "Plano engenhoso para enganar ou alcançar um objetivo.",
+    "sentence": "Usou um estratagema para surpreender os adversários.",
+    "synonyms": [
+      "tramoia",
+      "ardil",
+      "artifício"
+    ],
+    "antonyms": [
+      "sinceridade",
+      "transparência",
+      "franqueza"
+    ]
+  },
+  {
+    "word": "Exímio",
+    "meaning": "Que tem habilidade excepcional em algo.",
+    "sentence": "O exímio pianista encantou o público com sua performance.",
+    "synonyms": [
+      "notável",
+      "excelente",
+      "virtuoso"
+    ],
+    "antonyms": [
+      "medíocre",
+      "inepto",
+      "inábil"
+    ]
+  },
+  {
+    "word": "Exortar",
+    "meaning": "Incentivar ou encorajar alguém a fazer algo.",
+    "sentence": "O treinador exortou a equipe antes da partida decisiva.",
+    "synonyms": [
+      "incitar",
+      "estimular",
+      "encorajar"
+    ],
+    "antonyms": [
+      "desencorajar",
+      "dissuadir",
+      "desestimular"
+    ]
+  },
+  {
+    "word": "Factível",
+    "meaning": "Que pode ser realizado ou executado.",
+    "sentence": "O plano era ambicioso, mas perfeitamente factível.",
+    "synonyms": [
+      "viável",
+      "realizável",
+      "exequível"
+    ],
+    "antonyms": [
+      "inviável",
+      "impossível",
+      "irrealizável"
+    ]
+  },
+  {
+    "word": "Fecundo",
+    "meaning": "Fértil, produtivo, que gera abundância.",
+    "sentence": "A terra fecunda produzia colheitas generosas.",
+    "synonyms": [
+      "fértil",
+      "prolífico",
+      "produtivo"
+    ],
+    "antonyms": [
+      "estéril",
+      "infecundo",
+      "improdutivo"
+    ]
+  },
+  {
+    "word": "Ferrenho",
+    "meaning": "Intenso e obstinado em suas convicções.",
+    "sentence": "Era um defensor ferrenho dos direitos humanos.",
+    "synonyms": [
+      "ardoroso",
+      "obstinado",
+      "intenso"
+    ],
+    "antonyms": [
+      "moderado",
+      "brando",
+      "indiferente"
+    ]
+  },
+  {
+    "word": "Fidedigno",
+    "meaning": "Que merece confiança e crédito.",
+    "sentence": "A fonte fidedigna confirmou a informação.",
+    "synonyms": [
+      "confiável",
+      "credível",
+      "digno"
+    ],
+    "antonyms": [
+      "falso",
+      "enganoso",
+      "duvidoso"
+    ]
+  },
+  {
+    "word": "Flagelo",
+    "meaning": "Açoite; calamidade que causa grande sofrimento.",
+    "sentence": "A seca era um flagelo que assolava a região.",
+    "synonyms": [
+      "calamidade",
+      "praga",
+      "açoite"
+    ],
+    "antonyms": [
+      "bênção",
+      "benção",
+      "alívio"
+    ]
+  },
+  {
+    "word": "Fomentar",
+    "meaning": "Estimular ou promover o desenvolvimento de algo.",
+    "sentence": "O governo deve fomentar a educação de qualidade.",
+    "synonyms": [
+      "promover",
+      "estimular",
+      "incentivar"
+    ],
+    "antonyms": [
+      "desestimular",
+      "reprimir",
+      "frear"
+    ]
+  },
+  {
+    "word": "Formidável",
+    "meaning": "Que impressiona pelo tamanho ou intensidade.",
+    "sentence": "O desafio era formidável, mas ela não desistiu.",
+    "synonyms": [
+      "impressionante",
+      "extraordinário",
+      "memorável"
+    ],
+    "antonyms": [
+      "insignificante",
+      "medíocre",
+      "fútil"
+    ]
+  },
+  {
+    "word": "Fortuito",
+    "meaning": "Que acontece por acaso, de forma imprevista.",
+    "sentence": "O encontro fortuito mudou sua vida para sempre.",
+    "synonyms": [
+      "casual",
+      "aleatório",
+      "imprevisto"
+    ],
+    "antonyms": [
+      "planejado",
+      "previsto",
+      "intencional"
+    ]
+  },
+  {
+    "word": "Fulgor",
+    "meaning": "Brilho intenso e luminoso.",
+    "sentence": "O fulgor das estrelas iluminava a noite escura.",
+    "synonyms": [
+      "clarão",
+      "resplendor",
+      "luminosidade"
+    ],
+    "antonyms": [
+      "obscuridade",
+      "escuridão",
+      "penumbra"
+    ]
+  },
+  {
+    "word": "Furtivo",
+    "meaning": "Feito de maneira discreta e às escondidas.",
+    "sentence": "Lançou um olhar furtivo para o lado durante a prova.",
+    "synonyms": [
+      "clandestino",
+      "sorrateiro",
+      "dissimulado"
+    ],
+    "antonyms": [
+      "aberto",
+      "transparente",
+      "explícito"
+    ]
+  },
+  {
+    "word": "Holístico",
+    "meaning": "Que considera o todo em vez das partes isoladas.",
+    "sentence": "A abordagem holística da medicina considera corpo e mente.",
+    "synonyms": [
+      "integral",
+      "global",
+      "completo"
+    ],
+    "antonyms": [
+      "parcial",
+      "segmentado",
+      "fragmentado"
+    ]
+  },
+  {
+    "word": "Idôneo",
+    "meaning": "Adequado, apropriado para determinado fim.",
+    "sentence": "O candidato idôneo foi selecionado para a vaga.",
+    "synonyms": [
+      "adequado",
+      "apropriado",
+      "competente"
+    ],
+    "antonyms": [
+      "inadequado",
+      "inapto",
+      "impróprio"
+    ]
+  },
+  {
+    "word": "Imaculado",
+    "meaning": "Sem mancha, puro em sentido físico ou moral.",
+    "sentence": "Sua reputação imaculada jamais foi questionada.",
+    "synonyms": [
+      "puro",
+      "límpido",
+      "incorrupto"
+    ],
+    "antonyms": [
+      "maculado",
+      "manchado",
+      "corrompido"
+    ]
+  },
+  {
+    "word": "Impertérrito",
+    "meaning": "Que não se abala diante do perigo ou adversidade.",
+    "sentence": "Manteve-se impertérrito mesmo sob forte pressão.",
+    "synonyms": [
+      "inabalável",
+      "sereno",
+      "firme"
+    ],
+    "antonyms": [
+      "amedrontado",
+      "abalado",
+      "perturbado"
+    ]
+  },
+  {
+    "word": "Impetuoso",
+    "meaning": "Que age com violência e impulsividade.",
+    "sentence": "O rio impetuoso arrastou tudo em seu caminho.",
+    "synonyms": [
+      "violento",
+      "impulsivo",
+      "irreprimível"
+    ],
+    "antonyms": [
+      "calmo",
+      "manso",
+      "contido"
+    ]
+  },
+  {
+    "word": "Incisivo",
+    "meaning": "Que corta; direto e penetrante.",
+    "sentence": "O comentário incisivo do crítico gerou polêmica.",
+    "synonyms": [
+      "penetrante",
+      "contundente",
+      "cortante"
+    ],
+    "antonyms": [
+      "vago",
+      "impreciso",
+      "indireto"
+    ]
+  },
+  {
+    "word": "Indômito",
+    "meaning": "Que não pode ser domado ou subjugado.",
+    "sentence": "Seu espírito indômito a levava a superar todos os obstáculos.",
+    "synonyms": [
+      "indomável",
+      "incontrolável",
+      "rebelde"
+    ],
+    "antonyms": [
+      "domável",
+      "dócil",
+      "submisso"
+    ]
+  },
+  {
+    "word": "Inexorável",
+    "meaning": "Que não se deixa comover ou convencer.",
+    "sentence": "O tempo é inexorável e não espera por ninguém.",
+    "synonyms": [
+      "inflexível",
+      "implacável",
+      "irredutível"
+    ],
+    "antonyms": [
+      "flexível",
+      "complacente",
+      "condescendente"
+    ]
+  },
+  {
+    "word": "Insípido",
+    "meaning": "Sem sabor; sem graça ou interesse.",
+    "sentence": "A comida insípida não agradou a ninguém.",
+    "synonyms": [
+      "sem sal",
+      "enjoativo",
+      "desenxabido"
+    ],
+    "antonyms": [
+      "saboroso",
+      "sápido",
+      "saboroso"
+    ]
+  },
+  {
+    "word": "Insólito",
+    "meaning": "Fora do comum, inusitado.",
+    "sentence": "O silêncio insólito na sala preocupou a todos.",
+    "synonyms": [
+      "inusitado",
+      "extraordinário",
+      "anormal"
+    ],
+    "antonyms": [
+      "comum",
+      "normal",
+      "corriqueiro"
+    ]
+  },
+  {
+    "word": "Intrincado",
+    "meaning": "Muito complicado e confuso.",
+    "sentence": "O labirinto intrincado confundia os visitantes.",
+    "synonyms": [
+      "complexo",
+      "enredado",
+      "complicado"
+    ],
+    "antonyms": [
+      "simples",
+      "claro",
+      "descomplicado"
+    ]
+  },
+  {
+    "word": "Inusitado",
+    "meaning": "Que não é usual; incomum.",
+    "sentence": "O evento inusitado atraiu a atenção da imprensa.",
+    "synonyms": [
+      "incomum",
+      "insólito",
+      "singular"
+    ],
+    "antonyms": [
+      "comum",
+      "usual",
+      "rotineiro"
+    ]
+  },
+  {
+    "word": "Irascível",
+    "meaning": "Que se irrita com facilidade.",
+    "sentence": "O velho irascível reclamava de tudo e todos.",
+    "synonyms": [
+      "irado",
+      "colérico",
+      "raivoso"
+    ],
+    "antonyms": [
+      "pacífico",
+      "calmo",
+      "tolerante"
+    ]
+  },
+  {
+    "word": "Laudatório",
+    "meaning": "Que contém elogios e louvores.",
+    "sentence": "O discurso laudatório homenageou a trajetória do artista.",
+    "synonyms": [
+      "elogioso",
+      "enaltecedor",
+      "lisonjeiro"
+    ],
+    "antonyms": [
+      "difamatório",
+      "pejorativo",
+      "detrator"
+    ]
+  },
+  {
+    "word": "Lépido",
+    "meaning": "Ágil, ligeiro e gracioso nos movimentos.",
+    "sentence": "O dançarino lépido deslizava pelo salão.",
+    "synonyms": [
+      "esbelto",
+      "ligeiro",
+      "ágeil"
+    ],
+    "antonyms": [
+      "lento",
+      "pesado",
+      "desajeitado"
+    ]
+  },
+  {
+    "word": "Abnegado",
+    "meaning": "Que renuncia a si mesmo em prol dos outros.",
+    "sentence": "O voluntário abnegado dedicou a vida aos necessitados.",
+    "synonyms": [
+      "dedicado",
+      "desprendido",
+      "altruísta"
+    ],
+    "antonyms": [
+      "egoísta",
+      "individualista",
+      "interesseiro"
+    ]
+  },
+  {
+    "word": "Absoluto",
+    "meaning": "Que não admite restrições ou limitações.",
+    "sentence": "O poder absoluto do monarca era incontestável.",
+    "synonyms": [
+      "total",
+      "pleno",
+      "irrestrito"
+    ],
+    "antonyms": [
+      "relativo",
+      "limitado",
+      "parcial"
+    ]
+  },
+  {
+    "word": "Acessível",
+    "meaning": "Que pode ser alcançado ou compreendido.",
+    "sentence": "O professor tornava a matéria acessível a todos os alunos.",
+    "synonyms": [
+      "atingível",
+      "alcançável",
+      "compreensível"
+    ],
+    "antonyms": [
+      "inacessível",
+      "remoto",
+      "ininteligível"
+    ]
+  },
+  {
+    "word": "Acirrado",
+    "meaning": "Intenso e disputado com veemência.",
+    "sentence": "A disputa acirrada pelo cargo durou meses.",
+    "synonyms": [
+      "intenso",
+      "ferrenho",
+      "veemente"
+    ],
+    "antonyms": [
+      "ameno",
+      "brando",
+      "moderado"
+    ]
+  },
+  {
+    "word": "Adentrar",
+    "meaning": "Entrar ou penetrar em algum lugar.",
+    "sentence": "Decidiu adentrar a floresta apesar dos avisos.",
+    "synonyms": [
+      "penetrar",
+      "ingressar",
+      "adentrar"
+    ],
+    "antonyms": [
+      "sair",
+      "evadir",
+      "retirar"
+    ]
+  },
+  {
+    "word": "Adversidade",
+    "meaning": "Situação difícil e desfavorável.",
+    "sentence": "Enfrentou a adversidade com coragem e determinação.",
+    "synonyms": [
+      "dificuldade",
+      "contratempo",
+      "infortunio"
+    ],
+    "antonyms": [
+      "prosperidade",
+      "fortuna",
+      "bonança"
+    ]
+  },
+  {
+    "word": "Aflição",
+    "meaning": "Grande sofrimento ou angústia.",
+    "sentence": "A aflição estampada em seu rosto comovia a todos.",
+    "synonyms": [
+      "angústia",
+      "desespero",
+      "apertura"
+    ],
+    "antonyms": [
+      "alívio",
+      "consolo",
+      "tranquilidade"
+    ]
+  },
+  {
+    "word": "Agremiação",
+    "meaning": "Associação de pessoas com interesse comum.",
+    "sentence": "A agremiação cultural promovia eventos mensais.",
+    "synonyms": [
+      "associação",
+      "sociedade",
+      "grêmio"
+    ],
+    "antonyms": [
+      "isolamento",
+      "individualidade",
+      "separação"
+    ]
+  },
+  {
+    "word": "Alcunha",
+    "meaning": "Apelido ou cognome dado a alguém.",
+    "sentence": "Ganhara a alcunha de 'Leão' por sua bravura.",
+    "synonyms": [
+      "apelido",
+      "cognome",
+      "epíteto"
+    ],
+    "antonyms": [
+      "nome",
+      "prenome",
+      "designação"
+    ]
+  },
+  {
+    "word": "Aliar",
+    "meaning": "Unir pessoas ou coisas com objetivo comum.",
+    "sentence": "Os países decidiram aliar-se contra a ameaça comum.",
+    "synonyms": [
+      "unir",
+      "agregar",
+      "associar"
+    ],
+    "antonyms": [
+      "separar",
+      "dividir",
+      "desunir"
+    ]
+  },
+  {
+    "word": "Alvoroço",
+    "meaning": "Grande agitação e tumulto.",
+    "sentence": "O anúncio causou alvoroço entre os funcionários.",
+    "synonyms": [
+      "agitação",
+      "tumulto",
+      "rebuliço"
+    ],
+    "antonyms": [
+      "calma",
+      "tranquilidade",
+      "paz"
+    ]
+  },
+  {
+    "word": "Amainar",
+    "meaning": "Diminuir a intensidade de algo.",
+    "sentence": "A tempestade começou a amainar ao entardecer.",
+    "synonyms": [
+      "abrandar",
+      "diminuir",
+      "acalmar"
+    ],
+    "antonyms": [
+      "aumentar",
+      "intensificar",
+      "agitar"
+    ]
+  },
+  {
+    "word": "Ambiência",
+    "meaning": "Ambiente ou atmosfera ao redor.",
+    "sentence": "A ambiência do restaurante era acolhedora e intimista.",
+    "synonyms": [
+      "ambiente",
+      "atmosfera",
+      "clima"
+    ],
+    "antonyms": [
+      "desarmonia",
+      "desconforto",
+      "hostilidade"
+    ]
+  },
+  {
+    "word": "Amoldar",
+    "meaning": "Dar forma ou adaptar a algo.",
+    "sentence": "Precisou amoldar seus planos à nova realidade.",
+    "synonyms": [
+      "moldar",
+      "ajustar",
+      "adaptar"
+    ],
+    "antonyms": [
+      "desajustar",
+      "desfigurar",
+      "deformar"
+    ]
+  },
+  {
+    "word": "Anelo",
+    "meaning": "Desejo veemente.",
+    "sentence": "Nutria o anelo de viajar pelo mundo.",
+    "synonyms": [
+      "anseio",
+      "aspiração",
+      "desejo"
+    ],
+    "antonyms": [
+      "repulsa",
+      "aversão",
+      "desprezo"
+    ]
+  },
+  {
+    "word": "Ânimo",
+    "meaning": "Disposição interior que leva à ação.",
+    "sentence": "Manteve o ânimo mesmo diante das dificuldades.",
+    "synonyms": [
+      "disposição",
+      "energia",
+      "entusiasmo"
+    ],
+    "antonyms": [
+      "desânimo",
+      "apatia",
+      "desalento"
+    ]
+  },
+  {
+    "word": "Antagonista",
+    "meaning": "Pessoa ou coisa que se opõe a outra.",
+    "sentence": "O antagonista da história era um vilão complexo.",
+    "synonyms": [
+      "opositor",
+      "adversário",
+      "rival"
+    ],
+    "antonyms": [
+      "aliado",
+      "partidário",
+      "defensor"
+    ]
+  },
+  {
+    "word": "Apartar",
+    "meaning": "Separar ou afastar algo ou alguém.",
+    "sentence": "Tratou de apartar os dois irmãos que brigavam.",
+    "synonyms": [
+      "separar",
+      "afastar",
+      "desunir"
+    ],
+    "antonyms": [
+      "unir",
+      "aproximar",
+      "reunir"
+    ]
+  },
+  {
+    "word": "Apreço",
+    "meaning": "Sentimento de consideração e estima.",
+    "sentence": "Tinha grande apreço pelos livros desde a infância.",
+    "synonyms": [
+      "estima",
+      "consideração",
+      "afeição"
+    ],
+    "antonyms": [
+      "desprezo",
+      "desdém",
+      "indiferença"
+    ]
+  },
+  {
+    "word": "Apropriado",
+    "meaning": "Adequado e conveniente para determinada situação.",
+    "sentence": "O vestido era apropriado para a ocasião formal.",
+    "synonyms": [
+      "adequado",
+      "conveniente",
+      "correto"
+    ],
+    "antonyms": [
+      "inadequado",
+      "impróprio",
+      "inapropriado"
+    ]
+  },
+  {
+    "word": "Arbitrário",
+    "meaning": "Que age baseado apenas na própria vontade.",
+    "sentence": "A decisão arbitrária do chefe revoltou a equipe.",
+    "synonyms": [
+      "autoritário",
+      "discricionário",
+      "unilateral"
+    ],
+    "antonyms": [
+      "justo",
+      "razoável",
+      "fundamentado"
+    ]
+  },
+  {
+    "word": "Ardência",
+    "meaning": "Qualidade do que é ardente; intensidade.",
+    "sentence": "A ardência do sol no deserto era insuportável.",
+    "synonyms": [
+      "calor",
+      "intensidade",
+      "veemência"
+    ],
+    "antonyms": [
+      "frieza",
+      "indiferença",
+      "apatia"
+    ]
+  },
+  {
+    "word": "Arguto",
+    "meaning": "Que demonstra inteligência aguçada e perspicácia.",
+    "sentence": "O detetive arguto percebeu o detalhe que todos ignoraram.",
+    "synonyms": [
+      "perspicaz",
+      "sagaz",
+      "astuto"
+    ],
+    "antonyms": [
+      "obtuso",
+      "lento",
+      "ingênuo"
+    ]
+  },
+  {
+    "word": "Arrogância",
+    "meaning": "Atitude de superioridade e soberba.",
+    "sentence": "Sua arrogância afastava os colegas de trabalho.",
+    "synonyms": [
+      "soberba",
+      "presunção",
+      "vaidade"
+    ],
+    "antonyms": [
+      "humildade",
+      "modéstia",
+      "simplicidade"
+    ]
+  },
+  {
+    "word": "Atrito",
+    "meaning": "Resistência ao movimento entre dois corpos.",
+    "sentence": "O atrito entre as peças causava desgaste prematuro.",
+    "synonyms": [
+      "fricção",
+      "roçadura",
+      "esfrega"
+    ],
+    "antonyms": [
+      "lisura",
+      "deslize",
+      "suavidade"
+    ]
+  },
+  {
+    "word": "Audácia",
+    "meaning": "Ousadia e coragem para enfrentar riscos.",
+    "sentence": "Teve a audácia de discordar do chefe na reunião.",
+    "synonyms": [
+      "ousadia",
+      "intrepidez",
+      "arrojo"
+    ],
+    "antonyms": [
+      "cautela",
+      "timidez",
+      "covardia"
+    ]
+  },
+  {
+    "word": "Auge",
+    "meaning": "Ponto mais elevado ou máximo de algo.",
+    "sentence": "Sua carreira atingiu o auge com o lançamento do livro.",
+    "synonyms": [
+      "apogeu",
+      "zênite",
+      "fastígio"
+    ],
+    "antonyms": [
+      "declínio",
+      "nadir",
+      "decadência"
+    ]
+  },
+  {
+    "word": "Austeridade",
+    "meaning": "Severidade na conduta; falta de luxo.",
+    "sentence": "O monge vivia com austeridade em seu mosteiro.",
+    "synonyms": [
+      "rigidez",
+      "sobriedade",
+      "severidade"
+    ],
+    "antonyms": [
+      "luxo",
+      "opulência",
+      "ostentação"
+    ]
+  },
+  {
+    "word": "Autoridade",
+    "meaning": "Direito de dar ordens e ser obedecido.",
+    "sentence": "O professor tinha autoridade para aplicar a prova.",
+    "synonyms": [
+      "poder",
+      "comando",
+      "jurisdição"
+    ],
+    "antonyms": [
+      "submissão",
+      "obediência",
+      "subordinação"
+    ]
+  },
+  {
+    "word": "Avassalar",
+    "meaning": "Dominar completamente; subjugar.",
+    "sentence": "O líder carismático conseguia avassalar multidões.",
+    "synonyms": [
+      "dominar",
+      "subjugar",
+      "submeter"
+    ],
+    "antonyms": [
+      "libertar",
+      "soltar",
+      "independente"
+    ]
+  },
+  {
+    "word": "Aversão",
+    "meaning": "Forte sentimento de repulsa ou antipatia.",
+    "sentence": "Sentia aversão por qualquer tipo de injustiça.",
+    "synonyms": [
+      "repulsa",
+      "antipatia",
+      "repugnância"
+    ],
+    "antonyms": [
+      "atração",
+      "simpatia",
+      "afeição"
+    ]
+  },
+  {
+    "word": "Bacharel",
+    "meaning": "Graduado em curso superior de bacharelado.",
+    "sentence": "Formou-se bacharel em direito pela universidade.",
+    "synonyms": [
+      "graduado",
+      "formado",
+      "diplomado"
+    ],
+    "antonyms": [
+      "analfabeto",
+      "iletrado",
+      "inculto"
+    ]
+  },
+  {
+    "word": "Banalidade",
+    "meaning": "Qualidade do que é banal ou trivial.",
+    "sentence": "A conversa estava repleta de banalidades.",
+    "synonyms": [
+      "trivialidade",
+      "insignificância",
+      "futilidade"
+    ],
+    "antonyms": [
+      "importância",
+      "relevância",
+      "essencial"
+    ]
+  },
+  {
+    "word": "Bárbaro",
+    "meaning": "Cruel e violento; que age com brutalidade.",
+    "sentence": "O ataque bárbaro foi condenado internacionalmente.",
+    "synonyms": [
+      "selvagem",
+      "brutal",
+      "cruel"
+    ],
+    "antonyms": [
+      "civilizado",
+      "culto",
+      "humano"
+    ]
+  },
+  {
+    "word": "Bastante",
+    "meaning": "Em quantidade suficiente ou abundante.",
+    "sentence": "Já tínhamos comida bastante para todos.",
+    "synonyms": [
+      "suficiente",
+      "abundante",
+      "assaz"
+    ],
+    "antonyms": [
+      "insuficiente",
+      "escasso",
+      "minguado"
+    ]
+  },
+  {
+    "word": "Beldade",
+    "meaning": "Mulher muito bela.",
+    "sentence": "A beldade desfilava com elegância pela passarela.",
+    "synonyms": [
+      "beleza",
+      "dama",
+      "graça"
+    ],
+    "antonyms": [
+      "fealdade",
+      "horror",
+      "monstro"
+    ]
+  },
+  {
+    "word": "Benquerença",
+    "meaning": "Sentimento de afeição e estima.",
+    "sentence": "A avó tratava os netos com muita benquerença.",
+    "synonyms": [
+      "afeição",
+      "carinho",
+      "estima"
+    ],
+    "antonyms": [
+      "malquerença",
+      "rancor",
+      "ódio"
+    ]
+  },
+  {
+    "word": "Biodiversidade",
+    "meaning": "Variedade de seres vivos em um ecossistema.",
+    "sentence": "A Amazônia possui uma biodiversidade riquíssima.",
+    "synonyms": [
+      "variedade",
+      "diversidade",
+      "multiplicidade"
+    ],
+    "antonyms": [
+      "monocultura",
+      "uniformidade",
+      "homogeneidade"
+    ]
+  },
+  {
+    "word": "Bravura",
+    "meaning": "Coragem diante do perigo.",
+    "sentence": "O soldado demonstrou bravura no campo de batalha.",
+    "synonyms": [
+      "valentia",
+      "coragem",
+      "heroísmo"
+    ],
+    "antonyms": [
+      "covardia",
+      "medo",
+      "pusilanimidade"
+    ]
+  },
+  {
+    "word": "Breve",
+    "meaning": "De curta duração ou extensão.",
+    "sentence": "O discurso foi breve, mas impactante.",
+    "synonyms": [
+      "curto",
+      "lacônico",
+      "sucinto"
+    ],
+    "antonyms": [
+      "longo",
+      "extenso",
+      "demorado"
+    ]
+  },
+  {
+    "word": "Cabedal",
+    "meaning": "Conjunto de bens ou conhecimentos.",
+    "sentence": "Acumulou grande cabedal de sabedoria ao longo da vida.",
+    "synonyms": [
+      "capital",
+      "patrimônio",
+      "acervo"
+    ],
+    "antonyms": [
+      "pobreza",
+      "ignorância",
+      "escassez"
+    ]
+  },
+  {
+    "word": "Cadenciado",
+    "meaning": "Rítmico, harmonioso e compassado.",
+    "sentence": "O sambista dançava com passos cadenciados.",
+    "synonyms": [
+      "ritmado",
+      "compassado",
+      "harmônico"
+    ],
+    "antonyms": [
+      "dissonante",
+      "descompassado",
+      "irregular"
+    ]
+  },
+  {
+    "word": "Calúnia",
+    "meaning": "Afirmação falsa que difama alguém.",
+    "sentence": "A calúnia espalhada pelas redes sociais destruiu sua reputação.",
+    "synonyms": [
+      "difamação",
+      "injúria",
+      "maledicência"
+    ],
+    "antonyms": [
+      "elogio",
+      "defesa",
+      "reabilitação"
+    ]
+  },
+  {
+    "word": "Candura",
+    "meaning": "Pureza e inocência de espírito.",
+    "sentence": "A candura da criança encantava a todos.",
+    "synonyms": [
+      "ingenuidade",
+      "pureza",
+      "singeleza"
+    ],
+    "antonyms": [
+      "malícia",
+      "astúcia",
+      "esperteza"
+    ]
+  },
+  {
+    "word": "Capacidade",
+    "meaning": "Habilidade para realizar ou compreender algo.",
+    "sentence": "Tinha grande capacidade de concentração.",
+    "synonyms": [
+      "aptidão",
+      "competência",
+      "habilidade"
+    ],
+    "antonyms": [
+      "incapacidade",
+      "inépcia",
+      "incompetência"
+    ]
+  },
+  {
+    "word": "Capricho",
+    "meaning": "Desejo repentino e sem razão aparente.",
+    "sentence": "Atendeu ao capricho do filho e comprou o brinquedo.",
+    "synonyms": [
+      "vontade",
+      "fantasia",
+      "impulso"
+    ],
+    "antonyms": [
+      "moderação",
+      "comedimento",
+      "contenção"
+    ]
+  },
+  {
+    "word": "Cautela",
+    "meaning": "Atenção e cuidado para evitar riscos.",
+    "sentence": "Atravessou a ponte com cautela.",
+    "synonyms": [
+      "precaução",
+      "cuidado",
+      "prudência"
+    ],
+    "antonyms": [
+      "imprudência",
+      "descuido",
+      "temeridade"
+    ]
+  },
+  {
+    "word": "Ceder",
+    "meaning": "Entregar ou permitir algo; abrir mão.",
+    "sentence": "Finalmente cedeu às pressões e aceitou o acordo.",
+    "synonyms": [
+      "rendeder-se",
+      "submeter-se",
+      "conceder"
+    ],
+    "antonyms": [
+      "resistir",
+      "opor-se",
+      "negar"
+    ]
+  },
+  {
+    "word": "Celestial",
+    "meaning": "Relativo ao céu; divino.",
+    "sentence": "A música celestial parecia vir dos anjos.",
+    "synonyms": [
+      "divino",
+      "celeste",
+      "sublime"
+    ],
+    "antonyms": [
+      "terreno",
+      "mundano",
+      "infernal"
+    ]
+  },
+  {
+    "word": "Cessar",
+    "meaning": "Fazer parar; interromper definitivamente.",
+    "sentence": "A chuva finalmente cessou após horas.",
+    "synonyms": [
+      "parar",
+      "interromper",
+      "findar"
+    ],
+    "antonyms": [
+      "continuar",
+      "persistir",
+      "prosseguir"
+    ]
+  },
+  {
+    "word": "Clamor",
+    "meaning": "Grito intenso e veemente.",
+    "sentence": "O clamor da multidão ecoava pelas ruas.",
+    "synonyms": [
+      "grito",
+      "brado",
+      "vociferação"
+    ],
+    "antonyms": [
+      "silêncio",
+      "murmúrio",
+      "sussurro"
+    ]
+  },
+  {
+    "word": "Clarividente",
+    "meaning": "Que vê com clareza e perspicácia.",
+    "sentence": "O líder clarividente previu a crise econômica.",
+    "synonyms": [
+      "perspicaz",
+      "lúcido",
+      "previsionário"
+    ],
+    "antonyms": [
+      "cego",
+      "obtuso",
+      "miope"
+    ]
+  },
+  {
+    "word": "Coesão",
+    "meaning": "União firme entre elementos.",
+    "sentence": "A coesão da equipe foi essencial para a vitória.",
+    "synonyms": [
+      "união",
+      "liga",
+      "integração"
+    ],
+    "antonyms": [
+      "desunião",
+      "dispersão",
+      "fragmentação"
+    ]
+  },
+  {
+    "word": "Colarinho",
+    "meaning": "Pequeno colar; gola ornamentada.",
+    "sentence": "Usava um colarinho branco impecável.",
+    "synonyms": [
+      "gola",
+      "coleira",
+      "ornamento"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Colheita",
+    "meaning": "Ato de recolher os frutos da plantação.",
+    "sentence": "A colheita do milho foi abundante este ano.",
+    "synonyms": [
+      "safra",
+      "apanha",
+      "recolha"
+    ],
+    "antonyms": [
+      "plantio",
+      "semeadura",
+      "plantação"
+    ]
+  },
+  {
+    "word": "Colosso",
+    "meaning": "Algo ou alguém de enorme tamanho ou importância.",
+    "sentence": "O Cristo Redentor é um colosso que domina a paisagem.",
+    "synonyms": [
+      "gigante",
+      "monumento",
+      "grandeza"
+    ],
+    "antonyms": [
+      "anão",
+      "pequenez",
+      "miniatura"
+    ]
+  },
+  {
+    "word": "Combate",
+    "meaning": "Luta ou confronto entre forças opostas.",
+    "sentence": "O combate contra a doença foi longo e doloroso.",
+    "synonyms": [
+      "batalha",
+      "luta",
+      "guerra"
+    ],
+    "antonyms": [
+      "paz",
+      "trégua",
+      "armistício"
+    ]
+  },
+  {
+    "word": "Comedimento",
+    "meaning": "Moderação e equilíbrio nas atitudes.",
+    "sentence": "Falou com comedimento para não ofender ninguém.",
+    "synonyms": [
+      "moderação",
+      "discrição",
+      "reserva"
+    ],
+    "antonyms": [
+      "exagero",
+      "intemperança",
+      "descomedimento"
+    ]
+  },
+  {
+    "word": "Compêndio",
+    "meaning": "Resumo que abrange os pontos principais.",
+    "sentence": "O compêndio de biologia era usado por todos os alunos.",
+    "synonyms": [
+      "resumo",
+      "súmula",
+      "sinopse"
+    ],
+    "antonyms": [
+      "obra completa",
+      "tratado",
+      "enciclopédia"
+    ]
+  },
+  {
+    "word": "Complacente",
+    "meaning": "Que age com tolerância e bondade excessivas.",
+    "sentence": "O pai complacente nunca dizia não aos filhos.",
+    "synonyms": [
+      "indulgente",
+      "tolerante",
+      "condescendente"
+    ],
+    "antonyms": [
+      "exigente",
+      "rígido",
+      "severo"
+    ]
+  },
+  {
+    "word": "Compreender",
+    "meaning": "Entender o significado ou a importância.",
+    "sentence": "Precisava compreender as razões da decisão.",
+    "synonyms": [
+      "entender",
+      "perceber",
+      "assimilar"
+    ],
+    "antonyms": [
+      "ignorar",
+      "desconhecer",
+      "negligenciar"
+    ]
+  },
+  {
+    "word": "Compulsório",
+    "meaning": "Obrigatório, imposto por autoridade.",
+    "sentence": "O serviço militar era compulsório no país.",
+    "synonyms": [
+      "obrigatório",
+      "forçado",
+      "impositivo"
+    ],
+    "antonyms": [
+      "facultativo",
+      "opcional",
+      "voluntário"
+    ]
+  },
+  {
+    "word": "Concerto",
+    "meaning": "Composição musical para instrumentos e orquestra.",
+    "sentence": "O concerto de piano lotou o teatro municipal.",
+    "synonyms": [
+      "apresentação",
+      "recital",
+      "espetáculo"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Concílio",
+    "meaning": "Reunião solene para deliberar sobre assuntos importantes.",
+    "sentence": "O concílio dos bispos definiu as novas diretrizes.",
+    "synonyms": [
+      "assembleia",
+      "conclave",
+      "sínodo"
+    ],
+    "antonyms": [
+      "dispersão",
+      "individualidade"
+    ]
+  },
+  {
+    "word": "Conduta",
+    "meaning": "Modo de agir e se comportar.",
+    "sentence": "Sua conduta ética era admirada por todos.",
+    "synonyms": [
+      "comportamento",
+      "proceder",
+      "atuação"
+    ],
+    "antonyms": [
+      "má conduta",
+      "desvio",
+      "delito"
+    ]
+  },
+  {
+    "word": "Conflito",
+    "meaning": "Choque de interesses ou opiniões.",
+    "sentence": "O conflito entre os departamentos prejudicou o projeto.",
+    "synonyms": [
+      "desavença",
+      "contenda",
+      "dissídio"
+    ],
+    "antonyms": [
+      "harmonia",
+      "concórdia",
+      "acordo"
+    ]
+  },
+  {
+    "word": "Congruente",
+    "meaning": "Que está em harmonia e coerência.",
+    "sentence": "Seus atos não eram congruentes com seu discurso.",
+    "synonyms": [
+      "coerente",
+      "harmonioso",
+      "consoante"
+    ],
+    "antonyms": [
+      "incongruente",
+      "contraditório",
+      "incompatível"
+    ]
+  },
+  {
+    "word": "Consagrado",
+    "meaning": "Que recebeu reconhecimento e consagração.",
+    "sentence": "O autor consagrado lançou mais um sucesso editorial.",
+    "synonyms": [
+      "consagrado",
+      "venerado",
+      "aclamado"
+    ],
+    "antonyms": [
+      "desconhecido",
+      "novato",
+      "iniciante"
+    ]
+  },
+  {
+    "word": "Consenso",
+    "meaning": "Acordo geral entre os envolvidos.",
+    "sentence": "Não houve consenso sobre o novo regulamento.",
+    "synonyms": [
+      "concordância",
+      "unanimidade",
+      "harmonia"
+    ],
+    "antonyms": [
+      "discórdia",
+      "divergência",
+      "dissenso"
+    ]
+  },
+  {
+    "word": "Consolo",
+    "meaning": "Alívio para a dor ou sofrimento.",
+    "sentence": "As palavras do amigo foram grande consolo.",
+    "synonyms": [
+      "conforto",
+      "alento",
+      "solidariedade"
+    ],
+    "antonyms": [
+      "aflição",
+      "angústia",
+      "desconsolo"
+    ]
+  },
+  {
+    "word": "Constância",
+    "meaning": "Qualidade do que é constante e permanente.",
+    "sentence": "A constância dos estudos levou à aprovação.",
+    "synonyms": [
+      "persistência",
+      "firmeza",
+      "regularidade"
+    ],
+    "antonyms": [
+      "instabilidade",
+      "inconstância",
+      "volubilidade"
+    ]
+  },
+  {
+    "word": "Consuetudinário",
+    "meaning": "Baseado em costumes e tradições.",
+    "sentence": "O direito consuetudinário rege muitas comunidades.",
+    "synonyms": [
+      "tradicional",
+      "costumeiro",
+      "habitual"
+    ],
+    "antonyms": [
+      "legal",
+      "formal",
+      "codificado"
+    ]
+  },
+  {
+    "word": "Contemplar",
+    "meaning": "Observar com admiração e atenção.",
+    "sentence": "Passou horas a contemplar o pôr do sol.",
+    "synonyms": [
+      "admirar",
+      "mirar",
+      "observar"
+    ],
+    "antonyms": [
+      "ignorar",
+      "desprezar",
+      "negligenciar"
+    ]
+  },
+  {
+    "word": "Contundente",
+    "meaning": "Que fere ou impressiona pela força.",
+    "sentence": "O argumento contundente silenciou a plateia.",
+    "synonyms": [
+      "incisivo",
+      "categórico",
+      "contundente"
+    ],
+    "antonyms": [
+      "frágil",
+      "fraco",
+      "ineficaz"
+    ]
+  },
+  {
+    "word": "Convalescente",
+    "meaning": "Que está se recuperando de doença.",
+    "sentence": "O paciente convalescente precisava de repouso.",
+    "synonyms": [
+      "recuperando",
+      "restabelecendo",
+      "curando"
+    ],
+    "antonyms": [
+      "doente",
+      "enfermo",
+      "doente"
+    ]
+  },
+  {
+    "word": "Convite",
+    "meaning": "Solicitação para participar de algo.",
+    "sentence": "Recebeu um convite para a festa de gala.",
+    "synonyms": [
+      "chamado",
+      "convocação",
+      "convidativo"
+    ],
+    "antonyms": [
+      "recusa",
+      "dispensa",
+      "exclusão"
+    ]
+  },
+  {
+    "word": "Cópia",
+    "meaning": "Reprodução exata de algo.",
+    "sentence": "Fez uma cópia do documento original.",
+    "synonyms": [
+      "reprodução",
+      "duplicata",
+      "réplica"
+    ],
+    "antonyms": [
+      "original",
+      "autêntico",
+      "exemplar único"
+    ]
+  },
+  {
+    "word": "Credibilidade",
+    "meaning": "Qualidade do que merece crédito e confiança.",
+    "sentence": "A credibilidade do jornal foi questionada.",
+    "synonyms": [
+      "confiabilidade",
+      "idoneidade",
+      "confiança"
+    ],
+    "antonyms": [
+      "descrédito",
+      "inconfiabilidade",
+      "dúvida"
+    ]
+  },
+  {
+    "word": "Criação",
+    "meaning": "Ato de criar; o que foi criado.",
+    "sentence": "A criação do universo é tema de debates.",
+    "synonyms": [
+      "invenção",
+      "concepção",
+      "produção"
+    ],
+    "antonyms": [
+      "destruição",
+      "aniquilação",
+      "extinção"
+    ]
+  },
+  {
+    "word": "Cuidado",
+    "meaning": "Atenção e zelo na execução de algo.",
+    "sentence": "Manuseie o equipamento com cuidado.",
+    "synonyms": [
+      "zelo",
+      "atenção",
+      "desvelo"
+    ],
+    "antonyms": [
+      "descuido",
+      "negligência",
+      "imprudência"
+    ]
+  },
+  {
+    "word": "Cultivar",
+    "meaning": "Preparar a terra para plantio.",
+    "sentence": "Gostava de cultivar flores no jardim.",
+    "synonyms": [
+      "plantar",
+      "semear",
+      "lavrar"
+    ],
+    "antonyms": [
+      "erradicar",
+      "arrancar",
+      "extirpar"
+    ]
+  },
+  {
+    "word": "Cumprimento",
+    "meaning": "Ato de cumprir ou saudar alguém.",
+    "sentence": "Deu um cumprimento caloroso ao visitante.",
+    "synonyms": [
+      "saudação",
+      "reverência",
+      "mesura"
+    ],
+    "antonyms": [
+      "despedida",
+      "adeus",
+      "afastamento"
+    ]
+  },
+  {
+    "word": "Dádiva",
+    "meaning": "Presente; algo recebido gratuitamente.",
+    "sentence": "A vida é uma dádiva que devemos valorizar.",
+    "synonyms": [
+      "presente",
+      "dom",
+      "graça"
+    ],
+    "antonyms": [
+      "perda",
+      "castigo",
+      "privação"
+    ]
+  },
+  {
+    "word": "Deboche",
+    "meaning": "Zombaria ou escárnio com desrespeito.",
+    "sentence": "O deboche do apresentador ofendeu os convidados.",
+    "synonyms": [
+      "zombaria",
+      "escárnio",
+      "mofa"
+    ],
+    "antonyms": [
+      "respeito",
+      "consideração",
+      "seriedade"
+    ]
+  },
+  {
+    "word": "Decano",
+    "meaning": "Pessoa mais antiga em uma instituição.",
+    "sentence": "O decano dos professores foi homenageado.",
+    "synonyms": [
+      "veterano",
+      "ancião",
+      "antigo"
+    ],
+    "antonyms": [
+      "novato",
+      "calouro",
+      "iniciante"
+    ]
+  },
+  {
+    "word": "Decência",
+    "meaning": "Qualidade do que é decente e adequado.",
+    "sentence": "Faltou decência em suas palavras ofensivas.",
+    "synonyms": [
+      "dignidade",
+      "recato",
+      "honestidade"
+    ],
+    "antonyms": [
+      "indecência",
+      "obscenidade",
+      "vulgaridade"
+    ]
+  },
+  {
+    "word": "Decrépito",
+    "meaning": "Muito velho e gasto pelo tempo.",
+    "sentence": "O prédio decrépito foi finalmente demolido.",
+    "synonyms": [
+      "deteriorado",
+      "arruinado",
+      "senil"
+    ],
+    "antonyms": [
+      "novo",
+      "robusto",
+      "vigoroso"
+    ]
+  },
+  {
+    "word": "Definhar",
+    "meaning": "Perder gradualmente a força e vitalidade.",
+    "sentence": "A planta começou a definhar sem água.",
+    "synonyms": [
+      "definhar",
+      "debilitar",
+      "enfraquecer"
+    ],
+    "antonyms": [
+      "fortalecer",
+      "vigorar",
+      "florescer"
+    ]
+  },
+  {
+    "word": "Deferência",
+    "meaning": "Ato de respeitar a opinião alheia.",
+    "sentence": "Tratava os mais velhos com deferência.",
+    "synonyms": [
+      "reverência",
+      "acatamento",
+      "respeito"
+    ],
+    "antonyms": [
+      "desfeita",
+      "desrespeito",
+      "afronta"
+    ]
+  },
+  {
+    "word": "Deletrear",
+    "meaning": "Soletrar ou decifrar com dificuldade.",
+    "sentence": "A criança começou a deletrear as primeiras palavras.",
+    "synonyms": [
+      "soletrar",
+      "decifrar",
+      " soletrar"
+    ],
+    "antonyms": [
+      "ler fluentemente",
+      "compreender",
+      "dominar"
+    ]
+  },
+  {
+    "word": "Demagogia",
+    "meaning": "Discurso que manipula o povo para obter poder.",
+    "sentence": "A demagogia do político conquistava os incautos.",
+    "synonyms": [
+      "populismo",
+      "manipulação",
+      "engodo"
+    ],
+    "antonyms": [
+      "sinceridade",
+      "transparência",
+      "honestidade"
+    ]
+  },
+  {
+    "word": "Demência",
+    "meaning": "Perda progressiva das faculdades mentais.",
+    "sentence": "O idoso sofria de demência senil.",
+    "synonyms": [
+      "loucura",
+      "insanidade",
+      "alienação"
+    ],
+    "antonyms": [
+      "sanidade",
+      "lucidez",
+      "razão"
+    ]
+  },
+  {
+    "word": "Denegrir",
+    "meaning": "Difamar ou manchar a reputação de alguém.",
+    "sentence": "Espalharam boatos para denegrir sua imagem.",
+    "synonyms": [
+      "difamar",
+      "caluniar",
+      "infamar"
+    ],
+    "antonyms": [
+      "enaltecer",
+      "louvar",
+      "engrandecer"
+    ]
+  },
+  {
+    "word": "Densidade",
+    "meaning": "Qualidade do que é denso e compacto.",
+    "sentence": "A densidade populacional da cidade é altíssima.",
+    "synonyms": [
+      "concentração",
+      "espessura",
+      "consistência"
+    ],
+    "antonyms": [
+      "rarefação",
+      "dispersão",
+      "leveza"
+    ]
+  },
+  {
+    "word": "Depreender",
+    "meaning": "Deduzir ou concluir por raciocínio.",
+    "sentence": "Depreende-se do texto que o autor é pessimista.",
+    "synonyms": [
+      "deduzir",
+      "inferir",
+      "concluir"
+    ],
+    "antonyms": [
+      "confundir",
+      "obscurecer",
+      "complexificar"
+    ]
+  },
+  {
+    "word": "Derrota",
+    "meaning": "Perda em uma competição ou conflito.",
+    "sentence": "A derrota do time foi inesperada.",
+    "synonyms": [
+      "fracasso",
+      "reversão",
+      "insucesso"
+    ],
+    "antonyms": [
+      "vitória",
+      "triunfo",
+      "sucesso"
+    ]
+  },
+  {
+    "word": "Desalentar",
+    "meaning": "Tirar o ânimo e a esperança.",
+    "sentence": "As más notícias começaram a desalentar a equipe.",
+    "synonyms": [
+      "desanimar",
+      "desesperançar",
+      "desencorajar"
+    ],
+    "antonyms": [
+      "animar",
+      "estimular",
+      "encorajar"
+    ]
+  },
+  {
+    "word": "Desavença",
+    "meaning": "Rompimento de amizade por divergência.",
+    "sentence": "A desavença entre os sócios dividiu a empresa.",
+    "synonyms": [
+      "briga",
+      "discórdia",
+      "desinteligência"
+    ],
+    "antonyms": [
+      "harmonia",
+      "concórdia",
+      "entendimento"
+    ]
+  },
+  {
+    "word": "Desdém",
+    "meaning": "Atitude de indiferença e desprezo.",
+    "sentence": "Tratava os subordinados com desdém.",
+    "synonyms": [
+      "desprezo",
+      "menosprezo",
+      "descaso"
+    ],
+    "antonyms": [
+      "respeito",
+      "consideração",
+      "apreço"
+    ]
+  },
+  {
+    "word": "Desígnio",
+    "meaning": "Propósito ou intenção premeditada.",
+    "sentence": "Os desígnios de Deus são misteriosos.",
+    "synonyms": [
+      "propósito",
+      "intento",
+      "finalidade"
+    ],
+    "antonyms": [
+      "acaso",
+      "imprevisto",
+      "aleatoriedade"
+    ]
+  },
+  {
+    "word": "Alvitre",
+    "meaning": "Opinião, conselho ou sugestão.",
+    "sentence": "Dei meu alvitre sobre o assunto, mas ninguém ouviu.",
+    "synonyms": [
+      "conselho",
+      "sugestão",
+      "opinião"
+    ],
+    "antonyms": [
+      "imposição",
+      "ordem",
+      "determinação"
+    ]
+  },
+  {
+    "word": "Amplexo",
+    "meaning": "Ato de abraçar; abraço.",
+    "sentence": "Recebeu-o com um amplexo caloroso.",
+    "synonyms": [
+      "abraço",
+      "apertão",
+      "enlaço"
+    ],
+    "antonyms": [
+      "repulsa",
+      "afastamento",
+      "rejeição"
+    ]
+  },
+  {
+    "word": "Apogeu",
+    "meaning": "Ponto mais elevado; auge.",
+    "sentence": "Sua carreira chegou ao apogeu com a premiação.",
+    "synonyms": [
+      "auge",
+      "cume",
+      "zênite"
+    ],
+    "antonyms": [
+      "declínio",
+      "queda",
+      "nadir"
+    ]
+  },
+  {
+    "word": "Árduo",
+    "meaning": "Que exige muito esforço; difícil.",
+    "sentence": "O trabalho árduo foi recompensado.",
+    "synonyms": [
+      "difícil",
+      "laborioso",
+      "penoso"
+    ],
+    "antonyms": [
+      "fácil",
+      "simples",
+      "cômodo"
+    ]
+  },
+  {
+    "word": "Arrebanhar",
+    "meaning": "Juntar ou reunir em rebanho.",
+    "sentence": "O pastor conseguiu arrebanhar todas as ovelhas.",
+    "synonyms": [
+      "reunir",
+      "agrupar",
+      "congregar"
+    ],
+    "antonyms": [
+      "dispersar",
+      "espalhar",
+      "separar"
+    ]
+  },
+  {
+    "word": "Borborinho",
+    "meaning": "Barulho confuso; rumor de vozes.",
+    "sentence": "O borborinho da multidão era ensurdecedor.",
+    "synonyms": [
+      "algazarra",
+      "balbúrdia",
+      "tumulto"
+    ],
+    "antonyms": [
+      "silêncio",
+      "tranquilidade",
+      "paz"
+    ]
+  },
+  {
+    "word": "Cilada",
+    "meaning": "Armadilha ou emboscada.",
+    "sentence": "Ele caiu em uma cilada bem planejada.",
+    "synonyms": [
+      "armadilha",
+      "emboscada",
+      "trama"
+    ],
+    "antonyms": [
+      "segurança",
+      "proteção",
+      "cautela"
+    ]
+  },
+  {
+    "word": "Cogitar",
+    "meaning": "Pensar ou refletir sobre algo.",
+    "sentence": "Cogito em mudar de carreira há meses.",
+    "synonyms": [
+      "pensar",
+      "refletir",
+      "considerar"
+    ],
+    "antonyms": [
+      "ignorar",
+      "desconsiderar",
+      "negligenciar"
+    ]
+  },
+  {
+    "word": "Conluio",
+    "meaning": "Acordo secreto com intenção ilícita.",
+    "sentence": "Os políticos agiram em conluio para desviar verbas.",
+    "synonyms": [
+      "conspiração",
+      "trama",
+      "maquinação"
+    ],
+    "antonyms": [
+      "transparência",
+      "honestidade",
+      "lisura"
+    ]
+  },
+  {
+    "word": "Corolário",
+    "meaning": "Consequência ou resultado natural de algo.",
+    "sentence": "O cansaço é corolário de uma noite mal dormida.",
+    "synonyms": [
+      "consequência",
+      "resultado",
+      "efeito"
+    ],
+    "antonyms": [
+      "causa",
+      "origem",
+      "motivo"
+    ]
+  },
+  {
+    "word": "Crepúsculo",
+    "meaning": "Luz difusa ao amanhecer ou anoitecer.",
+    "sentence": "O crepúsculo tingiu o céu de tons alaranjados.",
+    "synonyms": [
+      "entardecer",
+      "ocaso",
+      "lusco-fusco"
+    ],
+    "antonyms": [
+      "aurora",
+      "alvorada",
+      "amanhecer"
+    ]
+  },
+  {
+    "word": "Dissensão",
+    "meaning": "Divergência de opiniões; discórdia.",
+    "sentence": "A dissensão entre os sócios levou ao fim da empresa.",
+    "synonyms": [
+      "discórdia",
+      "divergência",
+      "desavença"
+    ],
+    "antonyms": [
+      "concórdia",
+      "harmonia",
+      "consenso"
+    ]
+  },
+  {
+    "word": "Dissimular",
+    "meaning": "Ocultar sentimentos ou intenções.",
+    "sentence": "Ela tentou dissimular a tristeza com um sorriso.",
+    "synonyms": [
+      "ocultar",
+      "esconder",
+      "disfarçar"
+    ],
+    "antonyms": [
+      "revelar",
+      "manifestar",
+      "expor"
+    ]
+  },
+  {
+    "word": "Empáfia",
+    "meaning": "Atitude de superioridade arrogante.",
+    "sentence": "Sua empáfia afastava todos os colegas.",
+    "synonyms": [
+      "arrogância",
+      "soberba",
+      "presunção"
+    ],
+    "antonyms": [
+      "humildade",
+      "modéstia",
+      "simplicidade"
+    ]
+  },
+  {
+    "word": "Escárnio",
+    "meaning": "Zombaria insultuosa e maldosa.",
+    "sentence": "Foi recebido com escárnio pela plateia.",
+    "synonyms": [
+      "zombaria",
+      "deboche",
+      "sarcasmo"
+    ],
+    "antonyms": [
+      "respeito",
+      "admiração",
+      "consideração"
+    ]
+  },
+  {
+    "word": "Escrúpulo",
+    "meaning": "Dúvida ou receio moral; cuidado minucioso.",
+    "sentence": "Agia com escrúpulo em todas as decisões.",
+    "synonyms": [
+      "dúvida",
+      "hesitação",
+      "cuidado"
+    ],
+    "antonyms": [
+      "desleixo",
+      "imprudência",
+      "leviandade"
+    ]
+  },
+  {
+    "word": "Espúrio",
+    "meaning": "Que não é genuíno; falso ou ilegítimo.",
+    "sentence": "Documentos espúrios foram apresentados no tribunal.",
+    "synonyms": [
+      "falso",
+      "ilegítimo",
+      "adulterado"
+    ],
+    "antonyms": [
+      "genuíno",
+      "autêntico",
+      "legítimo"
+    ]
+  },
+  {
+    "word": "Exaurir",
+    "meaning": "Esgotar completamente; consumir por inteiro.",
+    "sentence": "O trabalho exaustivo exauriu suas forças.",
+    "synonyms": [
+      "esgotar",
+      "consumir",
+      "extenuar"
+    ],
+    "antonyms": [
+      "revigorar",
+      "fortalecer",
+      "reabastecer"
+    ]
+  },
+  {
+    "word": "Filantropia",
+    "meaning": "Amor à humanidade; generosidade com o próximo.",
+    "sentence": "Dedicou sua fortuna à filantropia.",
+    "synonyms": [
+      "caridade",
+      "benevolência",
+      "altruísmo"
+    ],
+    "antonyms": [
+      "egoísmo",
+      "misantropia",
+      "avareza"
+    ]
+  },
+  {
+    "word": "Galhardia",
+    "meaning": "Bravura aliada à elegância e nobreza.",
+    "sentence": "Enfrentou a adversidade com galhardia.",
+    "synonyms": [
+      "bravura",
+      "coragem",
+      "nobreza"
+    ],
+    "antonyms": [
+      "covardia",
+      "timidez",
+      "frouxidão"
+    ]
+  },
+  {
+    "word": "Hálito",
+    "meaning": "Ar expirado pelos pulmões; sopro leve.",
+    "sentence": "O hálito frio da manhã cobria o jardim.",
+    "synonyms": [
+      "sopro",
+      "bafo",
+      "respiração"
+    ],
+    "antonyms": [
+      "apneia",
+      "asfixia",
+      "sufoco"
+    ]
+  },
+  {
+    "word": "Hialino",
+    "meaning": "Transparente ou vítreo como o vidro.",
+    "sentence": "O céu hialino anunciava um dia ensolarado.",
+    "synonyms": [
+      "transparente",
+      "cristalino",
+      "vítreo"
+    ],
+    "antonyms": [
+      "opaco",
+      "turvo",
+      "embaçado"
+    ]
+  },
+  {
+    "word": "Hipérbole",
+    "meaning": "Exagero proposital na expressão.",
+    "sentence": "Dizer que morreu de rir é uma hipérbole.",
+    "synonyms": [
+      "exagero",
+      "excesso",
+      "amplificação"
+    ],
+    "antonyms": [
+      "atenuação",
+      "subestimação",
+      "moderação"
+    ]
+  },
+  {
+    "word": "Ignóbil",
+    "meaning": "Desprezível, sem nobreza moral.",
+    "sentence": "Seu comportamento ignóbil chocou a todos.",
+    "synonyms": [
+      "desprezível",
+      "vil",
+      "infame"
+    ],
+    "antonyms": [
+      "nobre",
+      "digno",
+      "íntegro"
+    ]
+  },
+  {
+    "word": "Ilibado",
+    "meaning": "Que não sofreu dano; íntegro, puro.",
+    "sentence": "Sua reputação permaneceu ilibada.",
+    "synonyms": [
+      "íntegro",
+      "incorrupto",
+      "puro"
+    ],
+    "antonyms": [
+      "maculado",
+      "corrompido",
+      "manchado"
+    ]
+  },
+  {
+    "word": "Impoluto",
+    "meaning": "Que não foi manchado; puro, limpo.",
+    "sentence": "Manteve o nome impoluto ao longo da carreira.",
+    "synonyms": [
+      "puro",
+      "limpo",
+      "incólume"
+    ],
+    "antonyms": [
+      "sujo",
+      "manchado",
+      "poluído"
+    ]
+  },
+  {
+    "word": "Inaudito",
+    "meaning": "Que não foi ouvido antes; extraordinário.",
+    "sentence": "O feito inaudito entrou para a história.",
+    "synonyms": [
+      "extraordinário",
+      "incrível",
+      "inédito"
+    ],
+    "antonyms": [
+      "comum",
+      "corriqueiro",
+      "banal"
+    ]
+  },
+  {
+    "word": "Indelével",
+    "meaning": "Que não pode ser apagado ou removido.",
+    "sentence": "A experiência deixou marcas indeléveis.",
+    "synonyms": [
+      "indestrutível",
+      "perene",
+      "permanente"
+    ],
+    "antonyms": [
+      "removível",
+      "apagável",
+      "passageiro"
+    ]
+  },
+  {
+    "word": "Indolente",
+    "meaning": "Que sente aversão ao trabalho; preguiçoso.",
+    "sentence": "O funcionário indolente foi demitido.",
+    "synonyms": [
+      "preguiçoso",
+      "ocioso",
+      "vadio"
+    ],
+    "antonyms": [
+      "diligente",
+      "laborioso",
+      "aplicado"
+    ]
+  },
+  {
+    "word": "Intempérie",
+    "meaning": "Mau tempo; mudança brusca no clima.",
+    "sentence": "A intempérie destruiu as plantações.",
+    "synonyms": [
+      "tempestade",
+      "tormenta",
+      "fúria"
+    ],
+    "antonyms": [
+      "bonança",
+      "calmaria",
+      "estabilidade"
+    ]
+  },
+  {
+    "word": "Intrépido",
+    "meaning": "Que não tem medo; corajoso, audaz.",
+    "sentence": "O soldado intrépido liderou o ataque.",
+    "synonyms": [
+      "corajoso",
+      "audaz",
+      "destemido"
+    ],
+    "antonyms": [
+      "medroso",
+      "covarde",
+      "tímido"
+    ]
+  },
+  {
+    "word": "Invulgar",
+    "meaning": "Que foge ao comum; extraordinário.",
+    "sentence": "Possuía uma inteligência invulgar.",
+    "synonyms": [
+      "incomum",
+      "extraordinário",
+      "singular"
+    ],
+    "antonyms": [
+      "comum",
+      "vulgar",
+      "ordinário"
+    ]
+  },
+  {
+    "word": "Janota",
+    "meaning": "Pessoa que se veste com muito apuro.",
+    "sentence": "O janota desfilava seus tênis novos.",
+    "synonyms": [
+      "elegante",
+      "galante",
+      "bem-vestido"
+    ],
+    "antonyms": [
+      "desleixado",
+      "mal-vestido",
+      "descuidado"
+    ]
+  },
+  {
+    "word": "Jazigo",
+    "meaning": "Sepultura; lugar onde algo jaz.",
+    "sentence": "O jazigo da família ficava no cemitério municipal.",
+    "synonyms": [
+      "sepultura",
+      "túmulo",
+      "campa"
+    ],
+    "antonyms": [
+      "berço",
+      "nascimento",
+      "origem"
+    ]
+  },
+  {
+    "word": "Lânguido",
+    "meaning": "Que denota falta de vigor; lento, mole.",
+    "sentence": "Seu olhar lânguido denunciava o cansaço.",
+    "synonyms": [
+      "mole",
+      "lento",
+      "frouxo"
+    ],
+    "antonyms": [
+      "vívido",
+      "enérgico",
+      "vigoroso"
+    ]
+  },
+  {
+    "word": "Lenitivo",
+    "meaning": "Que alivia a dor ou o sofrimento.",
+    "sentence": "Suas palavras foram um lenitivo para a alma.",
+    "synonyms": [
+      "bálsamo",
+      "alívio",
+      "consolo"
+    ],
+    "antonyms": [
+      "agravante",
+      "aflição",
+      "sofrimento"
+    ]
+  },
+  {
+    "word": "Leviano",
+    "meaning": "Que age sem seriedade; irresponsável.",
+    "sentence": "Sua atitude leviana causou prejuízos.",
+    "synonyms": [
+      "irresponsável",
+      "imprudente",
+      "insensato"
+    ],
+    "antonyms": [
+      "responsável",
+      "sério",
+      "prudente"
+    ]
+  },
+  {
+    "word": "Lídimo",
+    "meaning": "Autêntico, verdadeiro, legítimo.",
+    "sentence": "Aquele era o representante lídimo da comunidade.",
+    "synonyms": [
+      "autêntico",
+      "legítimo",
+      "verdadeiro"
+    ],
+    "antonyms": [
+      "falso",
+      "ilegítimo",
+      "espúrio"
+    ]
+  },
+  {
+    "word": "Lisonja",
+    "meaning": "Elogio exagerado com intenção de agradar.",
+    "sentence": "Usou lisonjas para conquistar o chefe.",
+    "synonyms": [
+      "bajulação",
+      "adulação",
+      "lábia"
+    ],
+    "antonyms": [
+      "crítica",
+      "censura",
+      "repreensão"
+    ]
+  },
+  {
+    "word": "Lívido",
+    "meaning": "Muito pálido; da cor do chumbo.",
+    "sentence": "Ficou lívido ao receber a notícia.",
+    "synonyms": [
+      "pálido",
+      "descorado",
+      "exangue"
+    ],
+    "antonyms": [
+      "corado",
+      "rosado",
+      "rubro"
+    ]
+  },
+  {
+    "word": "Longânime",
+    "meaning": "Que tem paciência diante das adversidades.",
+    "sentence": "Foi longânime ao suportar as críticas injustas.",
+    "synonyms": [
+      "paciente",
+      "tolerante",
+      "resignado"
+    ],
+    "antonyms": [
+      "impaciente",
+      "intolerante",
+      "irascível"
+    ]
+  },
+  {
+    "word": "Ludibriar",
+    "meaning": "Enganar com astúcia; iludir.",
+    "sentence": "Tentou ludibriar o sistema, mas foi descoberto.",
+    "synonyms": [
+      "enganar",
+      "iludir",
+      "burlar"
+    ],
+    "antonyms": [
+      "esclarecer",
+      "desiludir",
+      "orientar"
+    ]
+  },
+  {
+    "word": "Mansuetude",
+    "meaning": "Qualidade de quem é manso e pacífico.",
+    "sentence": "Sua mansuetude desarmava os mais agressivos.",
+    "synonyms": [
+      "mansidão",
+      "docilidade",
+      "brandura"
+    ],
+    "antonyms": [
+      "agressividade",
+      "violência",
+      "ferocidade"
+    ]
+  },
+  {
+    "word": "Melindre",
+    "meaning": "Sentimento de suscetibilidade ou vergonha.",
+    "sentence": "Tratou o assunto com melindre para não ofendê-lo.",
+    "synonyms": [
+      "suscetibilidade",
+      "sensibilidade",
+      "pudor"
+    ],
+    "antonyms": [
+      "grosseria",
+      "insensibilidade",
+      "desfaçatez"
+    ]
+  },
+  {
+    "word": "Menoscabar",
+    "meaning": "Desprezar ou tratar com pouco caso.",
+    "sentence": "Menoscabou o esforço da equipe inteira.",
+    "synonyms": [
+      "desprezar",
+      "menosprezar",
+      "subestimar"
+    ],
+    "antonyms": [
+      "valorizar",
+      "prestigiar",
+      "enaltecer"
+    ]
+  },
+  {
+    "word": "Meticuloso",
+    "meaning": "Que age com extrema atenção aos detalhes.",
+    "sentence": "O artesão meticuloso não deixava imperfeições.",
+    "synonyms": [
+      "minucioso",
+      "cuidadoso",
+      "zeloso"
+    ],
+    "antonyms": [
+      "negligente",
+      "desleixado",
+      "relaxado"
+    ]
+  },
+  {
+    "word": "Míngua",
+    "meaning": "Diminuição gradual; escassez.",
+    "sentence": "A míngua de recursos inviabilizou o projeto.",
+    "synonyms": [
+      "escassez",
+      "carência",
+      "falta"
+    ],
+    "antonyms": [
+      "abundância",
+      "fartura",
+      "excesso"
+    ]
+  },
+  {
+    "word": "Mordaz",
+    "meaning": "Que fere com palavras; cáustico.",
+    "sentence": "Sua crítica mordaz magoou os presentes.",
+    "synonyms": [
+      "ácido",
+      "cáustico",
+      "ferino"
+    ],
+    "antonyms": [
+      "suave",
+      "ameno",
+      "cordial"
+    ]
+  },
+  {
+    "word": "Munificência",
+    "meaning": "Generosidade em alto grau; liberalidade.",
+    "sentence": "A munificência do empresário beneficiou centenas.",
+    "synonyms": [
+      "generosidade",
+      "liberalidade",
+      "largueza"
+    ],
+    "antonyms": [
+      "avareza",
+      "mesquinhez",
+      "sovinice"
+    ]
+  },
+  {
+    "word": "Náiade",
+    "meaning": "Ninfa das águas doces na mitologia.",
+    "sentence": "A lenda contava sobre uma náiade no riacho.",
+    "synonyms": [
+      "ninfa",
+      "ondina",
+      "sereia"
+    ],
+    "antonyms": [
+      "monstro",
+      "demônio",
+      "entidade"
+    ]
+  },
+  {
+    "word": "Nomeada",
+    "meaning": "Fama ou reputação; renome.",
+    "sentence": "Ganhou nomeada internacional com sua pesquisa.",
+    "synonyms": [
+      "fama",
+      "renome",
+      "prestígio"
+    ],
+    "antonyms": [
+      "anonimato",
+      "obscuridade",
+      "descrédito"
+    ]
+  },
+  {
+    "word": "Nódoa",
+    "meaning": "Mancha que deslustra; mácula.",
+    "sentence": "A nódoa no vestido não saiu na lavagem.",
+    "synonyms": [
+      "mancha",
+      "mácula",
+      "borrão"
+    ],
+    "antonyms": [
+      "limpeza",
+      "pureza",
+      "higiene"
+    ]
+  },
+  {
+    "word": "Nômada",
+    "meaning": "Que ou quem não tem habitação fixa.",
+    "sentence": "Os povos nômadas atravessavam o deserto.",
+    "synonyms": [
+      "errante",
+      "itinerante",
+      "andante"
+    ],
+    "antonyms": [
+      "sedentário",
+      "fixo",
+      "estável"
+    ]
+  },
+  {
+    "word": "Obediência",
+    "meaning": "Ato de obedecer; submissão à autoridade.",
+    "sentence": "A obediência às regras é obrigatória.",
+    "synonyms": [
+      "submissão",
+      "acatamento",
+      "observância"
+    ],
+    "antonyms": [
+      "desobediência",
+      "rebelião",
+      "insubordinação"
+    ]
+  },
+  {
+    "word": "Oblíquo",
+    "meaning": "Que não é reto nem perpendicular; inclinado.",
+    "sentence": "Seu olhar oblíquo denotava desconfiança.",
+    "synonyms": [
+      "inclinado",
+      "transversal",
+      "diagonal"
+    ],
+    "antonyms": [
+      "reto",
+      "vertical",
+      "horizontal"
+    ]
+  },
+  {
+    "word": "Obtuso",
+    "meaning": "Que não tem ângulo agudo; intelectual limitado.",
+    "sentence": "Seu raciocínio obtuso impedia o progresso.",
+    "synonyms": [
+      "limitado",
+      "lento",
+      "bruto"
+    ],
+    "antonyms": [
+      "aguçado",
+      "afiado",
+      "perspicaz"
+    ]
+  },
+  {
+    "word": "Ojeriza",
+    "meaning": "Sentimento de antipatia ou repulsa.",
+    "sentence": "Tinha ojeriza a mentirosos.",
+    "synonyms": [
+      "antipatia",
+      "repulsa",
+      "aversão"
+    ],
+    "antonyms": [
+      "simpatia",
+      "afeição",
+      "atração"
+    ]
+  },
+  {
+    "word": "Opíparo",
+    "meaning": "Abundante e luxuoso; suntuoso.",
+    "sentence": "O banquete opíparo durou horas.",
+    "synonyms": [
+      "suntuoso",
+      "farto",
+      "laute"
+    ],
+    "antonyms": [
+      "frugal",
+      "modesto",
+      "singelo"
+    ]
+  },
+  {
+    "word": "Oxalá",
+    "meaning": "Tomara que; expressão de desejo.",
+    "sentence": "Oxalá tudo dê certo na viagem.",
+    "synonyms": [
+      "tomara",
+      "quem dera",
+      "queira Deus"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Pachorra",
+    "meaning": "Lentidão calma; paciência exagerada.",
+    "sentence": "Só com muita pachorra para aguentar tanta burocracia.",
+    "synonyms": [
+      "calma",
+      "paciência",
+      "lentidão"
+    ],
+    "antonyms": [
+      "impaciência",
+      "pressa",
+      "ansiedade"
+    ]
+  },
+  {
+    "word": "Pantomima",
+    "meaning": "Representação teatral sem palavras; fingimento.",
+    "sentence": "Aquela discussão foi pura pantomima.",
+    "synonyms": [
+      "mímica",
+      "farsa",
+      "simulação"
+    ],
+    "antonyms": [
+      "sinceridade",
+      "realidade",
+      "verdade"
+    ]
+  },
+  {
+    "word": "Pletora",
+    "meaning": "Excesso ou abundância exagerada.",
+    "sentence": "Havia uma pletora de candidatos para a vaga.",
+    "synonyms": [
+      "excesso",
+      "abundância",
+      "superabundância"
+    ],
+    "antonyms": [
+      "escassez",
+      "falta",
+      "carência"
+    ]
+  },
+  {
+    "word": "Prelúdio",
+    "meaning": "O que antecede e prepara algo.",
+    "sentence": "O aquecimento foi o prelúdio da apresentação.",
+    "synonyms": [
+      "introdução",
+      "abertura",
+      "preâmbulo"
+    ],
+    "antonyms": [
+      "final",
+      "conclusão",
+      "desfecho"
+    ]
+  },
+  {
+    "word": "Prolixo",
+    "meaning": "Que se estende demais ao falar ou escrever.",
+    "sentence": "O palestrante prolixo cansou a plateia.",
+    "synonyms": [
+      "verboso",
+      "difuso",
+      "longo"
+    ],
+    "antonyms": [
+      "conciso",
+      "breve",
+      "sucinto"
+    ]
+  },
+  {
+    "word": "Propensão",
+    "meaning": "Tendência ou inclinação natural.",
+    "sentence": "Tem propensão para as artes desde criança.",
+    "synonyms": [
+      "tendência",
+      "inclinação",
+      "predisposição"
+    ],
+    "antonyms": [
+      "aversão",
+      "repulsa",
+      "resistência"
+    ]
+  },
+  {
+    "word": "Prosaico",
+    "meaning": "Sem poesia ou elevação; comum, banal.",
+    "sentence": "A vida prosaica do subúrbio lhe bastava.",
+    "synonyms": [
+      "comum",
+      "banal",
+      "corriqueiro"
+    ],
+    "antonyms": [
+      "poético",
+      "sublime",
+      "extraordinário"
+    ]
+  },
+  {
+    "word": "Pusilânime",
+    "meaning": "Falto de coragem; medroso, covarde.",
+    "sentence": "Atitude pusilânime não resolve problemas.",
+    "synonyms": [
+      "covarde",
+      "medroso",
+      "fraco"
+    ],
+    "antonyms": [
+      "corajoso",
+      "audaz",
+      "valente"
+    ]
+  },
+  {
+    "word": "Refrega",
+    "meaning": "Luta ou combate violento.",
+    "sentence": "Na refrega, muitos soldados caíram.",
+    "synonyms": [
+      "combate",
+      "batalha",
+      "luta"
+    ],
+    "antonyms": [
+      "trégua",
+      "paz",
+      "armistício"
+    ]
+  },
+  {
+    "word": "Remoque",
+    "meaning": "Crítica indireta e maldosa; alfinetada.",
+    "sentence": "Seus remoques constantes irritavam a todos.",
+    "synonyms": [
+      "alfinetada",
+      "insinuação",
+      "sarcasmo"
+    ],
+    "antonyms": [
+      "elogio",
+      "cumprimento",
+      "louvor"
+    ]
+  },
+  {
+    "word": "Rescindir",
+    "meaning": "Anular ou romper um contrato ou acordo.",
+    "sentence": "Decidiram rescindir o contrato amigavelmente.",
+    "synonyms": [
+      "romper",
+      "anular",
+      "dissolver"
+    ],
+    "antonyms": [
+      "firmar",
+      "estabelecer",
+      "ratificar"
+    ]
+  },
+  {
+    "word": "Resignação",
+    "meaning": "Aceitação serena das adversidades.",
+    "sentence": "Enfrentou a perda com resignação.",
+    "synonyms": [
+      "conformismo",
+      "aceitação",
+      "submissão"
+    ],
+    "antonyms": [
+      "revolta",
+      "protesto",
+      "rebeldia"
+    ]
+  },
+  {
+    "word": "Retórica",
+    "meaning": "Arte de falar bem ou discurso enganoso.",
+    "sentence": "Usou de retórica para convencer o público.",
+    "synonyms": [
+      "oratória",
+      "eloquência",
+      "lábia"
+    ],
+    "antonyms": [
+      "concisão",
+      "objetividade",
+      "praticidade"
+    ]
+  },
+  {
+    "word": "Salso",
+    "meaning": "Travessura ou brincadeira de mau gosto.",
+    "sentence": "O salso do garoto quebrou o vaso.",
+    "synonyms": [
+      "travessura",
+      "arte",
+      "peraltice"
+    ],
+    "antonyms": [
+      "seriedade",
+      "circunspecção",
+      "comedimento"
+    ]
+  },
+  {
+    "word": "Sedento",
+    "meaning": "Que tem sede; ávido, desejoso.",
+    "sentence": "Estava sedento por justiça.",
+    "synonyms": [
+      "ávido",
+      "sequioso",
+      "ansioso"
+    ],
+    "antonyms": [
+      "satisfeito",
+      "saciedade",
+      "farto"
+    ]
+  },
+  {
+    "word": "Sentença",
+    "meaning": "Decisão judicial; frase de sabedoria.",
+    "sentence": "O juiz leu a sentença em voz alta.",
+    "synonyms": [
+      "decisão",
+      "veredito",
+      "julgamento"
+    ],
+    "antonyms": [
+      "impugnação",
+      "recurso",
+      "dúvida"
+    ]
+  },
+  {
+    "word": "Sestrosa",
+    "meaning": "Diz-se de cavalo que dá coices ou que é arisco.",
+    "sentence": "A mula sestrosa empinou e saiu correndo.",
+    "synonyms": [
+      "arisco",
+      "rebelde",
+      "intratável"
+    ],
+    "antonyms": [
+      "dócil",
+      "manso",
+      "obediente"
+    ]
+  },
+  {
+    "word": "Sibila",
+    "meaning": "Profetisa ou mulher que prediz o futuro.",
+    "sentence": "A sibila anunciou tempos de mudança.",
+    "synonyms": [
+      "profetisa",
+      "vidente",
+      "oráculo"
+    ],
+    "antonyms": [
+      "incrédulo",
+      "cético",
+      "descrente"
+    ]
+  },
+  {
+    "word": "Símile",
+    "meaning": "Comparação explícita entre dois elementos.",
+    "sentence": "Usou um símile poético na redação.",
+    "synonyms": [
+      "comparação",
+      "analogia",
+      "metáfora"
+    ],
+    "antonyms": [
+      "diferença",
+      "oposição",
+      "contraposição"
+    ]
+  },
+  {
+    "word": "Sórdido",
+    "meaning": "Muito sujo; imundo; de baixa moralidade.",
+    "sentence": "O ambiente sórdido refletia a decadência moral.",
+    "synonyms": [
+      "imundo",
+      "sujo",
+      "abjeto"
+    ],
+    "antonyms": [
+      "puro",
+      "limpo",
+      "nobre"
+    ]
+  },
+  {
+    "word": "Sublime",
+    "meaning": "De beleza ou grandeza extraordinária.",
+    "sentence": "A vista do topo da montanha era sublime.",
+    "synonyms": [
+      "magnífico",
+      "grandioso",
+      "excelso"
+    ],
+    "antonyms": [
+      "medíocre",
+      "insignificante",
+      "baixo"
+    ]
+  },
+  {
+    "word": "Subterfúgio",
+    "meaning": "Estratagema para escapar de uma situação.",
+    "sentence": "Usou um subterfúgio para não responder.",
+    "synonyms": [
+      "escapula",
+      "desculpa",
+      "pretexto"
+    ],
+    "antonyms": [
+      "enfrentamento",
+      "sinceridade",
+      "franqueza"
+    ]
+  },
+  {
+    "word": "Supino",
+    "meaning": "Deitado de costas; que é extremo ou absoluto.",
+    "sentence": "Era um erro supino de avaliação.",
+    "synonyms": [
+      "absoluto",
+      "extremo",
+      "total"
+    ],
+    "antonyms": [
+      "moderado",
+      "relativo",
+      "parcial"
+    ]
+  },
+  {
+    "word": "Suspicaz",
+    "meaning": "Que desconfia de tudo; inclinado a suspeitar.",
+    "sentence": "Seu olhar suspicaz examinava cada detalhe.",
+    "synonyms": [
+      "desconfiado",
+      "suspeitoso",
+      "cauteloso"
+    ],
+    "antonyms": [
+      "confiante",
+      "crédulo",
+      "ingênuo"
+    ]
+  },
+  {
+    "word": "Tergiversar",
+    "meaning": "Usar evasivas; dar respostas ambíguas.",
+    "sentence": "O político tergiversou ao ser questionado.",
+    "synonyms": [
+      "evadir",
+      "desviar",
+      "escapar"
+    ],
+    "antonyms": [
+      "responder",
+      "esclarecer",
+      "afirmar"
+    ]
+  },
+  {
+    "word": "Topázio",
+    "meaning": "Gema de cor amarela ou alaranjada.",
+    "sentence": "O anel de topázio brilhava no escuro.",
+    "synonyms": [
+      "gema",
+      "pedra",
+      "cristal"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Torpor",
+    "meaning": "Estado de entorpecimento ou letargia.",
+    "sentence": "O calor causava um torpor geral na tarde.",
+    "synonyms": [
+      "entorpecimento",
+      "letargia",
+      "modorra"
+    ],
+    "antonyms": [
+      "vigília",
+      "alerta",
+      "despertar"
+    ]
+  },
+  {
+    "word": "Transigir",
+    "meaning": "Ceder parcialmente em uma negociação.",
+    "sentence": "Precisou transigir para fechar o acordo.",
+    "synonyms": [
+      "ceder",
+      "conceder",
+      "negociar"
+    ],
+    "antonyms": [
+      "insistir",
+      "resistir",
+      "intransigir"
+    ]
+  },
+  {
+    "word": "Transpor",
+    "meaning": "Atravessar ou passar para o outro lado.",
+    "sentence": "Conseguiu transpor a barreira de segurança.",
+    "synonyms": [
+      "atravessar",
+      "ultrapassar",
+      "vencer"
+    ],
+    "antonyms": [
+      "permanecer",
+      "ficar",
+      "estagnar"
+    ]
+  },
+  {
+    "word": "Travessia",
+    "meaning": "Ato de atravessar; viagem pelo mar.",
+    "sentence": "A travessia do oceano levou três semanas.",
+    "synonyms": [
+      "atravessamento",
+      "percurso",
+      "navegação"
+    ],
+    "antonyms": [
+      "permanência",
+      "estadia",
+      "parada"
+    ]
+  },
+  {
+    "word": "Tredor",
+    "meaning": "Que age com falsidade; traiçoeiro.",
+    "sentence": "O amigo tredor revelou seus segredos.",
+    "synonyms": [
+      "traidor",
+      "falso",
+      "pérfido"
+    ],
+    "antonyms": [
+      "leal",
+      "fiel",
+      "sincero"
+    ]
+  },
+  {
+    "word": "Ululante",
+    "meaning": "Que solta uivos ou gemidos.",
+    "sentence": "O vento ululante assustava as crianças.",
+    "synonyms": [
+      "uivante",
+      "lamentoso",
+      "lastimoso"
+    ],
+    "antonyms": [
+      "silencioso",
+      "calmo",
+      "mudo"
+    ]
+  },
+  {
+    "word": "Unção",
+    "meaning": "Ato de ungir; devoção ou fervor religioso.",
+    "sentence": "Falava com unção sobre sua fé.",
+    "synonyms": [
+      "devoção",
+      "fervor",
+      "piedade"
+    ],
+    "antonyms": [
+      "indiferença",
+      "frieza",
+      "ateísmo"
+    ]
+  },
+  {
+    "word": "Vassalo",
+    "meaning": "Súdito que presta homenagem a um senhor.",
+    "sentence": "O vassalo jurou lealdade ao rei.",
+    "synonyms": [
+      "súdito",
+      "servo",
+      "subordinado"
+    ],
+    "antonyms": [
+      "senhor",
+      "soberano",
+      "amo"
+    ]
+  },
+  {
+    "word": "Vênia",
+    "meaning": "Licença ou permissão; reverência.",
+    "sentence": "Com sua vênia, darei início à cerimônia.",
+    "synonyms": [
+      "permissão",
+      "licença",
+      "autorização"
+    ],
+    "antonyms": [
+      "proibição",
+      "veto",
+      "interdição"
+    ]
+  },
+  {
+    "word": "Veraz",
+    "meaning": "Que diz a verdade; verdadeiro.",
+    "sentence": "Era um homem veraz e íntegro.",
+    "synonyms": [
+      "verdadeiro",
+      "sincero",
+      "honesto"
+    ],
+    "antonyms": [
+      "mentiroso",
+      "falso",
+      "desonesto"
+    ]
+  },
+  {
+    "word": "Verboso",
+    "meaning": "Que usa muitas palavras; prolixo.",
+    "sentence": "O texto verboso cansava o leitor.",
+    "synonyms": [
+      "prolixo",
+      "difuso",
+      "redundante"
+    ],
+    "antonyms": [
+      "conciso",
+      "objetivo",
+      "sucinto"
+    ]
+  },
+  {
+    "word": "Vergasta",
+    "meaning": "Açoite ou golpe com vara flexível.",
+    "sentence": "A vergasta do destino o atingiu sem piedade.",
+    "synonyms": [
+      "açoite",
+      "chicote",
+      "flagelo"
+    ],
+    "antonyms": [
+      "carícia",
+      "afago",
+      "cuidado"
+    ]
+  },
+  {
+    "word": "Vitupério",
+    "meaning": "Ofensa grave; injúria, insulto.",
+    "sentence": "Foi alvo de vitupérios na reunião.",
+    "synonyms": [
+      "injúria",
+      "insulto",
+      "ofensa"
+    ],
+    "antonyms": [
+      "elogio",
+      "louvor",
+      "honra"
+    ]
+  },
+  {
+    "word": "Volúpia",
+    "meaning": "Prazer intenso, especialmente sensual.",
+    "sentence": "Entregava-se à volúpia da dança.",
+    "synonyms": [
+      "prazer",
+      "deleite",
+      "sensualidade"
+    ],
+    "antonyms": [
+      "castidade",
+      "pudor",
+      "austeridade"
+    ]
+  },
+  {
+    "word": "Zeloso",
+    "meaning": "Que age com zelo e dedicação.",
+    "sentence": "O funcionário zeloso cuidava de cada detalhe.",
+    "synonyms": [
+      "dedicado",
+      "cuidadoso",
+      "diligente"
+    ],
+    "antonyms": [
+      "negligente",
+      "desleixado",
+      "relaxado"
+    ]
   }
 ]
