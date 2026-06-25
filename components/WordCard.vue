@@ -124,7 +124,7 @@ async function handleShare() {
     </div>
 
     <div
-      class="flex w-full justify-center items-center gap-6 absolute bottom-26 left-0 right-0 z-1"
+      class="flex w-full justify-center items-center gap-6 absolute bottom-27 left-0 right-0 z-1"
     >
       <Button @click="handleShare"> <IoOutlineShare class="size-7 scale-90" /> </Button>
       <Button @click="handleSave">

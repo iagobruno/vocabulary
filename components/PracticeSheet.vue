@@ -21,13 +21,13 @@ interface Question {
 }
 
 const state = reactive({
-  questions: [] as Question[],
-  currentIndex: 0,
-  selectedIndex: null as number | null,
-  insufficientData: false,
-  correctCount: 0,
   started: false,
   finished: false,
+  questions: [] as Question[],
+  insufficientData: false,
+  correctCount: 0,
+  currentIndex: 0,
+  selectedIndex: null as number | null,
 });
 
 const currentQuestion = computed(() => state.questions[state.currentIndex]);
@@ -149,23 +149,25 @@ function restart() {
       v-else-if="state.finished"
       class="px-6 text-center h-full flex flex-col items-center justify-center"
     >
-      <p class="text-xl text-white font-medium mb-2">
+      <p class="text-white font-medium mb-2" :class="scorePercent >= 70 ? 'text-3xl' : 'text-xl'">
         {{ scorePercent >= 70 ? 'Parabéns!' : 'Continue praticando...' }}
       </p>
-      <p class="text-gray-300 text-sm">
+      <p class="text-gray-300 text-sm mt-8 mb-2">
         Você acertou {{ state.correctCount }} de {{ state.questions.length }}
       </p>
 
       <div
-        class="text-7xl font-bold mb-4 mt-8"
+        class="text-7xl font-bold"
         :class="scorePercent >= 70 ? 'text-green-400' : scorePercent >= 50 ? 'text-yellow-400' : 'text-red-400'"
       >
         {{ scorePercent }}%
       </div>
 
-      <div v-if="scorePercent < 70" class="text-center text-xs">
-        <p class="text-gray-400/90 text-xs">Você precisa de pelo menos <br />70% para passar.</p>
-        <Button @click="restart" class="mt-20 bg-white! text-black text-lg py-3 px-8!">
+      <div v-if="scorePercent < 70" class="mt-20 text-center text-xs">
+        <p class="text-gray-400/90 text-xs mb-4">
+          Você precisa de pelo menos <br />70% para passar.
+        </p>
+        <Button @click="restart" class="bg-white! text-black text-lg py-3 px-8!">
           Recomeçar
         </Button>
       </div>

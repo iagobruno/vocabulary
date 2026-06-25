@@ -1,57 +1,9 @@
 [
   {
-    "background": "#111111",
+    "background": "/images/aron-visuals-LSFuPFE9vKE-unsplash.jpg",
     "font": "Lora",
     "fontSize": "2.25rem",
-    "fontColor": "#ffffff"
-  },
-  {
-    "background": "#1a1a2e",
-    "font": "Georgia",
-    "fontSize": "2.25rem",
-    "fontColor": "#e0e0e0"
-  },
-  {
-    "background": "#0d2818",
-    "font": "Courier New",
-    "fontSize": "2.25rem",
-    "fontColor": "#a0d2a0"
-  },
-  {
-    "background": "#2a1a0a",
-    "font": "Garamond",
-    "fontSize": "2.25rem",
-    "fontColor": "#ffd7a0"
-  },
-  {
-    "background": "#0a1628",
-    "font": "Helvetica",
-    "fontSize": "2.25rem",
-    "fontColor": "#8ab4f8"
-  },
-  {
-    "background": "#2a0a1a",
-    "font": "Times New Roman",
-    "fontSize": "2.25rem",
-    "fontColor": "#f8a0b4"
-  },
-  {
-    "background": "#4a1a0a",
-    "font": "Trebuchet MS",
-    "fontSize": "2.25rem",
-    "fontColor": "#ffcc80"
-  },
-  {
-    "background": "#2d2d2d",
-    "font": "Arial",
-    "fontSize": "2.25rem",
-    "fontColor": "#e0e0e0"
-  },
-  {
-    "background": "#0a2a1a",
-    "font": "Segoe UI",
-    "fontSize": "2.25rem",
-    "fontColor": "#80d0a0"
+    "fontColor": "#faf3e0"
   },
   {
     "background": "/images/bg-cachu.jpg",
@@ -70,12 +22,6 @@
     "font": "Roboto",
     "fontSize": "2.25rem",
     "fontColor": "#e8e0d8"
-  },
-  {
-    "background": "/images/aron-visuals-LSFuPFE9vKE-unsplash.jpg",
-    "font": "Open Sans",
-    "fontSize": "2.25rem",
-    "fontColor": "#faf3e0"
   },
   {
     "background": "/images/benjamin-deyoung-lTZffd_tOnM-unsplash.jpg",
@@ -286,5 +232,59 @@
     "font": "Instrument Serif",
     "fontSize": "3rem",
     "fontColor": "#faf0e0"
+  },
+  {
+    "background": "#111111",
+    "font": "Lora",
+    "fontSize": "2.25rem",
+    "fontColor": "#ffffff"
+  },
+  {
+    "background": "#1a1a2e",
+    "font": "Georgia",
+    "fontSize": "2.25rem",
+    "fontColor": "#e0e0e0"
+  },
+  {
+    "background": "#0d2818",
+    "font": "Courier New",
+    "fontSize": "2.25rem",
+    "fontColor": "#a0d2a0"
+  },
+  {
+    "background": "#2a1a0a",
+    "font": "Garamond",
+    "fontSize": "2.25rem",
+    "fontColor": "#ffd7a0"
+  },
+  {
+    "background": "#0a1628",
+    "font": "Helvetica",
+    "fontSize": "2.25rem",
+    "fontColor": "#8ab4f8"
+  },
+  {
+    "background": "#2a0a1a",
+    "font": "Times New Roman",
+    "fontSize": "2.25rem",
+    "fontColor": "#f8a0b4"
+  },
+  {
+    "background": "#4a1a0a",
+    "font": "Trebuchet MS",
+    "fontSize": "2.25rem",
+    "fontColor": "#ffcc80"
+  },
+  {
+    "background": "#2d2d2d",
+    "font": "Arial",
+    "fontSize": "2.25rem",
+    "fontColor": "#e0e0e0"
+  },
+  {
+    "background": "#0a2a1a",
+    "font": "Segoe UI",
+    "fontSize": "2.25rem",
+    "fontColor": "#80d0a0"
   }
 ]

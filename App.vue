@@ -6,6 +6,7 @@ import { useThemeStore } from './stores/theme.ts';
 import WordFeed from './components/WordFeed.vue';
 import FeedTopActions from './components/FeedTopActions.vue';
 import FeedBottomActions from './components/FeedBottomActions.vue';
+import WelcomeSheet from './components/WelcomeSheet.vue';
 import { isColor } from './lib/utils.ts';
 
 const themeStore = useThemeStore();
@@ -103,4 +104,6 @@ provide('triggerSaveFlash', triggerSaveFlash);
   </div>
 
   <FeedBottomActions />
+
+  <WelcomeSheet />
 </template>

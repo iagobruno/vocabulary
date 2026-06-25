@@ -3,7 +3,7 @@ import { BsX as CloseIcon } from '@kalimahapps/vue-icons/bs';
 import { twMerge } from 'tailwind-merge';
 import Button from './Button.vue';
 
-const props = defineProps<{ show: boolean; modalClass?: string }>();
+const props = defineProps<{ show: boolean; modalClass?: string; hideClose?: boolean }>();
 const emit = defineEmits<{ close: [] }>();
 </script>
 
@@ -21,6 +21,7 @@ const emit = defineEmits<{ close: [] }>();
           :class="twMerge('sheet-panel relative w-full max-h-[85dvh] bg-zinc-900 rounded-t-2xl overflow-clip', props.modalClass)"
         >
           <Button
+            v-if="!hideClose"
             class="absolute top-4 right-3 p-1 opacity-80 z-10 transition-all cursor-pointer hover:opacity-100 active:scale-80"
             @click="emit('close')"
           >

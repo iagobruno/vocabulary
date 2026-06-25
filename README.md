@@ -22,9 +22,9 @@ Um web app para aprender novas palavras em formato de feed vertical, similar ao 
 - ✅️ 🎨 Temas customizáveis
 - ✅️ 🖼️ Compartilhar palavras
 - ✅️ 🎓 Exercícios de prática e revisão
-- [ ] 🏷️ Seguir tópicos e categorias de palavras
 - ✅️ 📲 Instalar web app na homescreen
-- ✅️ ⚡️ Funcionamente Off-line (Android e Chrome apenas)
+- ✅️ ⚡️ Funcionamento Off-line!
+- [ ] 🏷️ Seguir tópicos e categorias de palavras
 - [ ] 🌐 Internacionalização
 
 ## Iniciar localmente
