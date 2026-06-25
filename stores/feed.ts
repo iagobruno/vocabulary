@@ -15,6 +15,7 @@ export interface Word {
 export const useWordsStore = defineStore('words', () => {
   const viewedWords = useLocalStorageSet('words_viewed');
   const savedWords = useLocalStorageSet('words_saved');
+  const viewedWordsSession = ref(new Set<string>());
 
   const remainingWords = ref<Word[]>(
     shuffle(wordsData as Word[]).filter((w) => !viewedWords.value.has(w.word)),
@@ -30,6 +31,9 @@ export const useWordsStore = defineStore('words', () => {
   function markAsViewed(word: string) {
     if (!viewedWords.value.has(word)) {
       viewedWords.value = new Set([...viewedWords.value, word]);
+    }
+    if (!viewedWordsSession.value.has(word)) {
+      viewedWordsSession.value.add(word);
     }
   }
 
@@ -49,6 +53,8 @@ export const useWordsStore = defineStore('words', () => {
 
   return {
     remainingWords,
+    viewedWords,
+    viewedWordsSession,
     totalSeen,
     totalWords,
     savedWordsList,

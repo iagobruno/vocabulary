@@ -1,7 +1,9 @@
 <script setup lang="ts">
 import { BsX as CloseIcon } from '@kalimahapps/vue-icons/bs';
+import { twMerge } from 'tailwind-merge';
+import Button from './Button.vue';
 
-defineProps<{ show: boolean }>();
+const props = defineProps<{ show: boolean; modalClass?: string }>();
 const emit = defineEmits<{ close: [] }>();
 </script>
 
@@ -15,21 +17,25 @@ const emit = defineEmits<{ close: [] }>();
         <div class="backdrop absolute inset-0 bg-black/60" @click="emit('close')"></div>
 
         <div
-          class="sheet-panel relative w-full max-h-[85dvh] bg-zinc-900 rounded-t-2xl overflow-y-auto scrollbar-thin scheme-dark"
+          class=""
+          :class="twMerge('sheet-panel relative w-full max-h-[85dvh] bg-zinc-900 rounded-t-2xl overflow-clip', props.modalClass)"
         >
-          <button
-            type="button"
-            class="absolute top-4 right-3 opacity-80 z-100 transition-all cursor-pointer hover:opacity-100 active:scale-80 "
+          <Button
+            class="absolute top-4 right-3 p-1 opacity-80 z-10 transition-all cursor-pointer hover:opacity-100 active:scale-80"
             @click="emit('close')"
           >
-            <CloseIcon class="size-8" />
-          </button>
+            <CloseIcon class="size-7.5" />
+          </Button>
 
-          <div class="flex items-center justify-between pt-8 pb-0 pl-5 pr-12">
+          <div v-if="$slots.header" class="flex items-center justify-between pt-8 pb-0 pl-5 pr-14">
             <slot name="header"> </slot>
           </div>
 
-          <slot />
+          <div
+            class="sheet-content size-full max-h-[inherit] relative overflow-auto scrollbar-thin overscroll-contain scheme-dark"
+          >
+            <slot />
+          </div>
         </div>
       </div>
     </Transition>

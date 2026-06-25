@@ -59,7 +59,7 @@ function onActiveIndexChange(swiper: any) {
     </Swiper>
     <AkChevronDown
       v-if="store.remainingWords.length > 1"
-      class="absolute bottom-1.5 left-1/2 -translate-x-1/2 size-5.5 text-white/45 animate-bounce [animation-duration:1.6s]"
+      class="absolute bottom-1 left-1/2 -translate-x-1/2 size-5 text-white/45 animate-bounce [animation-duration:1.6s]"
     />
   </template>
 </template>

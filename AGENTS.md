@@ -28,10 +28,11 @@ Exemplo de uso:
 ```vue
 <script setup lang="ts">
 import { BsCollection as CollectionIcon } from '@kalimahapps/vue-icons'
+import Button from './Button.vue';
 </script>
 <template>
 
-<IconButton @click="action">
+<Button @click="action">
   <CollectionIcon class="size-4.5" />
-</IconButton>
+</Button>
 </template>

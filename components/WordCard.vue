@@ -7,7 +7,7 @@ import type { Word } from '../stores/feed.ts';
 import { useWordsStore } from '../stores/feed.ts';
 import { useThemeStore } from '../stores/theme.ts';
 import { generateSharableImage } from '../lib/generateSharableImage.ts';
-import IconButton from './IconButton.vue';
+import Button from './Button.vue';
 
 const props = defineProps<{ word: Word }>();
 
@@ -86,14 +86,14 @@ async function handleShare() {
         >
           {{ word.word }}
         </h2>
-        <IconButton
+        <Button
           v-if="hasSpeechSupport"
           class="text-[1em] p-2! opacity-60 mt-0.5 ml-2.5 absolute left-full top-2/4 -translate-y-2/4"
           :class="speaking ? 'text-sky-500! opacity-100!' : 'hover:opacity-100'"
           @click="speak"
         >
           <SoundHighIcon class="size-3.5 transition-colors" />
-        </IconButton>
+        </Button>
       </div>
       <p class="max-w-md text-base leading-relaxed text-gray-300">{{ word.meaning }}</p>
       <p class="max-w-md text-sm italic leading-relaxed text-gray-300">"{{ word.sentence }}"</p>
@@ -124,13 +124,13 @@ async function handleShare() {
     </div>
 
     <div
-      class="flex w-full justify-center items-center gap-6 absolute bottom-13 left-0 right-0 z-1"
+      class="flex w-full justify-center items-center gap-6 absolute bottom-26 left-0 right-0 z-1"
     >
-      <IconButton @click="handleShare"> <IoOutlineShare class="size-7 scale-90" /> </IconButton>
-      <IconButton @click="handleSave">
+      <Button @click="handleShare"> <IoOutlineShare class="size-7 scale-90" /> </Button>
+      <Button @click="handleSave">
         <BsBookmarkFill v-if="store.isSaved(word.word)" class="size-7 scale-90" />
         <BsBookmark v-else class="size-7 scale-90" />
-      </IconButton>
+      </Button>
     </div>
   </div>
 </template>

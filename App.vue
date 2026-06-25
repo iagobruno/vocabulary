@@ -5,9 +5,9 @@ import { useWordsStore } from './stores/feed.ts';
 import { useThemeStore } from './stores/theme.ts';
 import WordFeed from './components/WordFeed.vue';
 import FeedTopActions from './components/FeedTopActions.vue';
+import FeedBottomActions from './components/FeedBottomActions.vue';
 import { isColor } from './lib/utils.ts';
 
-const store = useWordsStore();
 const themeStore = useThemeStore();
 const containerRef = ref<HTMLElement | null>(null);
 
@@ -101,4 +101,6 @@ provide('triggerSaveFlash', triggerSaveFlash);
       :style="bgStyle"
     />
   </div>
+
+  <FeedBottomActions />
 </template>
