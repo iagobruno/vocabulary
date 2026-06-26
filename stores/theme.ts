@@ -4,8 +4,6 @@ import { useStorage } from '@vueuse/core';
 import themesData from '../data/themes.json';
 import { afterLast } from '../lib/utils';
 
-const SYSTEM_FONTS = new Set(['serif', 'sans-serif', 'monospace']);
-
 export interface Theme {
   key: string;
   background: string;
@@ -34,19 +32,28 @@ export const useThemeStore = defineStore('theme', () => {
   return { currentThemeKey, currentTheme, themes, setTheme };
 });
 
+const SYSTEM_FONTS = new Set([
+  'serif',
+  'sans-serif',
+  'monospace',
+  'Arial',
+  'Times New Roman',
+  'Courier New',
+]);
+
 function loadAllGoogleFonts() {
-  const families = themesData
+  const fonts = themesData
     .filter((t) => !SYSTEM_FONTS.has(t.font))
     .map((t) => t.font)
     .filter((f, i, arr) => arr.indexOf(f) === i)
-    .map((f) => `family=${encodeURIComponent(f)}`)
+    .map((f) => `family=${f.replaceAll(' ', '+')}`)
     .join('&');
 
-  if (!families) return;
+  if (!fonts) return;
 
   const link = document.createElement('link');
   link.rel = 'stylesheet';
-  link.href = `https://fonts.googleapis.com/css2?${families}&display=swap`;
+  link.href = `https://fonts.googleapis.com/css2?${fonts}&display=swap`;
   document.head.appendChild(link);
 }
 

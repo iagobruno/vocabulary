@@ -1,7 +1,5 @@
 <script setup lang="ts">
 import { ref, computed, provide } from 'vue';
-import { FaHandsClapping } from '@kalimahapps/vue-icons/fa';
-import { useWordsStore } from './stores/feed.ts';
 import { useThemeStore } from './stores/theme.ts';
 import WordFeed from './components/WordFeed.vue';
 import FeedTopActions from './components/FeedTopActions.vue';

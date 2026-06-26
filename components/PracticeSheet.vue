@@ -177,51 +177,54 @@ function restart() {
       </Button>
     </div>
 
-    <Transition v-else-if="currentQuestion" name="slide" mode="out-in">
-      <div :key="state.currentIndex" class="px-6 pt-16">
-        <div class="text-sm text-gray-400 mb-2 text-center">
-          {{ state.currentIndex + 1 }}
-          / {{ state.questions.length }}
-        </div>
+    <div v-else-if="currentQuestion">
+      <h3 class="text-[1.06rem] font-medium text-center opacity-90 pt-6">Hora de praticar</h3>
+      <Transition name="slide" mode="out-in">
+        <div :key="state.currentIndex" class="px-6 pt-14">
+          <div class="text-sm text-gray-400 mb-2 text-center">
+            {{ state.currentIndex + 1 }}
+            / {{ state.questions.length }}
+          </div>
 
-        <p class="text-gray-300 text-center mb-3">O que significa:</p>
+          <p class="opacity-80 text-center mb-3">O que significa:</p>
 
-        <p class="text-4xl font-lora text-center mb-14">{{ currentQuestion.word }}</p>
+          <p class="text-4xl font-lora text-center mb-14">{{ currentQuestion.word }}</p>
 
-        <div class="space-y-4">
-          <button
-            v-for="(opt, i) in currentQuestion.options"
-            :key="i"
-            type="button"
-            class="w-full text-left p-4 rounded-xl border transition-all duration-300 cursor-pointer"
-            :class="
+          <div class="space-y-4">
+            <button
+              v-for="(opt, i) in currentQuestion.options"
+              :key="i"
+              type="button"
+              class="w-full text-left p-4 rounded-xl border transition-all duration-300 cursor-pointer"
+              :class="
               state.selectedIndex !== null
                 ? opt.correct
                   ? 'border-green-500 bg-green-500/20'
                   : i === state.selectedIndex
-                    ? 'border-red-500 bg-red-500/20'
+                    ? 'border-red-500 bg-red-500/20 opacity-50 transition-all duration-1000'
                     : 'border-white/10 opacity-50'
                 : 'border-white/20 hover:border-white/40'
             "
-            @click="selectOption(i)"
-          >
-            {{ opt.text }}
-          </button>
-        </div>
+              @click="selectOption(i)"
+            >
+              {{ opt.text }}
+            </button>
+          </div>
 
-        <div
-          v-if="state.selectedIndex !== null"
-          class="mt-4 text-center text-sm font-medium"
-          :class="
+          <div
+            v-if="state.selectedIndex !== null"
+            class="mt-4 text-center text-sm font-medium"
+            :class="
             currentQuestion.options[state.selectedIndex].correct
               ? 'text-green-400'
               : 'text-red-400'
           "
-        >
-          {{ currentQuestion.options[state.selectedIndex].correct ? 'Correto!' : 'Errado!' }}
+          >
+            {{ currentQuestion.options[state.selectedIndex].correct ? 'Correto!' : 'Errado!' }}
+          </div>
         </div>
-      </div>
-    </Transition>
+      </Transition>
+    </div>
   </ModalSheet>
 </template>
 

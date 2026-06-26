@@ -1,6 +1,8 @@
-# <img src="./public/icon.png" width="40"/> Vocabulary
+# <img src="./public/icon.png" width="36"/> Vocabulary
 
 Um web app para aprender novas palavras em formato de feed vertical, similar ao TikTok.
+
+[![Online Demo](https://img.shields.io/badge/Online-Demo-brightgreen.svg)](https://iagobruno.github.io/gta6-website/)
 
 | Onboarding | Feed | Prática | Sequência |
 |--|--|--|--|
