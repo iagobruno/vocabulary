@@ -1,0 +1,26 @@
+{
+  "short_name": "Vocabulary",
+  "name": "Vocabulary",
+  "description": "Aprenda novas palavras diariamente",
+  "background": "#111111",
+  "display": "standalone",
+  "id": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/images/print.png",
+      "sizes": "1920x1080",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Tela principal do Vocabulary"
+    }
+  ]
+}
