@@ -2,7 +2,25 @@
 
 Um web app para aprender novas palavras em formato de feed vertical, similar ao TikTok.
 
+| Onboarding | Feed | Prática | Sequência |
+|--|--|--|--|
+|![](./public/images/print-onboarding.png)|![](./public/images/print-feed.png)|![](./public/images/print-practice.png)|![](./public/images/print-streak.png)|
+
 ![](./public/images/print.png)
+
+## Funcionalidades
+
+- ✅️ 📚 Feed vertical de palavras com suas definições
+- ✅️ 🔊 Pronúncias
+- ✅️ 💾 Salvar palavras
+- ✅️ 🖼️ Compartilhar palavras como imagem
+- ✅️ 🎨 Temas customizáveis
+- ✅️ 🎓 Exercícios de prática e revisão
+- ✅️ 🗓️ Sequências
+- ✅️ 📲 Instalar web app na homescreen
+- ✅️ ⚡️ Funcionamento Off-line!
+- [ ] 🏷️ Seguir tópicos e categorias de palavras
+- [ ] 🌐 Internacionalização
 
 ## Stack
 
@@ -13,19 +31,6 @@ Um web app para aprender novas palavras em formato de feed vertical, similar ao 
 - Vite
 - Bun
 - Swiper
-
-## Funcionalidades
-
-- ✅️ 📚 Feed vertical de palavras com suas definições
-- ✅️ 🔊 Pronúncias
-- ✅️ 💾 Salvar palavras em uma coleção
-- ✅️ 🎨 Temas customizáveis
-- ✅️ 🖼️ Compartilhar palavras
-- ✅️ 🎓 Exercícios de prática e revisão
-- ✅️ 📲 Instalar web app na homescreen
-- ✅️ ⚡️ Funcionamento Off-line!
-- [ ] 🏷️ Seguir tópicos e categorias de palavras
-- [ ] 🌐 Internacionalização
 
 ## Iniciar localmente
 

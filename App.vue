@@ -7,6 +7,7 @@ import WordFeed from './components/WordFeed.vue';
 import FeedTopActions from './components/FeedTopActions.vue';
 import FeedBottomActions from './components/FeedBottomActions.vue';
 import WelcomeSheet from './components/WelcomeSheet.vue';
+import StreakSheet from './components/StreakSheet.vue';
 import { isColor } from './lib/utils.ts';
 
 const themeStore = useThemeStore();
@@ -91,7 +92,7 @@ provide('triggerSaveFlash', triggerSaveFlash);
       class="absolute z-1 inset-0 bg-cover bg-center scale-110 pointer-events-none"
       :style="bgStyle"
       :class="{
-        'opacity-55': !isColor(themeStore.currentTheme.background),
+        'opacity-50': !isColor(themeStore.currentTheme.background),
       }"
     />
   </div>
@@ -106,4 +107,5 @@ provide('triggerSaveFlash', triggerSaveFlash);
   <FeedBottomActions />
 
   <WelcomeSheet />
+  <StreakSheet />
 </template>

@@ -124,12 +124,14 @@ async function handleShare() {
     </div>
 
     <div
-      class="flex w-full justify-center items-center gap-6 absolute bottom-27 left-0 right-0 z-1"
+      class="flex w-full justify-center items-center gap-6 absolute bottom-26 left-0 right-0 z-1"
     >
-      <Button @click="handleShare"> <IoOutlineShare class="size-7 scale-90" /> </Button>
-      <Button @click="handleSave">
+      <Button @click="handleShare" class="bg-transparent backdrop-blur-none">
+        <IoOutlineShare class="size-8.5 scale-90" />
+      </Button>
+      <Button @click="handleSave" class="bg-transparent backdrop-blur-none">
         <BsBookmarkFill v-if="store.isSaved(word.word)" class="size-7 scale-90" />
-        <BsBookmark v-else class="size-7 scale-90" />
+        <BsBookmark v-else class="size-7.5 scale-90" />
       </Button>
     </div>
   </div>
