@@ -5,14 +5,12 @@ import { IoOutlineShare } from '@kalimahapps/vue-icons/io';
 import { IcSolidSoundHigh as SoundHighIcon } from '@kalimahapps/vue-icons/ic';
 import type { Word } from '../stores/feed.ts';
 import { useWordsStore } from '../stores/feed.ts';
-import { useThemeStore } from '../stores/theme.ts';
 import { generateSharableImage } from '../lib/generateSharableImage.ts';
 import Button from './Button.vue';
 
 const props = defineProps<{ word: Word }>();
 
 const store = useWordsStore();
-const themeStore = useThemeStore();
 const triggerSaveFlash = inject<(() => void) | undefined>('triggerSaveFlash');
 
 function handleSave() {
@@ -76,16 +74,7 @@ async function handleShare() {
   <div class="flex h-dvh flex-col items-center justify-center gap-4 px-5 relative">
     <div class="text-center flex flex-col items-center justify-center gap-4 text-shadow-lg">
       <div class="relative w-fit">
-        <h2
-          class="text-4xl"
-          :style="{
-            fontFamily: `${themeStore.currentTheme.font}, Lora, Inter, serif`,
-            fontSize: themeStore.currentTheme.fontSize,
-            color: themeStore.currentTheme.fontColor,
-          }"
-        >
-          {{ word.word }}
-        </h2>
+        <h2 class="text-4xl font-lora">{{ word.word }}</h2>
         <Button
           v-if="hasSpeechSupport"
           class="text-[1em] p-2! opacity-60 mt-0.5 ml-2.5 absolute left-full top-2/4 -translate-y-2/4"

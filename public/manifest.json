@@ -8,7 +8,7 @@
   "start_url": "/",
   "icons": [
     {
-      "src": "/icon.png",
+      "src": "/vocabulary/icon.png",
       "sizes": "any",
       "type": "image/png",
       "purpose": "any"
@@ -16,7 +16,7 @@
   ],
   "screenshots": [
     {
-      "src": "/images/print.png",
+      "src": "/vocabulary/images/print.png",
       "sizes": "1920x1080",
       "type": "image/png",
       "form_factor": "wide",

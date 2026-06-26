@@ -2,7 +2,7 @@
 
 Um web app para aprender novas palavras em formato de feed vertical, similar ao TikTok.
 
-[![Online Demo](https://img.shields.io/badge/Online-Demo-brightgreen.svg)](https://iagobruno.github.io/gta6-website/)
+[![Online Demo](https://img.shields.io/badge/Online-Demo-brightgreen.svg)](https://iagobruno.github.io/vocabulary/)
 
 | Onboarding | Feed | Prática | Sequência |
 |--|--|--|--|

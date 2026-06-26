@@ -132,7 +132,7 @@ function restart() {
       class="px-6 text-center h-full flex flex-col items-center justify-center"
     >
       <PracticeIcon class="size-16 mb-6 text-white/80" />
-      <h2 class="text-4xl font-lora font-bold mb-4">Hora de praticar</h2>
+      <h2 class="text-4xl font-lora font-medium mb-4">Hora de praticar</h2>
       <p class="text-gray-300 text-sm/6 max-w-xs">
         Reveja as 10 palavras que você acabou de ver para fixá-las na memória.
       </p>

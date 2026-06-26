@@ -30,7 +30,7 @@ function install() {
   const AddToHomeScreenInstance = window.AddToHomeScreen({
     appName: 'Vocabulary',
     appNameDisplay: 'standalone',
-    appIconUrl: '/icon.png',
+    appIconUrl: import.meta.env.BASE_URL + 'icon.png',
     assetUrl: 'https://cdn.jsdelivr.net/npm/pwa-add-to-homescreen@4.1.0/dist/assets/img/',
     maxModalDisplayCount: -1,
     displayOptions: { showMobile: true, showDesktop: true },

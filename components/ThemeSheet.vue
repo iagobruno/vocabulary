@@ -50,10 +50,7 @@ function selectTheme(key: string) {
         }"
         @click="selectTheme(theme.key)"
       >
-        <span
-          class="text-[2.2rem] font-normal text-shadow-lg pointer-events-none"
-          :style="{ fontFamily: theme.font, color: theme.fontColor }"
-        >
+        <span class="text-[2.2rem] font-lora font-normal text-shadow-lg pointer-events-none">
           Aa
         </span>
       </button>

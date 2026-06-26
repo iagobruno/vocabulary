@@ -20,3 +20,13 @@ export function afterLast(char: string, value: string) {
 
   return value.slice(index + char.length);
 }
+
+export function afterFirst(char: string, value: string) {
+  const index = value.indexOf(char);
+
+  if (index === -1) {
+    return value;
+  }
+
+  return value.slice(index + char.length);
+}

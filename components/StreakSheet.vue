@@ -31,7 +31,7 @@ async function close() {
   <ModalSheet :show="show" @close="close" hide-close>
     <div class="flex flex-col items-center justify-between px-8 pt-8 min-h-[55dvh]">
       <div class="flex flex-col items-center justify-center flex-1 gap-3">
-        <h3 class="text-[1.06rem] font-medium mb-1">Sequência</h3>
+        <h3 class="text-[1.04rem] font-medium mb-1">Sequência</h3>
         <template v-if="streakStore.broken">
           <span class="text-7xl mb-1">😢</span>
           <p class="text-gray-300 text-center leading-relaxed">

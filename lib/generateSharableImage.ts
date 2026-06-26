@@ -19,7 +19,6 @@ export async function generateSharableImage(
   const sentenceSize = wordSize * 0.29;
   const gapBetween = wordSize * 0.45;
   const backgroundDarkOpacity = 0.4; // 1 = 100%
-  const fontFamily = theme.font;
 
   const canvas = document.createElement('canvas');
   canvas.width = width;
@@ -56,7 +55,7 @@ export async function generateSharableImage(
 
   if (document.fonts) {
     await Promise.all([
-      document.fonts.load(`normal 400 ${wordSize}px "${fontFamily}"`).catch(() => {}),
+      document.fonts.load(`normal 400 ${wordSize}px "Lora"`).catch(() => {}),
       document.fonts.load(`normal 400 ${meaningSize}px "Inter"`).catch(() => {}),
       document.fonts.load(`normal 400 ${sentenceSize}px "Inter"`).catch(() => {}),
     ]);
@@ -64,7 +63,7 @@ export async function generateSharableImage(
 
   ctx.textAlign = 'center';
   ctx.textBaseline = 'middle';
-  ctx.fillStyle = theme.fontColor;
+  ctx.fillStyle = '#ffffff';
   ctx.shadowColor = 'rgba(0,0,0,0.15)';
   ctx.shadowBlur = 8;
   ctx.shadowOffsetX = 2;
@@ -74,25 +73,21 @@ export async function generateSharableImage(
   const totalHeight = wordSize + gapBetween + meaningSize * 1.5 + gapBetween + sentenceSize * 1.5;
   const startY = (height - totalHeight) / 2;
 
-  // word
-  ctx.font = `400 ${wordSize}px "${fontFamily}", serif`;
+  ctx.font = `400 ${wordSize}px "Lora", serif`;
   const wordY = startY + wordSize / 2;
   ctx.fillText(word.word, cx, wordY);
 
-  // meaning
   ctx.font = `400 ${meaningSize}px "Inter", sans-serif`;
   const meaningY = wordY + wordSize / 2 + gapBetween;
   const meaningH = wrapText(ctx, word.meaning, cx, meaningY, width * 0.8, meaningSize * 1.5);
 
-  // sentence
   ctx.font = `300 ${sentenceSize}px "Inter", sans-serif`;
   ctx.globalAlpha = 0.7;
   const sentenceY = meaningY + meaningH + gapBetween * 0.6;
   wrapText(ctx, `"${word.sentence}"`, cx, sentenceY, width * 0.75, sentenceSize * 1.5);
   ctx.globalAlpha = 1;
 
-  // icon
-  const icon = await loadImage('/icon.png');
+  const icon = await loadImage(import.meta.env.BASE_URL + 'icon.png');
   const iconSize = width * 0.08;
   const iconX = width - iconSize - width * 0.03;
   const iconY = height - iconSize - height * 0.028;
