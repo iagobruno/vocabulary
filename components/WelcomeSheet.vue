@@ -7,6 +7,12 @@ import { MdRoundInstallMobile as InstallIcon } from '@kalimahapps/vue-icons/md';
 const show = ref(false);
 const showInstallBtn = ref(false);
 onMounted(async () => {
+  const isStandaloneMode = (
+    window.matchMedia('(display-mode: standalone)').matches ||
+    // @ts-ignore
+    window.navigator.standalone === true
+  );
+  
   window.addEventListener(
     'load',
     function () {
@@ -14,7 +20,7 @@ onMounted(async () => {
     },
     { once: true },
   );
-  show.value = !localStorage.getItem('vocabulary_welcomed');
+  show.value = !localStorage.getItem('vocabulary_welcomed') && !isStandaloneMode;
 });
 
 function close() {

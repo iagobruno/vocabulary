@@ -22,7 +22,7 @@ function closePractice() {
 </script>
 
 <template>
-  <div class="fixed bottom-9 left-1/2 -translate-x-1/2 z-40">
+  <div class="fixed bottom-0 left-0 right-0 z-40 pb-safe-or-9 flex justify-center items-center">
     <Button
       @click="openPractice"
       class="px-4 duration-300"

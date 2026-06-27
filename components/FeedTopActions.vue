@@ -15,7 +15,7 @@ const showThemes = ref(false);
 
 <template>
   <div
-    class="flex justify-between items-center absolute top-0 left-0 w-full px-4 pt-3.5 pb-7 z-10 bg-linear-to-b from-black/60 to-transparent"
+    class="flex justify-between items-center absolute top-safe-or-0 left-0 w-full px-4 pt-3.5 pb-7 z-10 bg-linear-to-b from-black/60 to-transparent"
   >
     <Button @click="showThemes = true"> <PaintIcon class="size-6" /> </Button>
 
