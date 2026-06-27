@@ -60,8 +60,8 @@ async function close() {
               >{{ streakStore.streakCount }}</span
             >
           </div>
-          <p class="text-xl mt-1">dias seguidos</p>
-          <p class="text-gray-400 text-xs font-semibold mt-1.5">Continue firme!</p>
+          <p class="text-xl font-medium mt-1">dias seguidos</p>
+          <p class="text-gray-400 text-xs font-medium mt-1.5">Continue firme!</p>
         </div>
       </div>
 
