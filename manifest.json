@@ -4,8 +4,7 @@
   "description": "Aprenda novas palavras diariamente",
   "background": "#111111",
   "display": "standalone",
-  "id": "/",
-  "start_url": "/",
+  "start_url": "/vocabulary/",
   "icons": [
     {
       "src": "/vocabulary/icon.png",
